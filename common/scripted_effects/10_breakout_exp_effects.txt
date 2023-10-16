@@ -60,7 +60,7 @@ production_exp_monthly_check = {
 					}
 					eurika_effect = yes
 				}
-				1000 = { #不发生
+				5000 = { #不发生
 
 				}
 			}

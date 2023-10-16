@@ -4666,6 +4666,7 @@ eurikacheck_line_infantry = {
 			modifier = {
 				if = {
 					limit = {
+						always = yes
 						#OWNER = { has_technology_researched = army_reserves }
 					}
 					add = -100
@@ -6354,7 +6355,7 @@ eurika_sericulture = {
 	save_scope_as = building_scope
 	owner = {
 		add_technology_progress = { 
-			progress = 1000
+			progress = 3000
 			technology =  sericulture
 		}
 		post_notification = eurika_sericulture_notification
@@ -6364,7 +6365,7 @@ eurika_enclosure = {
 	save_scope_as = building_scope
 	owner = {
 		add_technology_progress = { 
-			progress = 1000
+			progress = 3000
 			technology =  enclosure
 		}
 		post_notification = eurika_enclosure_notification
@@ -6374,7 +6375,7 @@ eurika_manufacturies = {
 	save_scope_as = building_scope
 	owner = {
 		add_technology_progress = { 
-			progress = 1000
+			progress = 3000
 			technology =  manufacturies
 		}
 		post_notification = eurika_manufacturies_notification
@@ -6384,7 +6385,7 @@ eurika_standing_army = {
 	save_scope_as = building_scope
 	owner = {
 		add_technology_progress = { 
-			progress = 1000
+			progress = 3000
 			technology =  standing_army
 		}
 		post_notification = eurika_standing_army_notification
@@ -6394,7 +6395,7 @@ eurika_navigation = {
 	save_scope_as = building_scope
 	owner = {
 		add_technology_progress = { 
-			progress = 1000
+			progress = 3000
 			technology =  navigation
 		}
 		post_notification = eurika_navigation_notification
@@ -6404,7 +6405,7 @@ eurika_urbanization = {
 	save_scope_as = building_scope
 	owner = {
 		add_technology_progress = { 
-			progress = 1000
+			progress = 3000
 			technology =  urbanization
 		}
 		post_notification = eurika_urbanization_notification
@@ -6414,7 +6415,7 @@ eurika_rationalism = {
 	save_scope_as = building_scope
 	owner = {
 		add_technology_progress = { 
-			progress = 1000
+			progress = 3000
 			technology =  rationalism
 		}
 		post_notification = eurika_rationalism_notification
@@ -6434,7 +6435,7 @@ eurika_centralization = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  centralization
 		    }
 		    post_notification = eurika_centralization_notification
@@ -6452,7 +6453,7 @@ eurika_international_trade = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  international_trade
 		    }
 		    post_notification = eurika_international_trade_notification
@@ -6470,7 +6471,7 @@ eurika_international_relations = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  international_relations
 		    }
 		    post_notification = eurika_international_relations_notification
@@ -6494,7 +6495,7 @@ eurika_law_enforcement = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  law_enforcement
 		    }
 		    post_notification = eurika_law_enforcement_notification
@@ -6518,7 +6519,7 @@ eurika_shaft_mining = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  shaft_mining
 		    }
 		    post_notification = eurika_shaft_mining_notification
@@ -6537,7 +6538,7 @@ eurika_cotton_gin = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  cotton_gin
 		    }
 		    post_notification = eurika_cotton_gin_notification
@@ -6556,7 +6557,7 @@ eurika_lathe = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  lathe
 		    }
 		    post_notification = eurika_lathe_notification
@@ -6575,7 +6576,7 @@ eurika_distillation = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  distillation
 		    }
 		    post_notification = eurika_distillation_notification
@@ -6594,7 +6595,7 @@ eurika_steelworking = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  steelworking
 		    }
 		    post_notification = eurika_steelworking_notification
@@ -6613,7 +6614,7 @@ eurika_prospecting = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  prospecting
 		    }
 		    post_notification = eurika_prospecting_notification
@@ -6632,7 +6633,7 @@ eurika_crystal_glass = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  crystal_glass
 		    }
 		    post_notification = eurika_crystal_glass_notification
@@ -6651,7 +6652,7 @@ eurika_intensive_agriculture = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  intensive_agriculture
 		    }
 		    post_notification = eurika_intensive_agriculture_notification
@@ -6670,7 +6671,7 @@ eurika_fractional_distillation = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  fractional_distillation
 		    }
 		    post_notification = eurika_fractional_distillation_notification
@@ -6689,7 +6690,7 @@ eurika_canneries = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  canneries
 		    }
 		    post_notification = eurika_canneries_notification
@@ -6708,7 +6709,7 @@ eurika_watertube_boiler = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  watertube_boiler
 		    }
 		    post_notification = eurika_watertube_boiler_notification
@@ -6727,7 +6728,7 @@ eurika_atmospheric_engine = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  atmospheric_engine
 		    }
 		    post_notification = eurika_atmospheric_engine_notification
@@ -6752,7 +6753,7 @@ eurika_railways = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  railways
 		    }
 		    post_notification = eurika_railways_notification
@@ -6771,7 +6772,7 @@ eurika_chemical_bleaching = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  chemical_bleaching
 		    }
 		    post_notification = eurika_chemical_bleaching_notification
@@ -6796,7 +6797,7 @@ eurika_nitroglycerin = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  nitroglycerin
 		    }
 		    post_notification = eurika_nitroglycerin_notification
@@ -6815,7 +6816,7 @@ eurika_bessemer_process = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  bessemer_process
 		    }
 		    post_notification = eurika_bessemer_process_notification
@@ -6834,7 +6835,7 @@ eurika_baking_powder = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  baking_powder
 		    }
 		    post_notification = eurika_baking_powder_notification
@@ -6859,7 +6860,7 @@ eurika_mechanized_workshops = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  mechanized_workshops
 		    }
 		    post_notification = eurika_mechanized_workshops_notification
@@ -6884,7 +6885,7 @@ eurika_mechanical_tools = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  mechanical_tools
 		    }
 		    post_notification = eurika_mechanical_tools_notification
@@ -6903,7 +6904,7 @@ eurika_improved_fertilizer = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  improved_fertilizer
 		    }
 		    post_notification = eurika_improved_fertilizer_notification
@@ -6922,7 +6923,7 @@ eurika_steam_donkey = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  steam_donkey
 		    }
 		    post_notification = eurika_steam_donkey_notification
@@ -6941,7 +6942,7 @@ eurika_dynamite = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  dynamite
 		    }
 		    post_notification = eurika_dynamite_notification
@@ -6966,7 +6967,7 @@ eurika_rubber_mastication = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  rubber_mastication
 		    }
 		    post_notification = eurika_rubber_mastication_notification
@@ -6985,7 +6986,7 @@ eurika_rotary_valve_engine = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  rotary_valve_engine
 		    }
 		    post_notification = eurika_rotary_valve_engine_notification
@@ -7004,7 +7005,7 @@ eurika_reinforced_concrete = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  reinforced_concrete
 		    }
 		    post_notification = eurika_reinforced_concrete_notification
@@ -7023,7 +7024,7 @@ eurika_threshing_machine = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  threshing_machine
 		    }
 		    post_notification = eurika_threshing_machine_notification
@@ -7048,7 +7049,7 @@ eurika_pumpjacks = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  pumpjacks
 		    }
 		    post_notification = eurika_pumpjacks_notification
@@ -7067,7 +7068,7 @@ eurika_aniline = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  aniline
 		    }
 		    post_notification = eurika_aniline_notification
@@ -7086,7 +7087,7 @@ eurika_open_hearth_process = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  open_hearth_process
 		    }
 		    post_notification = eurika_open_hearth_process_notification
@@ -7105,7 +7106,7 @@ eurika_vulcanization = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  vulcanization
 		    }
 		    post_notification = eurika_vulcanization_notification
@@ -7124,7 +7125,7 @@ eurika_vacuum_canning = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  vacuum_canning
 		    }
 		    post_notification = eurika_vacuum_canning_notification
@@ -7143,7 +7144,7 @@ eurika_shift_work = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  shift_work
 		    }
 		    post_notification = eurika_shift_work_notification
@@ -7162,7 +7163,7 @@ eurika_steel_railway_cars = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  steel_railway_cars
 		    }
 		    post_notification = eurika_steel_railway_cars_notification
@@ -7181,7 +7182,7 @@ eurika_electrical_generation = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  electrical_generation
 		    }
 		    post_notification = eurika_electrical_generation_notification
@@ -7200,7 +7201,7 @@ eurika_mechanized_farming = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  mechanized_farming
 		    }
 		    post_notification = eurika_mechanized_farming_notification
@@ -7219,7 +7220,7 @@ eurika_art_silk = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  art_silk
 		    }
 		    post_notification = eurika_art_silk_notification
@@ -7238,7 +7239,7 @@ eurika_automatic_bottle_blowers = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  automatic_bottle_blowers
 		    }
 		    post_notification = eurika_automatic_bottle_blowers_notification
@@ -7269,7 +7270,7 @@ eurika_conveyors = {
         }
 	    else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  conveyors
 		    }
 		    post_notification = eurika_conveyors_notification
@@ -7294,7 +7295,7 @@ eurika_pasteurization = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  pasteurization
 		    }
 		    post_notification = eurika_pasteurization_notification
@@ -7319,7 +7320,7 @@ eurika_electric_railway = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  electric_railway
 		    }
 		    post_notification = eurika_electric_railway_notification
@@ -7338,7 +7339,7 @@ eurika_combustion_engine = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  combustion_engine
 		    }
 		    post_notification = eurika_combustion_engine_notification
@@ -7363,7 +7364,7 @@ eurika_pneumatic_tools = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  pneumatic_tools
 		    }
 		    post_notification = eurika_pneumatic_tools_notification
@@ -7382,7 +7383,7 @@ eurika_nitrogen_fixation = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  nitrogen_fixation
 		    }
 		    post_notification = eurika_nitrogen_fixation_notification
@@ -7401,7 +7402,7 @@ eurika_electric_arc_process = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  electric_arc_process
 		    }
 		    post_notification = eurika_electric_arc_process_notification
@@ -7420,7 +7421,7 @@ eurika_steam_turbine = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  steam_turbine
 		    }
 		    post_notification = eurika_steam_turbine_notification
@@ -7439,7 +7440,7 @@ eurika_plastics = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  plastics
 		    }
 		    post_notification = eurika_plastics_notification
@@ -7458,7 +7459,7 @@ eurika_electrical_capacitors = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  electrical_capacitors
 		    }
 		    post_notification = eurika_electrical_capacitors_notification
@@ -7477,7 +7478,7 @@ eurika_radio = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  radio
 		    }
 		    post_notification = eurika_radio_notification
@@ -7502,7 +7503,7 @@ eurika_telephone = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  telephone
 		    }
 		    post_notification = eurika_telephone_notification
@@ -7521,7 +7522,7 @@ eurika_dough_rollers = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  dough_rollers
 		    }
 		    post_notification = eurika_dough_rollers_notification
@@ -7540,7 +7541,7 @@ eurika_flash_freezing = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  flash_freezing
 		    }
 		    post_notification = eurika_flash_freezing_notification
@@ -7559,7 +7560,7 @@ eurika_oil_turbine = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  oil_turbine
 		    }
 		    post_notification = eurika_oil_turbine_notification
@@ -7584,7 +7585,7 @@ eurika_arc_welding = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  arc_welding
 		    }
 		    post_notification = eurika_arc_welding_notification
@@ -7603,7 +7604,7 @@ eurika_compression_ignition = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  compression_ignition
 		    }
 		    post_notification = eurika_compression_ignition_notification
@@ -7622,7 +7623,7 @@ eurika_drydocks = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  drydocks
 		    }
 		    post_notification = eurika_drydocks_notification
@@ -7641,7 +7642,7 @@ eurika_mandatory_service = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  mandatory_service
 		    }
 		    post_notification = eurika_mandatory_service_notification
@@ -7660,7 +7661,7 @@ eurika_gunsmithing = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  gunsmithing
 		    }
 		    post_notification = eurika_gunsmithing_notification
@@ -7679,7 +7680,7 @@ eurika_artillery = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  artillery
 		    }
 		    post_notification = eurika_artillery_notification
@@ -7698,7 +7699,7 @@ eurika_military_drill = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  military_drill
 		    }
 		    post_notification = eurika_military_drill_notification
@@ -7723,7 +7724,7 @@ eurika_napoleonic_warfare = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  napoleonic_warfare
 		    }
 		    post_notification = eurika_napoleonic_warfare_notification
@@ -7742,7 +7743,7 @@ eurika_admiralty = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  admiralty
 		    }
 		    post_notification = eurika_admiralty_notification
@@ -7761,7 +7762,7 @@ eurika_army_reserves = {
         }
 	 	#else = {
         #    add_technology_progress = { 
-		#        progress = 1000
+		#        progress = 3000
 		#	    technology =  army_reserves
 		#    }
 		#    post_notification = eurika_army_reserves_notification
@@ -7786,7 +7787,7 @@ eurika_line_infantry = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  line_infantry
 		    }
 		    post_notification = eurika_line_infantry_notification
@@ -7805,7 +7806,7 @@ eurika_paddle_steamer = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  paddle_steamer
 		    }
 		    post_notification = eurika_paddle_steamer_notification
@@ -7824,7 +7825,7 @@ eurika_field_works = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  field_works
 		    }
 		    post_notification = eurika_field_works_notification
@@ -7843,13 +7844,14 @@ eurika_logistics = {
         }
 	    else_if = {
             limit =  {
+				always = no
                 #NOT = { has_technology_researched = army_reserves }
             }
             PREV = { eurika_army_reserves = yes }
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  logistics
 		    }
 		    post_notification = eurika_logistics_notification
@@ -7868,7 +7870,7 @@ eurika_triage = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  triage
 		    }
 		    post_notification = eurika_triage_notification
@@ -7887,7 +7889,7 @@ eurika_shell_gun = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  shell_gun
 		    }
 		    post_notification = eurika_shell_gun_notification
@@ -7906,7 +7908,7 @@ eurika_percussion_cap = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  percussion_cap
 		    }
 		    post_notification = eurika_percussion_cap_notification
@@ -7925,7 +7927,7 @@ eurika_rifling = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  rifling
 		    }
 		    post_notification = eurika_rifling_notification
@@ -7938,13 +7940,14 @@ eurika_general_staff = {
 	owner = {
 	    if =  {
             limit =  {
+				always = no
                 #NOT = { has_technology_researched = army_reserves }
             }
             PREV = { eurika_army_reserves = yes }
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  general_staff
 		    }
 		    post_notification = eurika_general_staff_notification
@@ -7963,7 +7966,7 @@ eurika_screw_frigate = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  screw_frigate
 		    }
 		    post_notification = eurika_screw_frigate_notification
@@ -7982,7 +7985,7 @@ eurika_power_of_the_purse = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  power_of_the_purse
 		    }
 		    post_notification = eurika_power_of_the_purse_notification
@@ -8001,7 +8004,7 @@ eurika_hydraulic_cranes = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  hydraulic_cranes
 		    }
 		    post_notification = eurika_hydraulic_cranes_notification
@@ -8020,7 +8023,7 @@ eurika_modern_nursing = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  modern_nursing
 		    }
 		    post_notification = eurika_modern_nursing_notification
@@ -8039,7 +8042,7 @@ eurika_enlistment_offices = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  enlistment_offices
 		    }
 		    post_notification = eurika_enlistment_offices_notification
@@ -8058,7 +8061,7 @@ eurika_electric_telegraph = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  electric_telegraph
 		    }
 		    post_notification = eurika_electric_telegraph_notification
@@ -8083,7 +8086,7 @@ eurika_military_statistics = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  military_statistics
 		    }
 		    post_notification = eurika_military_statistics_notification
@@ -8102,7 +8105,7 @@ eurika_repeaters = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  repeaters
 		    }
 		    post_notification = eurika_repeaters_notification
@@ -8127,7 +8130,7 @@ eurika_breech_loading_artillery = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  breech_loading_artillery
 		    }
 		    post_notification = eurika_breech_loading_artillery_notification
@@ -8152,7 +8155,7 @@ eurika_handcranked_machine_gun = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  handcranked_machine_gun
 		    }
 		    post_notification = eurika_handcranked_machine_gun_notification
@@ -8177,7 +8180,7 @@ eurika_self_propelled_torpedoes = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  self_propelled_torpedoes
 		    }
 		    post_notification = eurika_self_propelled_torpedoes_notification
@@ -8196,7 +8199,7 @@ eurika_monitor_tech = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  monitor_tech
 		    }
 		    post_notification = eurika_monitor_tech_notification
@@ -8215,7 +8218,7 @@ eurika_ironclad_tech = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  ironclad_tech
 		    }
 		    post_notification = eurika_ironclad_tech_notification
@@ -8234,7 +8237,7 @@ eurika_jeune_ecole = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  jeune_ecole
 		    }
 		    post_notification = eurika_jeune_ecole_notification
@@ -8253,7 +8256,7 @@ eurika_floating_harbor = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  floating_harbor
 		    }
 		    post_notification = eurika_floating_harbor_notification
@@ -8272,7 +8275,7 @@ eurika_gantry_cranes = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  gantry_cranes
 		    }
 		    post_notification = eurika_gantry_cranes_notification
@@ -8297,7 +8300,7 @@ eurika_trench_works = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  trench_works
 		    }
 		    post_notification = eurika_trench_works_notification
@@ -8316,7 +8319,7 @@ eurika_war_propaganda = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  war_propaganda
 		    }
 		    post_notification = eurika_war_propaganda_notification
@@ -8335,7 +8338,7 @@ eurika_wargaming = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  wargaming
 		    }
 		    post_notification = eurika_wargaming_notification
@@ -8354,7 +8357,7 @@ eurika_defense_in_depth = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  defense_in_depth
 		    }
 		    post_notification = eurika_defense_in_depth_notification
@@ -8373,7 +8376,7 @@ eurika_bolt_action_rifles = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  bolt_action_rifles
 		    }
 		    post_notification = eurika_bolt_action_rifles_notification
@@ -8398,7 +8401,7 @@ eurika_automatic_machine_guns = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  automatic_machine_guns
 		    }
 		    post_notification = eurika_automatic_machine_guns_notification
@@ -8417,7 +8420,7 @@ eurika_submarine = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  submarine
 		    }
 		    post_notification = eurika_submarine_notification
@@ -8442,7 +8445,7 @@ eurika_destroyer = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  destroyer
 		    }
 		    post_notification = eurika_destroyer_notification
@@ -8467,7 +8470,7 @@ eurika_dreadnought = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  dreadnought
 		    }
 		    post_notification = eurika_dreadnought_notification
@@ -8486,7 +8489,7 @@ eurika_sea_lane_strategies = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  sea_lane_strategies
 		    }
 		    post_notification = eurika_sea_lane_strategies_notification
@@ -8511,7 +8514,7 @@ eurika_landing_craft = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  landing_craft
 		    }
 		    post_notification = eurika_landing_craft_notification
@@ -8530,7 +8533,7 @@ eurika_concrete_dockyards = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  concrete_dockyards
 		    }
 		    post_notification = eurika_concrete_dockyards_notification
@@ -8555,7 +8558,7 @@ eurika_nco_training = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  nco_training
 		    }
 		    post_notification = eurika_nco_training_notification
@@ -8574,7 +8577,7 @@ eurika_chemical_warfare = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  chemical_warfare
 		    }
 		    post_notification = eurika_chemical_warfare_notification
@@ -8599,7 +8602,7 @@ eurika_stormtroopers = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  stormtroopers
 		    }
 		    post_notification = eurika_stormtroopers_notification
@@ -8618,7 +8621,7 @@ eurika_concrete_fortifications = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  concrete_fortifications
 		    }
 		    post_notification = eurika_concrete_fortifications_notification
@@ -8649,7 +8652,7 @@ eurika_mobile_armor = {
         }
 	    else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  mobile_armor
 		    }
 		    post_notification = eurika_mobile_armor_notification
@@ -8668,7 +8671,7 @@ eurika_military_aviation = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  military_aviation
 		    }
 		    post_notification = eurika_military_aviation_notification
@@ -8693,7 +8696,7 @@ eurika_flamethrowers = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  flamethrowers
 		    }
 		    post_notification = eurika_flamethrowers_notification
@@ -8712,7 +8715,7 @@ eurika_carrier_tech = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  carrier_tech
 		    }
 		    post_notification = eurika_carrier_tech_notification
@@ -8731,7 +8734,7 @@ eurika_battleship_tech = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  battleship_tech
 		    }
 		    post_notification = eurika_battleship_tech_notification
@@ -8756,7 +8759,7 @@ eurika_battlefleet_tactics = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  battlefleet_tactics
 		    }
 		    post_notification = eurika_battlefleet_tactics_notification
@@ -8775,7 +8778,7 @@ eurika_urban_planning = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  urban_planning
 		    }
 		    post_notification = eurika_urban_planning_notification
@@ -8794,7 +8797,7 @@ eurika_tech_bureaucracy = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  tech_bureaucracy
 		    }
 		    post_notification = eurika_tech_bureaucracy_notification
@@ -8819,7 +8822,7 @@ eurika_currency_standards = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  currency_standards
 		    }
 		    post_notification = eurika_currency_standards_notification
@@ -8838,7 +8841,7 @@ eurika_democracy = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  democracy
 		    }
 		    post_notification = eurika_democracy_notification
@@ -8857,7 +8860,7 @@ eurika_romanticism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  romanticism
 		    }
 		    post_notification = eurika_romanticism_notification
@@ -8876,7 +8879,7 @@ eurika_banking = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  banking
 		    }
 		    post_notification = eurika_banking_notification
@@ -8895,7 +8898,7 @@ eurika_academia = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  academia
 		    }
 		    post_notification = eurika_academia_notification
@@ -8914,7 +8917,7 @@ eurika_colonization = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  colonization
 		    }
 		    post_notification = eurika_colonization_notification
@@ -8933,7 +8936,7 @@ eurika_stock_exchange = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  stock_exchange
 		    }
 		    post_notification = eurika_stock_exchange_notification
@@ -8952,7 +8955,7 @@ eurika_medical_degrees = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  medical_degrees
 		    }
 		    post_notification = eurika_medical_degrees_notification
@@ -8971,7 +8974,7 @@ eurika_mass_communication = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  mass_communication
 		    }
 		    post_notification = eurika_mass_communication_notification
@@ -8990,7 +8993,7 @@ eurika_empiricism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  empiricism
 		    }
 		    post_notification = eurika_empiricism_notification
@@ -9009,7 +9012,7 @@ eurika_egalitarianism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  egalitarianism
 		    }
 		    post_notification = eurika_egalitarianism_notification
@@ -9028,7 +9031,7 @@ eurika_pharmaceuticals = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  pharmaceuticals
 		    }
 		    post_notification = eurika_pharmaceuticals_notification
@@ -9047,7 +9050,7 @@ eurika_modern_sewerage = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  modern_sewerage
 		    }
 		    post_notification = eurika_modern_sewerage_notification
@@ -9072,7 +9075,7 @@ eurika_quinine = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  quinine
 		    }
 		    post_notification = eurika_quinine_notification
@@ -9091,7 +9094,7 @@ eurika_organized_sports = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  organized_sports
 		    }
 		    post_notification = eurika_organized_sports_notification
@@ -9110,7 +9113,7 @@ eurika_central_archives = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  central_archives
 		    }
 		    post_notification = eurika_central_archives_notification
@@ -9129,7 +9132,7 @@ eurika_central_banking = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  central_banking
 		    }
 		    post_notification = eurika_central_banking_notification
@@ -9148,7 +9151,7 @@ eurika_dialectics = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  dialectics
 		    }
 		    post_notification = eurika_dialectics_notification
@@ -9167,7 +9170,7 @@ eurika_psychiatry = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  psychiatry
 		    }
 		    post_notification = eurika_psychiatry_notification
@@ -9186,7 +9189,7 @@ eurika_realism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  realism
 		    }
 		    post_notification = eurika_realism_notification
@@ -9211,7 +9214,7 @@ eurika_nationalism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  nationalism
 		    }
 		    post_notification = eurika_nationalism_notification
@@ -9236,7 +9239,7 @@ eurika_labor_movement = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  labor_movement
 		    }
 		    post_notification = eurika_labor_movement_notification
@@ -9255,7 +9258,7 @@ eurika_postal_savings = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  postal_savings
 		    }
 		    post_notification = eurika_postal_savings_notification
@@ -9274,7 +9277,7 @@ eurika_human_rights = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  human_rights
 		    }
 		    post_notification = eurika_human_rights_notification
@@ -9293,7 +9296,7 @@ eurika_feminism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  feminism
 		    }
 		    post_notification = eurika_feminism_notification
@@ -9312,7 +9315,7 @@ eurika_steel_frame_buildings = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  steel_frame_buildings
 		    }
 		    post_notification = eurika_steel_frame_buildings_notification
@@ -9337,7 +9340,7 @@ eurika_civilizing_mission = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  civilizing_mission
 		    }
 		    post_notification = eurika_civilizing_mission_notification
@@ -9356,7 +9359,7 @@ eurika_anarchism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  anarchism
 		    }
 		    post_notification = eurika_anarchism_notification
@@ -9381,7 +9384,7 @@ eurika_socialism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  socialism
 		    }
 		    post_notification = eurika_socialism_notification
@@ -9400,7 +9403,7 @@ eurika_pan-nationalism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  pan-nationalism
 		    }
 		    post_notification = eurika_pan-nationalism_notification
@@ -9425,7 +9428,7 @@ eurika_mutual_funds = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  mutual_funds
 		    }
 		    post_notification = eurika_mutual_funds_notification
@@ -9444,7 +9447,7 @@ eurika_camera = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  camera
 		    }
 		    post_notification = eurika_camera_notification
@@ -9463,7 +9466,7 @@ eurika_philosophical_pragmatism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  philosophical_pragmatism
 		    }
 		    post_notification = eurika_philosophical_pragmatism_notification
@@ -9482,7 +9485,7 @@ eurika_identification_documents = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  identification_documents
 		    }
 		    post_notification = eurika_identification_documents_notification
@@ -9501,7 +9504,7 @@ eurika_elevator = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  elevator
 		    }
 		    post_notification = eurika_elevator_notification
@@ -9520,7 +9523,7 @@ eurika_zeppelins = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  zeppelins
 		    }
 		    post_notification = eurika_zeppelins_notification
@@ -9539,7 +9542,7 @@ eurika_malaria_prevention = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  malaria_prevention
 		    }
 		    post_notification = eurika_malaria_prevention_notification
@@ -9558,7 +9561,7 @@ eurika_central_planning = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  central_planning
 		    }
 		    post_notification = eurika_central_planning_notification
@@ -9589,7 +9592,7 @@ eurika_political_agitation = {
         }
 	    else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  political_agitation
 		    }
 		    post_notification = eurika_political_agitation_notification
@@ -9608,7 +9611,7 @@ eurika_international_exchange_standards = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  international_exchange_standards
 		    }
 		    post_notification = eurika_international_exchange_standards_notification
@@ -9627,7 +9630,7 @@ eurika_psychoanalysis = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  psychoanalysis
 		    }
 		    post_notification = eurika_psychoanalysis_notification
@@ -9646,7 +9649,7 @@ eurika_film = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  film
 		    }
 		    post_notification = eurika_film_notification
@@ -9665,7 +9668,7 @@ eurika_multilateral_alliances = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  multilateral_alliances
 		    }
 		    post_notification = eurika_multilateral_alliances_notification
@@ -9684,7 +9687,7 @@ eurika_mass_surveillance = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  mass_surveillance
 		    }
 		    post_notification = eurika_mass_surveillance_notification
@@ -9703,7 +9706,7 @@ eurika_antibiotics = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  antibiotics
 		    }
 		    post_notification = eurika_antibiotics_notification
@@ -9728,7 +9731,7 @@ eurika_mass_propaganda = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  mass_propaganda
 		    }
 		    post_notification = eurika_mass_propaganda_notification
@@ -9747,7 +9750,7 @@ eurika_modern_financial_instruments = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  modern_financial_instruments
 		    }
 		    post_notification = eurika_modern_financial_instruments_notification
@@ -9766,7 +9769,7 @@ eurika_macroeconomics = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  macroeconomics
 		    }
 		    post_notification = eurika_macroeconomics_notification
@@ -9785,7 +9788,7 @@ eurika_behaviorism = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  behaviorism
 		    }
 		    post_notification = eurika_behaviorism_notification
@@ -9804,7 +9807,7 @@ eurika_analytical_philosophy = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  analytical_philosophy
 		    }
 		    post_notification = eurika_analytical_philosophy_notification
@@ -9823,7 +9826,7 @@ eurika_paved_roads = {
         }
 	 	else = {
             add_technology_progress = { 
-		        progress = 1000
+		        progress = 3000
 			    technology =  paved_roads
 		    }
 		    post_notification = eurika_paved_roads_notification
