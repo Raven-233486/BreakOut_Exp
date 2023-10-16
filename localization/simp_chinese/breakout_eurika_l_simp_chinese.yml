@@ -8,893 +8,873 @@
  eurika_notification_tt:"超出上限的[concept_production_exp]会有概率引发[concept_eurika]，从而推进[concept_related_technologies]的发展"
  eurika_notification_tt1:"发生了[concept_eurika]"
  
+ 
  eurika_atmospheric_engine_notification:"[concept_eurika]"
  notification_eurika_atmospheric_engine_notification_name:"[concept_eurika]"
  notification_eurika_atmospheric_engine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_atmospheric_engine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_atmospheric_engine_notification_tooltip:"eurika_notification_tt"
-
+ 
  eurika_sericulture_notification:"[concept_eurika]"
  notification_eurika_sericulture_notification_name:"[concept_eurika]"
- notification_eurika_sericulture_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_sericulture').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_sericulture_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_sericulture').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_sericulture_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_enclosure_notification:"[concept_eurika]"
  notification_eurika_enclosure_notification_name:"[concept_eurika]"
- notification_eurika_enclosure_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_enclosure').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_enclosure_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_enclosure').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_enclosure_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_manufacturies_notification:"[concept_eurika]"
  notification_eurika_manufacturies_notification_name:"[concept_eurika]"
- notification_eurika_manufacturies_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_manufacturies').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_manufacturies_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_manufacturies').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_manufacturies_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_shaft_mining_notification:"[concept_eurika]"
  notification_eurika_shaft_mining_notification_name:"[concept_eurika]"
- notification_eurika_shaft_mining_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_shaft_mining').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_shaft_mining_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_shaft_mining').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_shaft_mining_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_cotton_gin_notification:"[concept_eurika]"
  notification_eurika_cotton_gin_notification_name:"[concept_eurika]"
- notification_eurika_cotton_gin_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_cotton_gin').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_cotton_gin_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_cotton_gin').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_cotton_gin_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_lathe_notification:"[concept_eurika]"
  notification_eurika_lathe_notification_name:"[concept_eurika]"
- notification_eurika_lathe_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_lathe').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_lathe_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_lathe').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_lathe_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_distillation_notification:"[concept_eurika]"
  notification_eurika_distillation_notification_name:"[concept_eurika]"
- notification_eurika_distillation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_distillation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_distillation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_distillation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_distillation_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_steelworking_notification:"[concept_eurika]"
  notification_eurika_steelworking_notification_name:"[concept_eurika]"
- notification_eurika_steelworking_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_steelworking').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_steelworking_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_steelworking').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_steelworking_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_prospecting_notification:"[concept_eurika]"
  notification_eurika_prospecting_notification_name:"[concept_eurika]"
- notification_eurika_prospecting_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_prospecting').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_prospecting_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_prospecting').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_prospecting_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_crystal_glass_notification:"[concept_eurika]"
  notification_eurika_crystal_glass_notification_name:"[concept_eurika]"
- notification_eurika_crystal_glass_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_crystal_glass').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_crystal_glass_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_crystal_glass').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_crystal_glass_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_intensive_agriculture_notification:"[concept_eurika]"
  notification_eurika_intensive_agriculture_notification_name:"[concept_eurika]"
- notification_eurika_intensive_agriculture_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_intensive_agriculture').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_intensive_agriculture_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_intensive_agriculture').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_intensive_agriculture_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_fractional_distillation_notification:"[concept_eurika]"
  notification_eurika_fractional_distillation_notification_name:"[concept_eurika]"
- notification_eurika_fractional_distillation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_fractional_distillation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_fractional_distillation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_fractional_distillation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_fractional_distillation_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_canneries_notification:"[concept_eurika]"
  notification_eurika_canneries_notification_name:"[concept_eurika]"
- notification_eurika_canneries_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_canneries').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_canneries_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_canneries').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_canneries_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_watertube_boiler_notification:"[concept_eurika]"
  notification_eurika_watertube_boiler_notification_name:"[concept_eurika]"
- notification_eurika_watertube_boiler_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_watertube_boiler').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_watertube_boiler_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_watertube_boiler').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_watertube_boiler_notification_tooltip:"eurika_notification_tt"
- eurika_atmospheric_engine_notification:"[concept_eurika]"
- notification_eurika_atmospheric_engine_notification_name:"[concept_eurika]"
- notification_eurika_atmospheric_engine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_atmospheric_engine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
- notification_eurika_atmospheric_engine_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_railways_notification:"[concept_eurika]"
  notification_eurika_railways_notification_name:"[concept_eurika]"
- notification_eurika_railways_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_railways').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_railways_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_railways').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_railways_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_chemical_bleaching_notification:"[concept_eurika]"
  notification_eurika_chemical_bleaching_notification_name:"[concept_eurika]"
- notification_eurika_chemical_bleaching_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_chemical_bleaching').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_chemical_bleaching_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_chemical_bleaching').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_chemical_bleaching_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_nitroglycerin_notification:"[concept_eurika]"
  notification_eurika_nitroglycerin_notification_name:"[concept_eurika]"
- notification_eurika_nitroglycerin_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_nitroglycerin').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_nitroglycerin_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_nitroglycerin').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_nitroglycerin_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_bessemer_process_notification:"[concept_eurika]"
  notification_eurika_bessemer_process_notification_name:"[concept_eurika]"
- notification_eurika_bessemer_process_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_bessemer_process').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_bessemer_process_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_bessemer_process').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_bessemer_process_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_baking_powder_notification:"[concept_eurika]"
  notification_eurika_baking_powder_notification_name:"[concept_eurika]"
- notification_eurika_baking_powder_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_baking_powder').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_baking_powder_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_baking_powder').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_baking_powder_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_mechanized_workshops_notification:"[concept_eurika]"
  notification_eurika_mechanized_workshops_notification_name:"[concept_eurika]"
- notification_eurika_mechanized_workshops_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_mechanized_workshops').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_mechanized_workshops_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_mechanized_workshops').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_mechanized_workshops_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_mechanical_tools_notification:"[concept_eurika]"
  notification_eurika_mechanical_tools_notification_name:"[concept_eurika]"
- notification_eurika_mechanical_tools_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_mechanical_tools').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_mechanical_tools_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_mechanical_tools').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_mechanical_tools_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_improved_fertilizer_notification:"[concept_eurika]"
  notification_eurika_improved_fertilizer_notification_name:"[concept_eurika]"
- notification_eurika_improved_fertilizer_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_improved_fertilizer').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_improved_fertilizer_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_improved_fertilizer').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_improved_fertilizer_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_steam_donkey_notification:"[concept_eurika]"
  notification_eurika_steam_donkey_notification_name:"[concept_eurika]"
- notification_eurika_steam_donkey_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_steam_donkey').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_steam_donkey_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_steam_donkey').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_steam_donkey_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_dynamite_notification:"[concept_eurika]"
  notification_eurika_dynamite_notification_name:"[concept_eurika]"
- notification_eurika_dynamite_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_dynamite').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_dynamite_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_dynamite').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_dynamite_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_rubber_mastication_notification:"[concept_eurika]"
  notification_eurika_rubber_mastication_notification_name:"[concept_eurika]"
- notification_eurika_rubber_mastication_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_rubber_mastication').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_rubber_mastication_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_rubber_mastication').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_rubber_mastication_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_rotary_valve_engine_notification:"[concept_eurika]"
  notification_eurika_rotary_valve_engine_notification_name:"[concept_eurika]"
- notification_eurika_rotary_valve_engine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_rotary_valve_engine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_rotary_valve_engine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_rotary_valve_engine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_rotary_valve_engine_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_reinforced_concrete_notification:"[concept_eurika]"
  notification_eurika_reinforced_concrete_notification_name:"[concept_eurika]"
- notification_eurika_reinforced_concrete_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_reinforced_concrete').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_reinforced_concrete_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_reinforced_concrete').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_reinforced_concrete_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_threshing_machine_notification:"[concept_eurika]"
  notification_eurika_threshing_machine_notification_name:"[concept_eurika]"
- notification_eurika_threshing_machine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_threshing_machine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_threshing_machine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_threshing_machine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_threshing_machine_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_pumpjacks_notification:"[concept_eurika]"
  notification_eurika_pumpjacks_notification_name:"[concept_eurika]"
- notification_eurika_pumpjacks_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_pumpjacks').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_pumpjacks_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_pumpjacks').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_pumpjacks_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_aniline_notification:"[concept_eurika]"
  notification_eurika_aniline_notification_name:"[concept_eurika]"
- notification_eurika_aniline_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_aniline').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_aniline_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_aniline').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_aniline_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_open_hearth_process_notification:"[concept_eurika]"
  notification_eurika_open_hearth_process_notification_name:"[concept_eurika]"
- notification_eurika_open_hearth_process_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_open_hearth_process').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_open_hearth_process_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_open_hearth_process').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_open_hearth_process_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_vulcanization_notification:"[concept_eurika]"
  notification_eurika_vulcanization_notification_name:"[concept_eurika]"
- notification_eurika_vulcanization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_vulcanization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_vulcanization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_vulcanization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_vulcanization_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_vacuum_canning_notification:"[concept_eurika]"
  notification_eurika_vacuum_canning_notification_name:"[concept_eurika]"
- notification_eurika_vacuum_canning_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_vacuum_canning').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_vacuum_canning_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_vacuum_canning').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_vacuum_canning_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_shift_work_notification:"[concept_eurika]"
  notification_eurika_shift_work_notification_name:"[concept_eurika]"
- notification_eurika_shift_work_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_shift_work').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_shift_work_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_shift_work').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_shift_work_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_steel_railway_cars_notification:"[concept_eurika]"
  notification_eurika_steel_railway_cars_notification_name:"[concept_eurika]"
- notification_eurika_steel_railway_cars_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_steel_railway_cars').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_steel_railway_cars_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_steel_railway_cars').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_steel_railway_cars_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_electrical_generation_notification:"[concept_eurika]"
  notification_eurika_electrical_generation_notification_name:"[concept_eurika]"
- notification_eurika_electrical_generation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_electrical_generation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_electrical_generation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_electrical_generation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_electrical_generation_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_mechanized_farming_notification:"[concept_eurika]"
  notification_eurika_mechanized_farming_notification_name:"[concept_eurika]"
- notification_eurika_mechanized_farming_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_mechanized_farming').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_mechanized_farming_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_mechanized_farming').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_mechanized_farming_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_art_silk_notification:"[concept_eurika]"
  notification_eurika_art_silk_notification_name:"[concept_eurika]"
- notification_eurika_art_silk_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_art_silk').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_art_silk_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_art_silk').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_art_silk_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_automatic_bottle_blowers_notification:"[concept_eurika]"
  notification_eurika_automatic_bottle_blowers_notification_name:"[concept_eurika]"
- notification_eurika_automatic_bottle_blowers_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_automatic_bottle_blowers').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_automatic_bottle_blowers_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_automatic_bottle_blowers').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_automatic_bottle_blowers_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_conveyors_notification:"[concept_eurika]"
  notification_eurika_conveyors_notification_name:"[concept_eurika]"
- notification_eurika_conveyors_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_conveyors').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_conveyors_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_conveyors').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_conveyors_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_pasteurization_notification:"[concept_eurika]"
  notification_eurika_pasteurization_notification_name:"[concept_eurika]"
- notification_eurika_pasteurization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_pasteurization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_pasteurization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_pasteurization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_pasteurization_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_electric_railway_notification:"[concept_eurika]"
  notification_eurika_electric_railway_notification_name:"[concept_eurika]"
- notification_eurika_electric_railway_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_electric_railway').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_electric_railway_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_electric_railway').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_electric_railway_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_combustion_engine_notification:"[concept_eurika]"
  notification_eurika_combustion_engine_notification_name:"[concept_eurika]"
- notification_eurika_combustion_engine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_combustion_engine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_combustion_engine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_combustion_engine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_combustion_engine_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_pneumatic_tools_notification:"[concept_eurika]"
  notification_eurika_pneumatic_tools_notification_name:"[concept_eurika]"
- notification_eurika_pneumatic_tools_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_pneumatic_tools').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_pneumatic_tools_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_pneumatic_tools').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_pneumatic_tools_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_nitrogen_fixation_notification:"[concept_eurika]"
  notification_eurika_nitrogen_fixation_notification_name:"[concept_eurika]"
- notification_eurika_nitrogen_fixation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_nitrogen_fixation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_nitrogen_fixation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_nitrogen_fixation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_nitrogen_fixation_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_electric_arc_process_notification:"[concept_eurika]"
  notification_eurika_electric_arc_process_notification_name:"[concept_eurika]"
- notification_eurika_electric_arc_process_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_electric_arc_process').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_electric_arc_process_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_electric_arc_process').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_electric_arc_process_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_steam_turbine_notification:"[concept_eurika]"
  notification_eurika_steam_turbine_notification_name:"[concept_eurika]"
- notification_eurika_steam_turbine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_steam_turbine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_steam_turbine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_steam_turbine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_steam_turbine_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_plastics_notification:"[concept_eurika]"
  notification_eurika_plastics_notification_name:"[concept_eurika]"
- notification_eurika_plastics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_plastics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_plastics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_plastics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_plastics_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_electrical_capacitors_notification:"[concept_eurika]"
  notification_eurika_electrical_capacitors_notification_name:"[concept_eurika]"
- notification_eurika_electrical_capacitors_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_electrical_capacitors').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_electrical_capacitors_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_electrical_capacitors').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_electrical_capacitors_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_radio_notification:"[concept_eurika]"
  notification_eurika_radio_notification_name:"[concept_eurika]"
- notification_eurika_radio_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_radio').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_radio_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_radio').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_radio_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_telephone_notification:"[concept_eurika]"
  notification_eurika_telephone_notification_name:"[concept_eurika]"
- notification_eurika_telephone_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_telephone').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_telephone_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_telephone').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_telephone_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_dough_rollers_notification:"[concept_eurika]"
  notification_eurika_dough_rollers_notification_name:"[concept_eurika]"
- notification_eurika_dough_rollers_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_dough_rollers').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_dough_rollers_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_dough_rollers').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_dough_rollers_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_flash_freezing_notification:"[concept_eurika]"
  notification_eurika_flash_freezing_notification_name:"[concept_eurika]"
- notification_eurika_flash_freezing_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_flash_freezing').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_flash_freezing_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_flash_freezing').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_flash_freezing_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_oil_turbine_notification:"[concept_eurika]"
  notification_eurika_oil_turbine_notification_name:"[concept_eurika]"
- notification_eurika_oil_turbine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_oil_turbine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_oil_turbine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_oil_turbine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_oil_turbine_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_arc_welding_notification:"[concept_eurika]"
  notification_eurika_arc_welding_notification_name:"[concept_eurika]"
- notification_eurika_arc_welding_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_arc_welding').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_arc_welding_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_arc_welding').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_arc_welding_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_compression_ignition_notification:"[concept_eurika]"
  notification_eurika_compression_ignition_notification_name:"[concept_eurika]"
- notification_eurika_compression_ignition_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_compression_ignition').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_compression_ignition_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_compression_ignition').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_compression_ignition_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_standing_army_notification:"[concept_eurika]"
  notification_eurika_standing_army_notification_name:"[concept_eurika]"
- notification_eurika_standing_army_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_standing_army').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_standing_army_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_standing_army').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_standing_army_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_navigation_notification:"[concept_eurika]"
  notification_eurika_navigation_notification_name:"[concept_eurika]"
- notification_eurika_navigation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_navigation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_navigation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_navigation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_navigation_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_drydocks_notification:"[concept_eurika]"
  notification_eurika_drydocks_notification_name:"[concept_eurika]"
- notification_eurika_drydocks_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_drydocks').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_drydocks_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_drydocks').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_drydocks_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_mandatory_service_notification:"[concept_eurika]"
  notification_eurika_mandatory_service_notification_name:"[concept_eurika]"
- notification_eurika_mandatory_service_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_mandatory_service').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_mandatory_service_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_mandatory_service').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_mandatory_service_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_gunsmithing_notification:"[concept_eurika]"
  notification_eurika_gunsmithing_notification_name:"[concept_eurika]"
- notification_eurika_gunsmithing_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_gunsmithing').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_gunsmithing_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_gunsmithing').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_gunsmithing_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_artillery_notification:"[concept_eurika]"
  notification_eurika_artillery_notification_name:"[concept_eurika]"
- notification_eurika_artillery_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_artillery').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_artillery_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_artillery').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_artillery_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_military_drill_notification:"[concept_eurika]"
  notification_eurika_military_drill_notification_name:"[concept_eurika]"
- notification_eurika_military_drill_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_military_drill').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_military_drill_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_military_drill').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_military_drill_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_napoleonic_warfare_notification:"[concept_eurika]"
  notification_eurika_napoleonic_warfare_notification_name:"[concept_eurika]"
- notification_eurika_napoleonic_warfare_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_napoleonic_warfare').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_napoleonic_warfare_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_napoleonic_warfare').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_napoleonic_warfare_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_admiralty_notification:"[concept_eurika]"
  notification_eurika_admiralty_notification_name:"[concept_eurika]"
- notification_eurika_admiralty_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_admiralty').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_admiralty_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_admiralty').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_admiralty_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_army_reserves_notification:"[concept_eurika]"
  notification_eurika_army_reserves_notification_name:"[concept_eurika]"
- notification_eurika_army_reserves_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_army_reserves').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_army_reserves_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_army_reserves').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_army_reserves_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_line_infantry_notification:"[concept_eurika]"
  notification_eurika_line_infantry_notification_name:"[concept_eurika]"
- notification_eurika_line_infantry_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_line_infantry').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_line_infantry_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_line_infantry').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_line_infantry_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_paddle_steamer_notification:"[concept_eurika]"
  notification_eurika_paddle_steamer_notification_name:"[concept_eurika]"
- notification_eurika_paddle_steamer_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_paddle_steamer').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_paddle_steamer_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_paddle_steamer').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_paddle_steamer_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_field_works_notification:"[concept_eurika]"
  notification_eurika_field_works_notification_name:"[concept_eurika]"
- notification_eurika_field_works_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_field_works').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_field_works_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_field_works').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_field_works_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_logistics_notification:"[concept_eurika]"
  notification_eurika_logistics_notification_name:"[concept_eurika]"
- notification_eurika_logistics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_logistics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_logistics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_logistics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_logistics_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_triage_notification:"[concept_eurika]"
  notification_eurika_triage_notification_name:"[concept_eurika]"
- notification_eurika_triage_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_triage').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_triage_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_triage').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_triage_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_shell_gun_notification:"[concept_eurika]"
  notification_eurika_shell_gun_notification_name:"[concept_eurika]"
- notification_eurika_shell_gun_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_shell_gun').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_shell_gun_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_shell_gun').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_shell_gun_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_percussion_cap_notification:"[concept_eurika]"
  notification_eurika_percussion_cap_notification_name:"[concept_eurika]"
- notification_eurika_percussion_cap_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_percussion_cap').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_percussion_cap_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_percussion_cap').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_percussion_cap_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_rifling_notification:"[concept_eurika]"
  notification_eurika_rifling_notification_name:"[concept_eurika]"
- notification_eurika_rifling_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_rifling').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_rifling_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_rifling').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_rifling_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_general_staff_notification:"[concept_eurika]"
  notification_eurika_general_staff_notification_name:"[concept_eurika]"
- notification_eurika_general_staff_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_general_staff').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_general_staff_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_general_staff').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_general_staff_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_screw_frigate_notification:"[concept_eurika]"
  notification_eurika_screw_frigate_notification_name:"[concept_eurika]"
- notification_eurika_screw_frigate_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_screw_frigate').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_screw_frigate_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_screw_frigate').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_screw_frigate_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_power_of_the_purse_notification:"[concept_eurika]"
  notification_eurika_power_of_the_purse_notification_name:"[concept_eurika]"
- notification_eurika_power_of_the_purse_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_power_of_the_purse').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_power_of_the_purse_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_power_of_the_purse').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_power_of_the_purse_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_hydraulic_cranes_notification:"[concept_eurika]"
  notification_eurika_hydraulic_cranes_notification_name:"[concept_eurika]"
- notification_eurika_hydraulic_cranes_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_hydraulic_cranes').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_hydraulic_cranes_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_hydraulic_cranes').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_hydraulic_cranes_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_modern_nursing_notification:"[concept_eurika]"
  notification_eurika_modern_nursing_notification_name:"[concept_eurika]"
- notification_eurika_modern_nursing_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_modern_nursing').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_modern_nursing_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_modern_nursing').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_modern_nursing_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_enlistment_offices_notification:"[concept_eurika]"
  notification_eurika_enlistment_offices_notification_name:"[concept_eurika]"
- notification_eurika_enlistment_offices_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_enlistment_offices').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_enlistment_offices_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_enlistment_offices').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_enlistment_offices_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_electric_telegraph_notification:"[concept_eurika]"
  notification_eurika_electric_telegraph_notification_name:"[concept_eurika]"
- notification_eurika_electric_telegraph_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_electric_telegraph').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_electric_telegraph_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_electric_telegraph').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_electric_telegraph_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_military_statistics_notification:"[concept_eurika]"
  notification_eurika_military_statistics_notification_name:"[concept_eurika]"
- notification_eurika_military_statistics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_military_statistics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_military_statistics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_military_statistics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_military_statistics_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_repeaters_notification:"[concept_eurika]"
  notification_eurika_repeaters_notification_name:"[concept_eurika]"
- notification_eurika_repeaters_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_repeaters').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_repeaters_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_repeaters').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_repeaters_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_breech_loading_artillery_notification:"[concept_eurika]"
  notification_eurika_breech_loading_artillery_notification_name:"[concept_eurika]"
- notification_eurika_breech_loading_artillery_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_breech_loading_artillery').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_breech_loading_artillery_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_breech_loading_artillery').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_breech_loading_artillery_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_handcranked_machine_gun_notification:"[concept_eurika]"
  notification_eurika_handcranked_machine_gun_notification_name:"[concept_eurika]"
- notification_eurika_handcranked_machine_gun_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_handcranked_machine_gun').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_handcranked_machine_gun_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_handcranked_machine_gun').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_handcranked_machine_gun_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_self_propelled_torpedoes_notification:"[concept_eurika]"
  notification_eurika_self_propelled_torpedoes_notification_name:"[concept_eurika]"
- notification_eurika_self_propelled_torpedoes_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_self_propelled_torpedoes').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_self_propelled_torpedoes_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_self_propelled_torpedoes').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_self_propelled_torpedoes_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_monitor_tech_notification:"[concept_eurika]"
  notification_eurika_monitor_tech_notification_name:"[concept_eurika]"
- notification_eurika_monitor_tech_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_monitor_tech').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_monitor_tech_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_monitor_tech').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_monitor_tech_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_ironclad_tech_notification:"[concept_eurika]"
  notification_eurika_ironclad_tech_notification_name:"[concept_eurika]"
- notification_eurika_ironclad_tech_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_ironclad_tech').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_ironclad_tech_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_ironclad_tech').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_ironclad_tech_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_jeune_ecole_notification:"[concept_eurika]"
  notification_eurika_jeune_ecole_notification_name:"[concept_eurika]"
- notification_eurika_jeune_ecole_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_jeune_ecole').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_jeune_ecole_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_jeune_ecole').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_jeune_ecole_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_floating_harbor_notification:"[concept_eurika]"
  notification_eurika_floating_harbor_notification_name:"[concept_eurika]"
- notification_eurika_floating_harbor_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_floating_harbor').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_floating_harbor_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_floating_harbor').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_floating_harbor_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_gantry_cranes_notification:"[concept_eurika]"
  notification_eurika_gantry_cranes_notification_name:"[concept_eurika]"
- notification_eurika_gantry_cranes_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_gantry_cranes').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_gantry_cranes_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_gantry_cranes').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_gantry_cranes_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_trench_works_notification:"[concept_eurika]"
  notification_eurika_trench_works_notification_name:"[concept_eurika]"
- notification_eurika_trench_works_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_trench_works').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_trench_works_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_trench_works').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_trench_works_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_war_propaganda_notification:"[concept_eurika]"
  notification_eurika_war_propaganda_notification_name:"[concept_eurika]"
- notification_eurika_war_propaganda_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_war_propaganda').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_war_propaganda_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_war_propaganda').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_war_propaganda_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_wargaming_notification:"[concept_eurika]"
  notification_eurika_wargaming_notification_name:"[concept_eurika]"
- notification_eurika_wargaming_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_wargaming').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_wargaming_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_wargaming').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_wargaming_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_defense_in_depth_notification:"[concept_eurika]"
  notification_eurika_defense_in_depth_notification_name:"[concept_eurika]"
- notification_eurika_defense_in_depth_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_defense_in_depth').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_defense_in_depth_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_defense_in_depth').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_defense_in_depth_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_bolt_action_rifles_notification:"[concept_eurika]"
  notification_eurika_bolt_action_rifles_notification_name:"[concept_eurika]"
- notification_eurika_bolt_action_rifles_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_bolt_action_rifles').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_bolt_action_rifles_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_bolt_action_rifles').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_bolt_action_rifles_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_automatic_machine_guns_notification:"[concept_eurika]"
  notification_eurika_automatic_machine_guns_notification_name:"[concept_eurika]"
- notification_eurika_automatic_machine_guns_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_automatic_machine_guns').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_automatic_machine_guns_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_automatic_machine_guns').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_automatic_machine_guns_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_submarine_notification:"[concept_eurika]"
  notification_eurika_submarine_notification_name:"[concept_eurika]"
- notification_eurika_submarine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_submarine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_submarine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_submarine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_submarine_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_destroyer_notification:"[concept_eurika]"
  notification_eurika_destroyer_notification_name:"[concept_eurika]"
- notification_eurika_destroyer_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_destroyer').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_destroyer_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_destroyer').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_destroyer_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_dreadnought_notification:"[concept_eurika]"
  notification_eurika_dreadnought_notification_name:"[concept_eurika]"
- notification_eurika_dreadnought_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_dreadnought').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_dreadnought_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_dreadnought').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_dreadnought_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_sea_lane_strategies_notification:"[concept_eurika]"
  notification_eurika_sea_lane_strategies_notification_name:"[concept_eurika]"
- notification_eurika_sea_lane_strategies_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_sea_lane_strategies').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_sea_lane_strategies_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_sea_lane_strategies').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_sea_lane_strategies_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_landing_craft_notification:"[concept_eurika]"
  notification_eurika_landing_craft_notification_name:"[concept_eurika]"
- notification_eurika_landing_craft_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_landing_craft').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_landing_craft_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_landing_craft').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_landing_craft_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_concrete_dockyards_notification:"[concept_eurika]"
  notification_eurika_concrete_dockyards_notification_name:"[concept_eurika]"
- notification_eurika_concrete_dockyards_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_concrete_dockyards').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_concrete_dockyards_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_concrete_dockyards').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_concrete_dockyards_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_nco_training_notification:"[concept_eurika]"
  notification_eurika_nco_training_notification_name:"[concept_eurika]"
- notification_eurika_nco_training_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_nco_training').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_nco_training_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_nco_training').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_nco_training_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_chemical_warfare_notification:"[concept_eurika]"
  notification_eurika_chemical_warfare_notification_name:"[concept_eurika]"
- notification_eurika_chemical_warfare_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_chemical_warfare').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_chemical_warfare_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_chemical_warfare').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_chemical_warfare_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_stormtroopers_notification:"[concept_eurika]"
  notification_eurika_stormtroopers_notification_name:"[concept_eurika]"
- notification_eurika_stormtroopers_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_stormtroopers').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_stormtroopers_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_stormtroopers').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_stormtroopers_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_concrete_fortifications_notification:"[concept_eurika]"
  notification_eurika_concrete_fortifications_notification_name:"[concept_eurika]"
- notification_eurika_concrete_fortifications_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_concrete_fortifications').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_concrete_fortifications_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_concrete_fortifications').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_concrete_fortifications_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_mobile_armor_notification:"[concept_eurika]"
  notification_eurika_mobile_armor_notification_name:"[concept_eurika]"
- notification_eurika_mobile_armor_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_mobile_armor').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_mobile_armor_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_mobile_armor').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_mobile_armor_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_military_aviation_notification:"[concept_eurika]"
  notification_eurika_military_aviation_notification_name:"[concept_eurika]"
- notification_eurika_military_aviation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_military_aviation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_military_aviation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_military_aviation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_military_aviation_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_flamethrowers_notification:"[concept_eurika]"
  notification_eurika_flamethrowers_notification_name:"[concept_eurika]"
- notification_eurika_flamethrowers_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_flamethrowers').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_flamethrowers_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_flamethrowers').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_flamethrowers_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_carrier_tech_notification:"[concept_eurika]"
  notification_eurika_carrier_tech_notification_name:"[concept_eurika]"
- notification_eurika_carrier_tech_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_carrier_tech').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_carrier_tech_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_carrier_tech').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_carrier_tech_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_battleship_tech_notification:"[concept_eurika]"
  notification_eurika_battleship_tech_notification_name:"[concept_eurika]"
- notification_eurika_battleship_tech_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_battleship_tech').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_battleship_tech_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_battleship_tech').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_battleship_tech_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_battlefleet_tactics_notification:"[concept_eurika]"
  notification_eurika_battlefleet_tactics_notification_name:"[concept_eurika]"
- notification_eurika_battlefleet_tactics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_battlefleet_tactics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_battlefleet_tactics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_battlefleet_tactics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_battlefleet_tactics_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_urbanization_notification:"[concept_eurika]"
  notification_eurika_urbanization_notification_name:"[concept_eurika]"
- notification_eurika_urbanization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_urbanization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_urbanization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_urbanization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_urbanization_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_urban_planning_notification:"[concept_eurika]"
  notification_eurika_urban_planning_notification_name:"[concept_eurika]"
- notification_eurika_urban_planning_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_urban_planning').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_urban_planning_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_urban_planning').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_urban_planning_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_rationalism_notification:"[concept_eurika]"
  notification_eurika_rationalism_notification_name:"[concept_eurika]"
- notification_eurika_rationalism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_rationalism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_rationalism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_rationalism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_rationalism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_tech_bureaucracy_notification:"[concept_eurika]"
  notification_eurika_tech_bureaucracy_notification_name:"[concept_eurika]"
- notification_eurika_tech_bureaucracy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_tech_bureaucracy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_tech_bureaucracy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_tech_bureaucracy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_tech_bureaucracy_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_currency_standards_notification:"[concept_eurika]"
  notification_eurika_currency_standards_notification_name:"[concept_eurika]"
- notification_eurika_currency_standards_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_currency_standards').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_currency_standards_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_currency_standards').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_currency_standards_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_democracy_notification:"[concept_eurika]"
  notification_eurika_democracy_notification_name:"[concept_eurika]"
- notification_eurika_democracy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_democracy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_democracy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_democracy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_democracy_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_romanticism_notification:"[concept_eurika]"
  notification_eurika_romanticism_notification_name:"[concept_eurika]"
- notification_eurika_romanticism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_romanticism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_romanticism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_romanticism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_romanticism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_international_trade_notification:"[concept_eurika]"
  notification_eurika_international_trade_notification_name:"[concept_eurika]"
- notification_eurika_international_trade_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_international_trade').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_international_trade_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_international_trade').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_international_trade_notification_tooltip:"eurika_notification_tt"
- eurika_bureaucracy_notification:"[concept_eurika]"
- notification_eurika_bureaucracy_notification_name:"[concept_eurika]"
- notification_eurika_bureaucracy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_bureaucracy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
- notification_eurika_bureaucracy_notification_tooltip:"eurika_notification_tt"
+ 
+ eurika_tech_bureaucracy_notification:"[concept_eurika]"
+ notification_eurika_tech_bureaucracy_notification_name:"[concept_eurika]"
+ notification_eurika_tech_bureaucracy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_tech_bureaucracy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_tech_bureaucracy_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_centralization_notification:"[concept_eurika]"
  notification_eurika_centralization_notification_name:"[concept_eurika]"
- notification_eurika_centralization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_centralization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_centralization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_centralization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_centralization_notification_tooltip:"eurika_notification_tt"
- eurika_bureaucracy_notification:"[concept_eurika]"
- notification_eurika_bureaucracy_notification_name:"[concept_eurika]"
- notification_eurika_bureaucracy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_bureaucracy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
- notification_eurika_bureaucracy_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_banking_notification:"[concept_eurika]"
  notification_eurika_banking_notification_name:"[concept_eurika]"
- notification_eurika_banking_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_banking').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_banking_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_banking').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_banking_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_academia_notification:"[concept_eurika]"
  notification_eurika_academia_notification_name:"[concept_eurika]"
- notification_eurika_academia_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_academia').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_academia_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_academia').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_academia_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_colonization_notification:"[concept_eurika]"
  notification_eurika_colonization_notification_name:"[concept_eurika]"
- notification_eurika_colonization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_colonization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_colonization_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_colonization').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_colonization_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_international_relations_notification:"[concept_eurika]"
  notification_eurika_international_relations_notification_name:"[concept_eurika]"
- notification_eurika_international_relations_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_international_relations').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_international_relations_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_international_relations').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_international_relations_notification_tooltip:"eurika_notification_tt"
- eurika_bureaucracy_notification:"[concept_eurika]"
- notification_eurika_bureaucracy_notification_name:"[concept_eurika]"
- notification_eurika_bureaucracy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_bureaucracy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
- notification_eurika_bureaucracy_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_law_enforcement_notification:"[concept_eurika]"
  notification_eurika_law_enforcement_notification_name:"[concept_eurika]"
- notification_eurika_law_enforcement_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_law_enforcement').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_law_enforcement_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_law_enforcement').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_law_enforcement_notification_tooltip:"eurika_notification_tt"
- eurika_bureaucracy_notification:"[concept_eurika]"
- notification_eurika_bureaucracy_notification_name:"[concept_eurika]"
- notification_eurika_bureaucracy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_bureaucracy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
- notification_eurika_bureaucracy_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_stock_exchange_notification:"[concept_eurika]"
  notification_eurika_stock_exchange_notification_name:"[concept_eurika]"
- notification_eurika_stock_exchange_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_stock_exchange').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_stock_exchange_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_stock_exchange').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_stock_exchange_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_medical_degrees_notification:"[concept_eurika]"
  notification_eurika_medical_degrees_notification_name:"[concept_eurika]"
- notification_eurika_medical_degrees_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_medical_degrees').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_medical_degrees_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_medical_degrees').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_medical_degrees_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_mass_communication_notification:"[concept_eurika]"
  notification_eurika_mass_communication_notification_name:"[concept_eurika]"
- notification_eurika_mass_communication_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_mass_communication').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_mass_communication_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_mass_communication').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_mass_communication_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_empiricism_notification:"[concept_eurika]"
  notification_eurika_empiricism_notification_name:"[concept_eurika]"
- notification_eurika_empiricism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_empiricism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_empiricism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_empiricism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_empiricism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_egalitarianism_notification:"[concept_eurika]"
  notification_eurika_egalitarianism_notification_name:"[concept_eurika]"
- notification_eurika_egalitarianism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_egalitarianism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_egalitarianism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_egalitarianism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_egalitarianism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_pharmaceuticals_notification:"[concept_eurika]"
  notification_eurika_pharmaceuticals_notification_name:"[concept_eurika]"
- notification_eurika_pharmaceuticals_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_pharmaceuticals').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_pharmaceuticals_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_pharmaceuticals').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_pharmaceuticals_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_modern_sewerage_notification:"[concept_eurika]"
  notification_eurika_modern_sewerage_notification_name:"[concept_eurika]"
- notification_eurika_modern_sewerage_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_modern_sewerage').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_modern_sewerage_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_modern_sewerage').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_modern_sewerage_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_quinine_notification:"[concept_eurika]"
  notification_eurika_quinine_notification_name:"[concept_eurika]"
- notification_eurika_quinine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_quinine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_quinine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_quinine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_quinine_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_organized_sports_notification:"[concept_eurika]"
  notification_eurika_organized_sports_notification_name:"[concept_eurika]"
- notification_eurika_organized_sports_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_organized_sports').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_organized_sports_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_organized_sports').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_organized_sports_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_central_archives_notification:"[concept_eurika]"
  notification_eurika_central_archives_notification_name:"[concept_eurika]"
- notification_eurika_central_archives_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_central_archives').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_central_archives_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_central_archives').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_central_archives_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_central_banking_notification:"[concept_eurika]"
  notification_eurika_central_banking_notification_name:"[concept_eurika]"
- notification_eurika_central_banking_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_central_banking').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_central_banking_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_central_banking').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_central_banking_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_dialectics_notification:"[concept_eurika]"
  notification_eurika_dialectics_notification_name:"[concept_eurika]"
- notification_eurika_dialectics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_dialectics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_dialectics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_dialectics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_dialectics_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_psychiatry_notification:"[concept_eurika]"
  notification_eurika_psychiatry_notification_name:"[concept_eurika]"
- notification_eurika_psychiatry_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_psychiatry').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_psychiatry_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_psychiatry').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_psychiatry_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_realism_notification:"[concept_eurika]"
  notification_eurika_realism_notification_name:"[concept_eurika]"
- notification_eurika_realism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_realism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_realism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_realism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_realism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_nationalism_notification:"[concept_eurika]"
  notification_eurika_nationalism_notification_name:"[concept_eurika]"
- notification_eurika_nationalism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_nationalism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_nationalism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_nationalism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_nationalism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_labor_movement_notification:"[concept_eurika]"
  notification_eurika_labor_movement_notification_name:"[concept_eurika]"
- notification_eurika_labor_movement_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_labor_movement').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_labor_movement_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_labor_movement').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_labor_movement_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_postal_savings_notification:"[concept_eurika]"
  notification_eurika_postal_savings_notification_name:"[concept_eurika]"
- notification_eurika_postal_savings_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_postal_savings').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_postal_savings_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_postal_savings').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_postal_savings_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_human_rights_notification:"[concept_eurika]"
  notification_eurika_human_rights_notification_name:"[concept_eurika]"
- notification_eurika_human_rights_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_human_rights').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_human_rights_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_human_rights').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_human_rights_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_feminism_notification:"[concept_eurika]"
  notification_eurika_feminism_notification_name:"[concept_eurika]"
- notification_eurika_feminism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_feminism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_feminism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_feminism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_feminism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_steel_frame_buildings_notification:"[concept_eurika]"
  notification_eurika_steel_frame_buildings_notification_name:"[concept_eurika]"
- notification_eurika_steel_frame_buildings_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_steel_frame_buildings').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_steel_frame_buildings_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_steel_frame_buildings').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_steel_frame_buildings_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_civilizing_mission_notification:"[concept_eurika]"
  notification_eurika_civilizing_mission_notification_name:"[concept_eurika]"
- notification_eurika_civilizing_mission_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_civilizing_mission').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_civilizing_mission_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_civilizing_mission').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_civilizing_mission_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_anarchism_notification:"[concept_eurika]"
  notification_eurika_anarchism_notification_name:"[concept_eurika]"
- notification_eurika_anarchism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_anarchism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_anarchism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_anarchism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_anarchism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_socialism_notification:"[concept_eurika]"
  notification_eurika_socialism_notification_name:"[concept_eurika]"
- notification_eurika_socialism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_socialism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_socialism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_socialism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_socialism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_pan-nationalism_notification:"[concept_eurika]"
  notification_eurika_pan-nationalism_notification_name:"[concept_eurika]"
- notification_eurika_pan-nationalism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_pan-nationalism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_pan-nationalism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_pan-nationalism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_pan-nationalism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_mutual_funds_notification:"[concept_eurika]"
  notification_eurika_mutual_funds_notification_name:"[concept_eurika]"
- notification_eurika_mutual_funds_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_mutual_funds').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_mutual_funds_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_mutual_funds').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_mutual_funds_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_camera_notification:"[concept_eurika]"
  notification_eurika_camera_notification_name:"[concept_eurika]"
- notification_eurika_camera_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_camera').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_camera_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_camera').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_camera_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_philosophical_pragmatism_notification:"[concept_eurika]"
  notification_eurika_philosophical_pragmatism_notification_name:"[concept_eurika]"
- notification_eurika_philosophical_pragmatism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_philosophical_pragmatism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_philosophical_pragmatism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_philosophical_pragmatism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_philosophical_pragmatism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_identification_documents_notification:"[concept_eurika]"
  notification_eurika_identification_documents_notification_name:"[concept_eurika]"
- notification_eurika_identification_documents_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_identification_documents').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_identification_documents_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_identification_documents').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_identification_documents_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_elevator_notification:"[concept_eurika]"
  notification_eurika_elevator_notification_name:"[concept_eurika]"
- notification_eurika_elevator_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_elevator').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_elevator_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_elevator').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_elevator_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_zeppelins_notification:"[concept_eurika]"
  notification_eurika_zeppelins_notification_name:"[concept_eurika]"
- notification_eurika_zeppelins_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_zeppelins').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_zeppelins_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_zeppelins').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_zeppelins_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_malaria_prevention_notification:"[concept_eurika]"
  notification_eurika_malaria_prevention_notification_name:"[concept_eurika]"
- notification_eurika_malaria_prevention_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_malaria_prevention').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_malaria_prevention_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_malaria_prevention').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_malaria_prevention_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_central_planning_notification:"[concept_eurika]"
  notification_eurika_central_planning_notification_name:"[concept_eurika]"
- notification_eurika_central_planning_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_central_planning').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_central_planning_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_central_planning').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_central_planning_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_political_agitation_notification:"[concept_eurika]"
  notification_eurika_political_agitation_notification_name:"[concept_eurika]"
- notification_eurika_political_agitation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_political_agitation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_political_agitation_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_political_agitation').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_political_agitation_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_international_exchange_standards_notification:"[concept_eurika]"
  notification_eurika_international_exchange_standards_notification_name:"[concept_eurika]"
- notification_eurika_international_exchange_standards_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_international_exchange_standards').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_international_exchange_standards_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_international_exchange_standards').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_international_exchange_standards_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_psychoanalysis_notification:"[concept_eurika]"
  notification_eurika_psychoanalysis_notification_name:"[concept_eurika]"
- notification_eurika_psychoanalysis_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_psychoanalysis').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_psychoanalysis_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_psychoanalysis').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_psychoanalysis_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_film_notification:"[concept_eurika]"
  notification_eurika_film_notification_name:"[concept_eurika]"
- notification_eurika_film_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_film').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_film_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_film').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_film_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_multilateral_alliances_notification:"[concept_eurika]"
  notification_eurika_multilateral_alliances_notification_name:"[concept_eurika]"
- notification_eurika_multilateral_alliances_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_multilateral_alliances').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_multilateral_alliances_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_multilateral_alliances').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_multilateral_alliances_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_mass_surveillance_notification:"[concept_eurika]"
  notification_eurika_mass_surveillance_notification_name:"[concept_eurika]"
- notification_eurika_mass_surveillance_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_mass_surveillance').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_mass_surveillance_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_mass_surveillance').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_mass_surveillance_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_antibiotics_notification:"[concept_eurika]"
  notification_eurika_antibiotics_notification_name:"[concept_eurika]"
- notification_eurika_antibiotics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_antibiotics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_antibiotics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_antibiotics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_antibiotics_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_mass_propaganda_notification:"[concept_eurika]"
  notification_eurika_mass_propaganda_notification_name:"[concept_eurika]"
- notification_eurika_mass_propaganda_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_mass_propaganda').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_mass_propaganda_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_mass_propaganda').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_mass_propaganda_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_modern_financial_instruments_notification:"[concept_eurika]"
  notification_eurika_modern_financial_instruments_notification_name:"[concept_eurika]"
- notification_eurika_modern_financial_instruments_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_modern_financial_instruments').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_modern_financial_instruments_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_modern_financial_instruments').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_modern_financial_instruments_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_macroeconomics_notification:"[concept_eurika]"
  notification_eurika_macroeconomics_notification_name:"[concept_eurika]"
- notification_eurika_macroeconomics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_macroeconomics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_macroeconomics_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_macroeconomics').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_macroeconomics_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_behaviorism_notification:"[concept_eurika]"
  notification_eurika_behaviorism_notification_name:"[concept_eurika]"
- notification_eurika_behaviorism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_behaviorism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_behaviorism_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_behaviorism').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_behaviorism_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_analytical_philosophy_notification:"[concept_eurika]"
  notification_eurika_analytical_philosophy_notification_name:"[concept_eurika]"
- notification_eurika_analytical_philosophy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_analytical_philosophy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_analytical_philosophy_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_analytical_philosophy').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_analytical_philosophy_notification_tooltip:"eurika_notification_tt"
+ 
  eurika_paved_roads_notification:"[concept_eurika]"
  notification_eurika_paved_roads_notification_name:"[concept_eurika]"
- notification_eurika_paved_roads_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:
-[GetScriptedGui('breakout_eurika_paved_roads').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_paved_roads_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_paved_roads').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
  notification_eurika_paved_roads_notification_tooltip:"eurika_notification_tt"

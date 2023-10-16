@@ -67,20 +67,6 @@ production_exp_monthly_check = {
 		}
 	}
 }
-#技术突破
-eurika_effect = {
-	eurika_atmospheric_engine = yes
-}
-eurika_atmospheric_engine = {
-	save_scope_as = building_scope
-	owner ={
-		add_technology_progress = { 
-			progress = 1000 
-			technology = atmospheric_engine
-		}
-		post_notification = eurika_atmospheric_engine_notification
-	}
-}
 #资源枯竭结算
 resource_deplete_monthly_check = {
 	save_scope_as = checked_state
