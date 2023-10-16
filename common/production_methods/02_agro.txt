@@ -355,9 +355,90 @@ pm_simple_farming_building_rice_farm = {
 	}
 }
 
-pm_soil_enriching_farming_building_rice_farm unlocking_technologies = 
-		intensive_agriculture
+pm_soil_enriching_farming_building_rice_farm = {
+	texture = "gfx/interface/icons/production_method_icons/soil_enriching_farming.dds"
 	
+	unlocking_technologies = {
+		intensive_agriculture
+	}
+
+	building_modifiers = {
+		unscaled = {
+			building_production_exp_cap_add = 0.2
+		}
+		workforce_scaled = {
+			building_production_exp_growth_add = 0.001
+			# input goods
+			building_input_fertilizer_add = 10		
+			
+			# output goods													
+			building_output_grain_add = 65		
+		}
+
+		level_scaled = {
+			# earnings												
+			building_employment_laborers_add = 3800
+			building_employment_farmers_add = 800
+			building_employment_clergymen_add = 300
+		}
+	}
+}
+
+pm_fertilization_building_rice_farm = {
+	texture = "gfx/interface/icons/production_method_icons/fertilization.dds"
+	
+	unlocking_technologies = {
+		improved_fertilizer
+	}
+	
+	building_modifiers = {
+		unscaled = {
+			building_production_exp_cap_add = 0.3
+		}
+		workforce_scaled = {
+			building_production_exp_growth_add = 0.001
+			# input goods													
+			building_input_fertilizer_add = 20				
+			
+			# output goods												   
+			building_output_grain_add = 100
+		}
+
+		level_scaled = {
+			# earnings																									
+			building_employment_laborers_add = 3700
+			building_employment_farmers_add = 1000
+			building_employment_clergymen_add = 300
+		}
+	}
+}
+
+pm_chemical_fertilizer_building_rice_farm = {
+	texture = "gfx/interface/icons/production_method_icons/chemical_fertilizers.dds"
+	unlocking_technologies = {
+		nitrogen_fixation
+	}
+	building_modifiers = {
+		unscaled = {
+			building_production_exp_cap_add = 0.4
+		}
+		workforce_scaled = {
+			building_production_exp_growth_add = 0.001
+			# input goods												   
+			building_input_fertilizer_add = 40			
+			
+			# output goods												   
+			building_output_grain_add = 150		
+		}
+
+		level_scaled = {
+			# earnings														
+			building_employment_laborers_add = 3500
+			building_employment_farmers_add = 1200
+			building_employment_clergymen_add = 300
+		}
+	}
+}
 
 pm_fig_orchards = {
 	texture = "gfx/interface/icons/production_method_icons/orchards.dds"
@@ -531,9 +612,15 @@ pm_unrefrigerated = {
 
 }
 
-pm_refrigerated_storage_building_livestock_ranch unlocking_technologies = 
+pm_refrigerated_storage_building_livestock_ranch = {
+	texture = "gfx/interface/icons/production_method_icons/refrigerated_storage.dds"
+	unlocking_technologies = {
 		pasteurization
-	
+	}
+	building_modifiers = {
+		workforce_scaled = {
+			building_input_electricity_add = 4
+		}
 
 		level_scaled = {
 			building_employment_laborers_add = -1000
@@ -541,9 +628,18 @@ pm_refrigerated_storage_building_livestock_ranch unlocking_technologies =
 	}
 }
 
-pm_refrigerated_rail_cars_building_livestock_ranch unlocking_technologies = 
-		flash_freezing
+pm_refrigerated_rail_cars_building_livestock_ranch = {
+	texture = "gfx/interface/icons/production_method_icons/refrigerated_rail_cars.dds"
 	
+	unlocking_technologies = {
+		flash_freezing
+	}
+	
+	building_modifiers = {
+		workforce_scaled = {
+			building_input_electricity_add = 4
+			building_input_transportation_add = 3
+		}
 
 		level_scaled = {
 			building_employment_laborers_add = -1800
