@@ -1,0 +1,178 @@
+﻿building_food_industry = {
+		unlocking_technologies = { manufacturies }
+}
+
+building_textile_mills = {
+		unlocking_technologies = { manufacturies }
+}
+
+building_furniture_manufacturies = {
+		unlocking_technologies = { manufacturies }
+}
+
+building_glassworks = {
+		unlocking_technologies = { manufacturies }
+}
+
+building_tooling_workshops = {
+		unlocking_technologies = { manufacturies }
+}
+
+building_paper_mills = {
+		unlocking_technologies = { manufacturies }
+}
+
+building_chemical_plants = {
+		unlocking_technologies = { intensive_agriculture }
+}
+
+building_synthetics_plants = {
+		unlocking_technologies = { aniline }
+}
+
+building_steel_mills = {
+		unlocking_technologies = { steelworking }
+}
+
+building_motor_industry = {
+		unlocking_technologies = { atmospheric_engine }
+}
+
+building_shipyards = {
+		unlocking_technologies = { navigation }
+}
+
+building_war_machine_industry = {
+		unlocking_technologies = { military_aviation }
+}
+
+building_electrics_industry = {
+		unlocking_technologies = { telephone }
+}
+
+building_arms_industry = {
+		unlocking_technologies = { gunsmithing }
+}
+
+building_munition_plants = {
+		unlocking_technologies = { percussion_cap }
+}
+building_rye_farm = {
+		unlocking_technologies = { enclosure }
+}
+
+building_wheat_farm = {
+		unlocking_technologies = { enclosure }
+}
+
+building_rice_farm = {
+		unlocking_technologies = { enclosure }
+}
+
+building_maize_farm = {
+		unlocking_technologies = { enclosure }
+}
+
+building_millet_farm = {
+		unlocking_technologies = { enclosure }
+}
+
+building_livestock_ranch = {
+		unlocking_technologies = { enclosure }
+}
+building_coal_mine = {
+		unlocking_technologies = { shaft_mining }
+}
+ 
+building_iron_mine = {
+		unlocking_technologies = { shaft_mining }
+}
+
+building_lead_mine = {
+		unlocking_technologies = { shaft_mining }
+}
+
+building_sulfur_mine = {
+		unlocking_technologies = { shaft_mining }
+}
+ 
+building_gold_mine = {
+		unlocking_technologies = { prospecting }
+}
+
+building_gold_fields = {
+		unlocking_technologies = { prospecting }
+}
+
+building_coffee_plantation = {
+		unlocking_technologies = { enclosure }
+}
+
+building_cotton_plantation = {
+		unlocking_technologies = { enclosure }
+}
+
+building_dye_plantation = {
+		unlocking_technologies = { enclosure }
+}
+
+building_opium_plantation = {
+		unlocking_technologies = { enclosure }	
+}
+
+building_tea_plantation = {
+		unlocking_technologies = { enclosure }
+}
+
+building_tobacco_plantation = {
+		unlocking_technologies = { enclosure }
+}
+
+building_sugar_plantation = {
+		unlocking_technologies = { enclosure }
+}
+
+building_banana_plantation = {
+		unlocking_technologies = { enclosure }
+}
+
+building_silk_plantation = {
+		unlocking_technologies = { enclosure }
+}
+building_barracks = {
+		unlocking_technologies = { standing_army }
+}
+building_naval_base = {
+		unlocking_technologies = { admiralty }
+}
+building_arts_academy = {
+		unlocking_technologies = { romanticism }
+}
+building_power_plant = {
+		unlocking_technologies = { electrical_generation }
+}
+building_port = {
+		unlocking_technologies = { navigation }
+}
+building_government_administration = {
+		unlocking_technologies = { tech_bureaucracy }
+}
+
+building_university = {
+		unlocking_technologies = { academia }
+}
+building_rubber_plantation = {
+		unlocking_technologies = { rubber_mastication }
+}
+building_whaling_station = {
+		unlocking_technologies = { navigation }
+}
+building_oil_rig = {
+		unlocking_technologies = { pumpjacks }
+}
+building_railway = {
+		unlocking_technologies = { railways }
+}
+building_construction_sector = {
+		unlocking_technologies = { urbanization }
+}
