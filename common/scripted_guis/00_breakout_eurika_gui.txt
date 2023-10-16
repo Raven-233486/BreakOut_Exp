@@ -2,7 +2,7 @@
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = admiralty
 		}
 	}
@@ -18,7 +18,7 @@ breakout_eurika_sericulture = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = sericulture
 		}
 	}
@@ -33,7 +33,7 @@ breakout_eurika_enclosure = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = enclosure
 		}
 	}
@@ -48,7 +48,7 @@ breakout_eurika_manufacturies = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = manufacturies
 		}
 	}
@@ -63,7 +63,7 @@ breakout_eurika_shaft_mining = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = shaft_mining
 		}
 	}
@@ -78,7 +78,7 @@ breakout_eurika_cotton_gin = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = cotton_gin
 		}
 	}
@@ -93,7 +93,7 @@ breakout_eurika_lathe = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = lathe
 		}
 	}
@@ -108,7 +108,7 @@ breakout_eurika_distillation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = distillation
 		}
 	}
@@ -123,7 +123,7 @@ breakout_eurika_steelworking = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = steelworking
 		}
 	}
@@ -138,7 +138,7 @@ breakout_eurika_prospecting = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = prospecting
 		}
 	}
@@ -153,7 +153,7 @@ breakout_eurika_crystal_glass = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = crystal_glass
 		}
 	}
@@ -168,7 +168,7 @@ breakout_eurika_intensive_agriculture = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = intensive_agriculture
 		}
 	}
@@ -183,7 +183,7 @@ breakout_eurika_fractional_distillation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = fractional_distillation
 		}
 	}
@@ -198,7 +198,7 @@ breakout_eurika_canneries = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = canneries
 		}
 	}
@@ -213,7 +213,7 @@ breakout_eurika_watertube_boiler = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = watertube_boiler
 		}
 	}
@@ -228,7 +228,7 @@ breakout_eurika_atmospheric_engine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = atmospheric_engine
 		}
 	}
@@ -243,7 +243,7 @@ breakout_eurika_railways = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = railways
 		}
 	}
@@ -258,7 +258,7 @@ breakout_eurika_chemical_bleaching = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = chemical_bleaching
 		}
 	}
@@ -273,7 +273,7 @@ breakout_eurika_nitroglycerin = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = nitroglycerin
 		}
 	}
@@ -288,7 +288,7 @@ breakout_eurika_bessemer_process = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = bessemer_process
 		}
 	}
@@ -303,7 +303,7 @@ breakout_eurika_baking_powder = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = baking_powder
 		}
 	}
@@ -318,7 +318,7 @@ breakout_eurika_mechanized_workshops = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = mechanized_workshops
 		}
 	}
@@ -333,7 +333,7 @@ breakout_eurika_mechanical_tools = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = mechanical_tools
 		}
 	}
@@ -348,7 +348,7 @@ breakout_eurika_improved_fertilizer = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = improved_fertilizer
 		}
 	}
@@ -363,7 +363,7 @@ breakout_eurika_steam_donkey = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = steam_donkey
 		}
 	}
@@ -378,7 +378,7 @@ breakout_eurika_dynamite = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = dynamite
 		}
 	}
@@ -393,7 +393,7 @@ breakout_eurika_rubber_mastication = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = rubber_mastication
 		}
 	}
@@ -408,7 +408,7 @@ breakout_eurika_rotary_valve_engine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = rotary_valve_engine
 		}
 	}
@@ -423,7 +423,7 @@ breakout_eurika_reinforced_concrete = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = reinforced_concrete
 		}
 	}
@@ -438,7 +438,7 @@ breakout_eurika_threshing_machine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = threshing_machine
 		}
 	}
@@ -453,7 +453,7 @@ breakout_eurika_pumpjacks = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = pumpjacks
 		}
 	}
@@ -468,7 +468,7 @@ breakout_eurika_aniline = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = aniline
 		}
 	}
@@ -483,7 +483,7 @@ breakout_eurika_open_hearth_process = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = open_hearth_process
 		}
 	}
@@ -498,7 +498,7 @@ breakout_eurika_vulcanization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = vulcanization
 		}
 	}
@@ -513,7 +513,7 @@ breakout_eurika_vacuum_canning = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = vacuum_canning
 		}
 	}
@@ -528,7 +528,7 @@ breakout_eurika_shift_work = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = shift_work
 		}
 	}
@@ -543,7 +543,7 @@ breakout_eurika_steel_railway_cars = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = steel_railway_cars
 		}
 	}
@@ -558,7 +558,7 @@ breakout_eurika_electrical_generation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = electrical_generation
 		}
 	}
@@ -573,7 +573,7 @@ breakout_eurika_mechanized_farming = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = mechanized_farming
 		}
 	}
@@ -588,7 +588,7 @@ breakout_eurika_art_silk = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = art_silk
 		}
 	}
@@ -603,7 +603,7 @@ breakout_eurika_automatic_bottle_blowers = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = automatic_bottle_blowers
 		}
 	}
@@ -618,7 +618,7 @@ breakout_eurika_conveyors = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = conveyors
 		}
 	}
@@ -633,7 +633,7 @@ breakout_eurika_pasteurization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = pasteurization
 		}
 	}
@@ -648,7 +648,7 @@ breakout_eurika_electric_railway = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = electric_railway
 		}
 	}
@@ -663,7 +663,7 @@ breakout_eurika_combustion_engine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = combustion_engine
 		}
 	}
@@ -678,7 +678,7 @@ breakout_eurika_pneumatic_tools = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = pneumatic_tools
 		}
 	}
@@ -693,7 +693,7 @@ breakout_eurika_nitrogen_fixation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = nitrogen_fixation
 		}
 	}
@@ -708,7 +708,7 @@ breakout_eurika_electric_arc_process = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = electric_arc_process
 		}
 	}
@@ -723,7 +723,7 @@ breakout_eurika_steam_turbine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = steam_turbine
 		}
 	}
@@ -738,7 +738,7 @@ breakout_eurika_plastics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = plastics
 		}
 	}
@@ -753,7 +753,7 @@ breakout_eurika_electrical_capacitors = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = electrical_capacitors
 		}
 	}
@@ -768,7 +768,7 @@ breakout_eurika_radio = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = radio
 		}
 	}
@@ -783,7 +783,7 @@ breakout_eurika_telephone = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = telephone
 		}
 	}
@@ -798,7 +798,7 @@ breakout_eurika_dough_rollers = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = dough_rollers
 		}
 	}
@@ -813,7 +813,7 @@ breakout_eurika_flash_freezing = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = flash_freezing
 		}
 	}
@@ -828,7 +828,7 @@ breakout_eurika_oil_turbine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = oil_turbine
 		}
 	}
@@ -843,7 +843,7 @@ breakout_eurika_arc_welding = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = arc_welding
 		}
 	}
@@ -858,7 +858,7 @@ breakout_eurika_compression_ignition = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = compression_ignition
 		}
 	}
@@ -873,7 +873,7 @@ breakout_eurika_standing_army = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = standing_army
 		}
 	}
@@ -888,7 +888,7 @@ breakout_eurika_navigation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = navigation
 		}
 	}
@@ -903,7 +903,7 @@ breakout_eurika_drydocks = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = drydocks
 		}
 	}
@@ -918,7 +918,7 @@ breakout_eurika_mandatory_service = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = mandatory_service
 		}
 	}
@@ -933,7 +933,7 @@ breakout_eurika_gunsmithing = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = gunsmithing
 		}
 	}
@@ -948,7 +948,7 @@ breakout_eurika_artillery = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = artillery
 		}
 	}
@@ -963,7 +963,7 @@ breakout_eurika_military_drill = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = military_drill
 		}
 	}
@@ -978,7 +978,7 @@ breakout_eurika_napoleonic_warfare = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = napoleonic_warfare
 		}
 	}
@@ -993,7 +993,7 @@ breakout_eurika_admiralty = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = admiralty
 		}
 	}
@@ -1008,7 +1008,7 @@ breakout_eurika_army_reserves = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = army_reserves
 		}
 	}
@@ -1023,7 +1023,7 @@ breakout_eurika_line_infantry = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = line_infantry
 		}
 	}
@@ -1038,7 +1038,7 @@ breakout_eurika_paddle_steamer = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = paddle_steamer
 		}
 	}
@@ -1053,7 +1053,7 @@ breakout_eurika_field_works = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = field_works
 		}
 	}
@@ -1068,7 +1068,7 @@ breakout_eurika_logistics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = logistics
 		}
 	}
@@ -1083,7 +1083,7 @@ breakout_eurika_triage = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = triage
 		}
 	}
@@ -1098,7 +1098,7 @@ breakout_eurika_shell_gun = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = shell_gun
 		}
 	}
@@ -1113,7 +1113,7 @@ breakout_eurika_percussion_cap = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = percussion_cap
 		}
 	}
@@ -1128,7 +1128,7 @@ breakout_eurika_rifling = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = rifling
 		}
 	}
@@ -1143,7 +1143,7 @@ breakout_eurika_general_staff = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = general_staff
 		}
 	}
@@ -1158,7 +1158,7 @@ breakout_eurika_screw_frigate = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = screw_frigate
 		}
 	}
@@ -1173,7 +1173,7 @@ breakout_eurika_power_of_the_purse = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = power_of_the_purse
 		}
 	}
@@ -1188,7 +1188,7 @@ breakout_eurika_hydraulic_cranes = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = hydraulic_cranes
 		}
 	}
@@ -1203,7 +1203,7 @@ breakout_eurika_modern_nursing = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = modern_nursing
 		}
 	}
@@ -1218,7 +1218,7 @@ breakout_eurika_enlistment_offices = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = enlistment_offices
 		}
 	}
@@ -1233,7 +1233,7 @@ breakout_eurika_electric_telegraph = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = electric_telegraph
 		}
 	}
@@ -1248,7 +1248,7 @@ breakout_eurika_military_statistics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = military_statistics
 		}
 	}
@@ -1263,7 +1263,7 @@ breakout_eurika_repeaters = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = repeaters
 		}
 	}
@@ -1278,7 +1278,7 @@ breakout_eurika_breech_loading_artillery = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = breech_loading_artillery
 		}
 	}
@@ -1293,7 +1293,7 @@ breakout_eurika_handcranked_machine_gun = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = handcranked_machine_gun
 		}
 	}
@@ -1308,7 +1308,7 @@ breakout_eurika_self_propelled_torpedoes = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = self_propelled_torpedoes
 		}
 	}
@@ -1323,7 +1323,7 @@ breakout_eurika_monitor_tech = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = monitor_tech
 		}
 	}
@@ -1338,7 +1338,7 @@ breakout_eurika_ironclad_tech = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = ironclad_tech
 		}
 	}
@@ -1353,7 +1353,7 @@ breakout_eurika_jeune_ecole = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = jeune_ecole
 		}
 	}
@@ -1368,7 +1368,7 @@ breakout_eurika_floating_harbor = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = floating_harbor
 		}
 	}
@@ -1383,7 +1383,7 @@ breakout_eurika_gantry_cranes = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = gantry_cranes
 		}
 	}
@@ -1398,7 +1398,7 @@ breakout_eurika_trench_works = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = trench_works
 		}
 	}
@@ -1413,7 +1413,7 @@ breakout_eurika_war_propaganda = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = war_propaganda
 		}
 	}
@@ -1428,7 +1428,7 @@ breakout_eurika_wargaming = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = wargaming
 		}
 	}
@@ -1443,7 +1443,7 @@ breakout_eurika_defense_in_depth = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = defense_in_depth
 		}
 	}
@@ -1458,7 +1458,7 @@ breakout_eurika_bolt_action_rifles = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = bolt_action_rifles
 		}
 	}
@@ -1473,7 +1473,7 @@ breakout_eurika_automatic_machine_guns = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = automatic_machine_guns
 		}
 	}
@@ -1488,7 +1488,7 @@ breakout_eurika_submarine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = submarine
 		}
 	}
@@ -1503,7 +1503,7 @@ breakout_eurika_destroyer = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = destroyer
 		}
 	}
@@ -1518,7 +1518,7 @@ breakout_eurika_dreadnought = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = dreadnought
 		}
 	}
@@ -1533,7 +1533,7 @@ breakout_eurika_sea_lane_strategies = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = sea_lane_strategies
 		}
 	}
@@ -1548,7 +1548,7 @@ breakout_eurika_landing_craft = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = landing_craft
 		}
 	}
@@ -1563,7 +1563,7 @@ breakout_eurika_concrete_dockyards = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = concrete_dockyards
 		}
 	}
@@ -1578,7 +1578,7 @@ breakout_eurika_nco_training = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = nco_training
 		}
 	}
@@ -1593,7 +1593,7 @@ breakout_eurika_chemical_warfare = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = chemical_warfare
 		}
 	}
@@ -1608,7 +1608,7 @@ breakout_eurika_stormtroopers = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = stormtroopers
 		}
 	}
@@ -1623,7 +1623,7 @@ breakout_eurika_concrete_fortifications = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = concrete_fortifications
 		}
 	}
@@ -1638,7 +1638,7 @@ breakout_eurika_mobile_armor = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = mobile_armor
 		}
 	}
@@ -1653,7 +1653,7 @@ breakout_eurika_military_aviation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = military_aviation
 		}
 	}
@@ -1668,7 +1668,7 @@ breakout_eurika_flamethrowers = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = flamethrowers
 		}
 	}
@@ -1683,7 +1683,7 @@ breakout_eurika_carrier_tech = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = carrier_tech
 		}
 	}
@@ -1698,7 +1698,7 @@ breakout_eurika_battleship_tech = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = battleship_tech
 		}
 	}
@@ -1713,7 +1713,7 @@ breakout_eurika_battlefleet_tactics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = battlefleet_tactics
 		}
 	}
@@ -1728,7 +1728,7 @@ breakout_eurika_urbanization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = urbanization
 		}
 	}
@@ -1743,7 +1743,7 @@ breakout_eurika_urban_planning = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = urban_planning
 		}
 	}
@@ -1758,7 +1758,7 @@ breakout_eurika_rationalism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = rationalism
 		}
 	}
@@ -1773,7 +1773,7 @@ breakout_eurika_tech_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = tech_bureaucracy
 		}
 	}
@@ -1788,7 +1788,7 @@ breakout_eurika_currency_standards = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = currency_standards
 		}
 	}
@@ -1803,7 +1803,7 @@ breakout_eurika_democracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = democracy
 		}
 	}
@@ -1818,7 +1818,7 @@ breakout_eurika_romanticism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = romanticism
 		}
 	}
@@ -1833,7 +1833,7 @@ breakout_eurika_international_trade = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = international_trade
 		}
 	}
@@ -1848,7 +1848,7 @@ breakout_eurika_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = bureaucracy
 		}
 	}
@@ -1863,7 +1863,7 @@ breakout_eurika_centralization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = centralization
 		}
 	}
@@ -1878,7 +1878,7 @@ breakout_eurika_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = bureaucracy
 		}
 	}
@@ -1893,7 +1893,7 @@ breakout_eurika_banking = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = banking
 		}
 	}
@@ -1908,7 +1908,7 @@ breakout_eurika_academia = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = academia
 		}
 	}
@@ -1923,7 +1923,7 @@ breakout_eurika_colonization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = colonization
 		}
 	}
@@ -1938,7 +1938,7 @@ breakout_eurika_international_relations = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = international_relations
 		}
 	}
@@ -1953,7 +1953,7 @@ breakout_eurika_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = bureaucracy
 		}
 	}
@@ -1968,7 +1968,7 @@ breakout_eurika_law_enforcement = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = law_enforcement
 		}
 	}
@@ -1983,7 +1983,7 @@ breakout_eurika_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = bureaucracy
 		}
 	}
@@ -1998,7 +1998,7 @@ breakout_eurika_stock_exchange = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = stock_exchange
 		}
 	}
@@ -2013,7 +2013,7 @@ breakout_eurika_medical_degrees = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = medical_degrees
 		}
 	}
@@ -2028,7 +2028,7 @@ breakout_eurika_mass_communication = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = mass_communication
 		}
 	}
@@ -2043,7 +2043,7 @@ breakout_eurika_empiricism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = empiricism
 		}
 	}
@@ -2058,7 +2058,7 @@ breakout_eurika_egalitarianism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = egalitarianism
 		}
 	}
@@ -2073,7 +2073,7 @@ breakout_eurika_pharmaceuticals = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = pharmaceuticals
 		}
 	}
@@ -2088,7 +2088,7 @@ breakout_eurika_modern_sewerage = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = modern_sewerage
 		}
 	}
@@ -2103,7 +2103,7 @@ breakout_eurika_quinine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = quinine
 		}
 	}
@@ -2118,7 +2118,7 @@ breakout_eurika_organized_sports = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = organized_sports
 		}
 	}
@@ -2133,7 +2133,7 @@ breakout_eurika_central_archives = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = central_archives
 		}
 	}
@@ -2148,7 +2148,7 @@ breakout_eurika_central_banking = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = central_banking
 		}
 	}
@@ -2163,7 +2163,7 @@ breakout_eurika_dialectics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = dialectics
 		}
 	}
@@ -2178,7 +2178,7 @@ breakout_eurika_psychiatry = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = psychiatry
 		}
 	}
@@ -2193,7 +2193,7 @@ breakout_eurika_realism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = realism
 		}
 	}
@@ -2208,7 +2208,7 @@ breakout_eurika_nationalism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = nationalism
 		}
 	}
@@ -2223,7 +2223,7 @@ breakout_eurika_labor_movement = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = labor_movement
 		}
 	}
@@ -2238,7 +2238,7 @@ breakout_eurika_postal_savings = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = postal_savings
 		}
 	}
@@ -2253,7 +2253,7 @@ breakout_eurika_human_rights = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = human_rights
 		}
 	}
@@ -2268,7 +2268,7 @@ breakout_eurika_feminism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = feminism
 		}
 	}
@@ -2283,7 +2283,7 @@ breakout_eurika_steel_frame_buildings = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = steel_frame_buildings
 		}
 	}
@@ -2298,7 +2298,7 @@ breakout_eurika_civilizing_mission = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = civilizing_mission
 		}
 	}
@@ -2313,7 +2313,7 @@ breakout_eurika_anarchism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = anarchism
 		}
 	}
@@ -2328,7 +2328,7 @@ breakout_eurika_socialism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = socialism
 		}
 	}
@@ -2343,7 +2343,7 @@ breakout_eurika_pan-nationalism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = pan-nationalism
 		}
 	}
@@ -2358,7 +2358,7 @@ breakout_eurika_mutual_funds = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = mutual_funds
 		}
 	}
@@ -2373,7 +2373,7 @@ breakout_eurika_camera = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = camera
 		}
 	}
@@ -2388,7 +2388,7 @@ breakout_eurika_philosophical_pragmatism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = philosophical_pragmatism
 		}
 	}
@@ -2403,7 +2403,7 @@ breakout_eurika_identification_documents = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = identification_documents
 		}
 	}
@@ -2418,7 +2418,7 @@ breakout_eurika_elevator = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = elevator
 		}
 	}
@@ -2433,7 +2433,7 @@ breakout_eurika_zeppelins = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = zeppelins
 		}
 	}
@@ -2448,7 +2448,7 @@ breakout_eurika_malaria_prevention = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = malaria_prevention
 		}
 	}
@@ -2463,7 +2463,7 @@ breakout_eurika_central_planning = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = central_planning
 		}
 	}
@@ -2478,7 +2478,7 @@ breakout_eurika_political_agitation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = political_agitation
 		}
 	}
@@ -2493,7 +2493,7 @@ breakout_eurika_international_exchange_standards = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = international_exchange_standards
 		}
 	}
@@ -2508,7 +2508,7 @@ breakout_eurika_psychoanalysis = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = psychoanalysis
 		}
 	}
@@ -2523,7 +2523,7 @@ breakout_eurika_film = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = film
 		}
 	}
@@ -2538,7 +2538,7 @@ breakout_eurika_multilateral_alliances = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = multilateral_alliances
 		}
 	}
@@ -2553,7 +2553,7 @@ breakout_eurika_mass_surveillance = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = mass_surveillance
 		}
 	}
@@ -2568,7 +2568,7 @@ breakout_eurika_antibiotics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = antibiotics
 		}
 	}
@@ -2583,7 +2583,7 @@ breakout_eurika_mass_propaganda = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = mass_propaganda
 		}
 	}
@@ -2598,7 +2598,7 @@ breakout_eurika_modern_financial_instruments = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = modern_financial_instruments
 		}
 	}
@@ -2613,7 +2613,7 @@ breakout_eurika_macroeconomics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = macroeconomics
 		}
 	}
@@ -2628,7 +2628,7 @@ breakout_eurika_behaviorism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = behaviorism
 		}
 	}
@@ -2643,7 +2643,7 @@ breakout_eurika_analytical_philosophy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = analytical_philosophy
 		}
 	}
@@ -2658,7 +2658,7 @@ breakout_eurika_paved_roads = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
-			progress = 3000
+			progress = 5000
 			technology = paved_roads
 		}
 	}
