@@ -18,17 +18,3 @@
  modifier_building_production_exp_decay_add_desc:"每月损失的[concept_production_exp]"
  modifier_building_production_exp_growth_add:"[concept_production_exp]增长"
  modifier_building_production_exp_growth_add_desc:"每月增长的[concept_production_exp]"
-
-
- concept_eurika:"技术突破"
- concept_eurika_desc:"当建筑的[concept_production_exp]超过[concept_production_exp_cap]的时候，就会为[concept_related_technologies]提供发生技术突破的可能性。技术突破一旦发生，相关科技就会获得大量科研进展。"
- concept_related_technologies:"相关科技"
- concept_related_technologies_desc:"一个建筑的相关科技包括：\n·建造该建筑所需的科技；\n·解锁该建筑当前生产方式所需的科技；\n·与上述两种科技在科技树上的直接相连的后续科技；\n·上述三种科技的前置科技。"
- eurika_notification_group:"[concept_eurika]"
- eurika_notification_tt:"超出上限的[concept_production_exp]会有概率引发[concept_eurika]，从而推进[concept_related_technologies]的发展"
- eurika_notification_tt1:"发生了[concept_eurika]"
- 
- eurika_atmospheric_engine_notification:"[concept_eurika]"
- notification_eurika_atmospheric_engine_notification_name:"[concept_eurika]"
- notification_eurika_atmospheric_engine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_atmospheric_engine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
- notification_eurika_atmospheric_engine_notification_tooltip:"eurika_notification_tt"
