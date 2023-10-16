@@ -16,7 +16,7 @@ production_exp_decay = {
     add = modifier:building_production_exp_decay_add
 }
 production_exp_growth = {
-    value = 0
+    value = 0.1
     add = modifier:building_production_exp_growth_add
 }
 new_production_exp = {

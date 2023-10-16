@@ -1,340 +1,535 @@
 ﻿#技术突破
 eurika_effect = {
 	random_list = {
+		1 = {
+			
+		}
 		#来自建筑类型
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_food_industry }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_food_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_manufacturies = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_textile_mills }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_textile_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_manufacturies = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_furniture_manufacturies }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_furniture_manufacturies }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_manufacturies = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_glassworks }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_glassworks }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_manufacturies = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_tooling_workshops }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_tooling_workshops }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_manufacturies = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_paper_mills }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_paper_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_manufacturies = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_chemical_plants }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_chemical_plants }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_intensive_agriculture = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_synthetics_plants }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_synthetics_plants }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_aniline = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_steel_mills }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_steel_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steelworking = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_motor_industry }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_motor_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_atmospheric_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_shipyards }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_shipyards }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_navigation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_war_machine_industry }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_war_machine_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_military_aviation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_electrics_industry }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_electrics_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_telephone = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_arms_industry }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_arms_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_gunsmithing = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_munition_plants }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_munition_plants }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_percussion_cap = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_rye_farm }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_rye_farm }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_wheat_farm }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_wheat_farm }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_rice_farm }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_rice_farm }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_maize_farm }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_maize_farm }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_millet_farm }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_millet_farm }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_livestock_ranch }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_livestock_ranch }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_coal_mine }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_coal_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_shaft_mining = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_iron_mine }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_iron_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_shaft_mining = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_lead_mine }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_lead_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_shaft_mining = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_sulfur_mine }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_sulfur_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_shaft_mining = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_gold_mine }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_gold_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_prospecting = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_gold_fields }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_gold_fields }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_prospecting = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_coffee_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_coffee_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_cotton_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_cotton_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_dye_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_dye_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_opium_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_opium_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_tea_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_tea_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_tobacco_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_tobacco_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_sugar_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_sugar_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_banana_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_banana_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_silk_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_silk_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_enclosure = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_barracks }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_barracks }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_standing_army = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_naval_base }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_naval_base }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_admiralty = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_arts_academy }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_arts_academy }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_romanticism = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_power_plant }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_power_plant }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electrical_generation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_port }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_port }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_navigation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_government_administration }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_government_administration }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_tech_bureaucracy = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_university }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_university }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_academia = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_rubber_plantation }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_rubber_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_rubber_mastication = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_whaling_station }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_whaling_station }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_navigation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_oil_rig }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_oil_rig }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_railway }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_railway }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_railways = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { is_building_type = building_construction_sector }
+				if = {
+					limit = {
+						NOT = { is_building_type = building_construction_sector }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_urbanization = yes
 		}
@@ -342,1667 +537,2608 @@ eurika_effect = {
 		#来自生产方式
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_sweeteners }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_sweeteners }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_distillation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_baking_powder }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_baking_powder }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_baking_powder = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_cannery }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_cannery }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_canneries = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_vacuum_canning }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_vacuum_canning }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_vacuum_canning = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_pot_stills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_pot_stills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_distillation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_patent_stills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_patent_stills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_fractional_distillation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_automated_bakery }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_automated_bakery }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dough_rollers = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_food_industry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_food_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_dye_workshops }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_dye_workshops }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_lathe = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_sewing_machines }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_sewing_machines }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mechanized_workshops = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_electric_sewing_machines }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_electric_sewing_machines }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electrical_capacitors = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_elastics }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_elastics }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_vulcanization = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_mechanized_looms }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mechanized_looms }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mechanized_workshops = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_automatic_power_looms }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_automatic_power_looms }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electrical_capacitors = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_textile_mills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_textile_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_lathe }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_lathe }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_lathe = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_mechanized_workshops }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mechanized_workshops }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mechanized_workshops = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_precision_tools }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_precision_tools }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mechanical_tools = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_watertube_boiler_building_furniture_manufacturies }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_watertube_boiler_building_furniture_manufacturies }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rotary_valve_engine_building_furniture_manufacturies }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rotary_valve_engine_building_furniture_manufacturies }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_rotary_valve_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_assembly_lines_building_furniture_manufacturies }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_assembly_lines_building_furniture_manufacturies }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_conveyors = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_furniture_manufacturies }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_furniture_manufacturies }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_leaded_glass }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_leaded_glass }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_lathe = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_crystal_glass }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_crystal_glass }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_crystal_glass = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_houseware_plastics }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_houseware_plastics }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_plastics = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_bone_china }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_bone_china }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_chemical_bleaching = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_automatic_bottle_blowers }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_automatic_bottle_blowers }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_automatic_bottle_blowers = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_glassworks }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_glassworks }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_pig_iron }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_pig_iron }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steelworking = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steel }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steel }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mechanical_tools = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_watertube_boiler_building_tooling_workshops }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_watertube_boiler_building_tooling_workshops }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rotary_valve_engine_building_tooling_workshops }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rotary_valve_engine_building_tooling_workshops }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_rotary_valve_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_assembly_lines_building_tooling_workshops }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_assembly_lines_building_tooling_workshops }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_conveyors = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_tooling_workshops }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_tooling_workshops }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_sulfite_pulping }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_sulfite_pulping }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mechanical_tools = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_bleached_paper }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_bleached_paper }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_chemical_bleaching = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_watertube_boiler_building_paper_mills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_watertube_boiler_building_paper_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rotary_valve_engine_building_paper_mills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rotary_valve_engine_building_paper_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_rotary_valve_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_paper_mills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_paper_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_improved_fertilizer }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_improved_fertilizer }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_improved_fertilizer = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_nitrogen_fixation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_nitrogen_fixation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nitrogen_fixation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_ammonia-soda_process }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_ammonia-soda_process }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nitroglycerin = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_vacuum_evaporation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_vacuum_evaporation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dynamite = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_brine_electrolysis }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_brine_electrolysis }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electrical_capacitors = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rayon }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rayon }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_art_silk = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_bessemer_process }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_bessemer_process }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_bessemer_process = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_open_hearth_process }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_open_hearth_process }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_open_hearth_process = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_electric_arc_process }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_electric_arc_process }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electric_arc_process = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_watertube_boiler_building_steel_mills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_watertube_boiler_building_steel_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rotary_valve_engine_building_steel_mills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rotary_valve_engine_building_steel_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_rotary_valve_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_electric_engines }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_electric_engines }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electric_railway = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_diesel_engines }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_diesel_engines }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_compression_ignition = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_automobile_production }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_automobile_production }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_combustion_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_watertube_boiler_building_motor_industry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_watertube_boiler_building_motor_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rotary_valve_engine_building_motor_industry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rotary_valve_engine_building_motor_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_rotary_valve_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_assembly_lines_building_motor_industry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_assembly_lines_building_motor_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_conveyors = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_complex_shipbuilding }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_complex_shipbuilding }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_screw_frigate = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_metal_shipbuilding }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_metal_shipbuilding }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_ironclad_tech = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_arc_welding_shipbuilding }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_arc_welding_shipbuilding }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_arc_welding = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_shipyards }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_shipyards }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_tank_production }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_tank_production }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mobile_armor = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_radios }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_radios }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_radio = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rifles }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rifles }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_rifling = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_repeaters }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_repeaters }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_repeaters = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_bolt_action_rifles }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_bolt_action_rifles }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_bolt_action_rifles = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_cannons }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_cannons }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_artillery = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_smoothbores }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_smoothbores }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_shell_gun = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_breech_loaders }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_breech_loaders }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_breech_loading_artillery = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rotary_valve_engine_building_arms_industry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rotary_valve_engine_building_arms_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_rotary_valve_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_assembly_lines_building_arms_industry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_assembly_lines_building_arms_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_conveyors = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_arms_industry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_arms_industry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_explosive_shells }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_explosive_shells }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dynamite = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rotary_valve_engine_building_munition_plants }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rotary_valve_engine_building_munition_plants }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_rotary_valve_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_assembly_lines_building_munition_plants }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_assembly_lines_building_munition_plants }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_conveyors = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_chemical_plants }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_chemical_plants }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_synthetic_plants }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_synthetic_plants }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_steel_mills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_steel_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_motor_industries }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_motor_industries }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_war_machines_induestries }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_war_machines_induestries }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_electrics_industries }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_electrics_industries }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_munition_plants }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_munition_plants }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_soil_enriching_farming }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_soil_enriching_farming }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_intensive_agriculture = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_fertilization }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_fertilization }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_improved_fertilizer = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_chemical_fertilizer }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_chemical_fertilizer }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nitrogen_fixation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steam_threshers }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steam_threshers }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_threshing_machine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_tractors }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_tractors }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mechanized_farming = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_compression_ignition_tractors }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_compression_ignition_tractors }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_compression_ignition = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_soil_enriching_farming_building_rice_farm }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_soil_enriching_farming_building_rice_farm }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_intensive_agriculture = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_fertilization_building_rice_farm }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_fertilization_building_rice_farm }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_improved_fertilizer = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_chemical_fertilizer_building_rice_farm }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_chemical_fertilizer_building_rice_farm }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nitrogen_fixation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_intensive_grazing_ranch }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_intensive_grazing_ranch }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_intensive_agriculture = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_slaughterhouses }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_slaughterhouses }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mechanical_tools = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_mechanized_slaughtering }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mechanized_slaughtering }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mechanized_farming = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_barbed_wire_fences }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_barbed_wire_fences }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_trench_works = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_electric_fencing }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_electric_fencing }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electrical_generation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_refrigerated_storage_building_livestock_ranch }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_refrigerated_storage_building_livestock_ranch }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pasteurization = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_refrigerated_rail_cars_building_livestock_ranch }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_refrigerated_rail_cars_building_livestock_ranch }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_flash_freezing = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_coal_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_coal_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_atmospheric_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_condensing_engine_pump_building_coal_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_condensing_engine_pump_building_coal_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_diesel_pump_building_coal_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_diesel_pump_building_coal_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_compression_ignition = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_nitroglycerin_building_coal_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_nitroglycerin_building_coal_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nitroglycerin = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_dynamite_building_coal_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_dynamite_building_coal_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dynamite = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steam_donkey_building_coal_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steam_donkey_building_coal_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steam_donkey = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_coal_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_coal_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_iron_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_iron_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_lead_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_lead_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_sulfur_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_sulfur_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_gold_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_gold_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_iron_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_iron_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_atmospheric_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_condensing_engine_pump_building_iron_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_condensing_engine_pump_building_iron_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_diesel_pump_building_iron_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_diesel_pump_building_iron_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_compression_ignition = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_nitroglycerin_building_iron_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_nitroglycerin_building_iron_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nitroglycerin = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_dynamite_building_iron_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_dynamite_building_iron_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dynamite = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steam_donkey_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steam_donkey_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steam_donkey = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rail_transport_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rail_transport_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_railways = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_lead_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_lead_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_atmospheric_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_condensing_engine_pump_building_lead_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_condensing_engine_pump_building_lead_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_diesel_pump_building_lead_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_diesel_pump_building_lead_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_compression_ignition = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_nitroglycerin_building_lead_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_nitroglycerin_building_lead_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nitroglycerin = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_dynamite_building_lead_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_dynamite_building_lead_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dynamite = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_sulfur_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_sulfur_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_atmospheric_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_condensing_engine_pump_building_sulfur_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_condensing_engine_pump_building_sulfur_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_diesel_pump_building_sulfur_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_diesel_pump_building_sulfur_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_compression_ignition = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_nitroglycerin_building_sulfur_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_nitroglycerin_building_sulfur_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nitroglycerin = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_dynamite_building_sulfur_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_dynamite_building_sulfur_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dynamite = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_gold_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_atmospheric_engine_pump_building_gold_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_atmospheric_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_condensing_engine_pump_building_gold_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_condensing_engine_pump_building_gold_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_diesel_pump_building_gold_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_diesel_pump_building_gold_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_compression_ignition = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_nitroglycerin_building_gold_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_nitroglycerin_building_gold_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nitroglycerin = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_dynamite_building_gold_mine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_dynamite_building_gold_mine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dynamite = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_coffee_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_coffee_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steam_rail_transport }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steam_rail_transport }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_railways = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_cotton_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_cotton_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_dye_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_dye_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_opium_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_opium_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_tea_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_tea_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_tobacco_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_tobacco_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_sugar_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_sugar_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_banana_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_banana_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_silk_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_silk_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_line_infantry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_line_infantry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_line_infantry = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_skirmish_infantry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_skirmish_infantry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_general_staff = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_trench_infantry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_trench_infantry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_trench_works = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_squad_infantry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_squad_infantry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nco_training = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_mechanized_infantry }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mechanized_infantry }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mobile_armor = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_cannon_artillery }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_cannon_artillery }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_artillery = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_mobile_artillery }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mobile_artillery }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_napoleonic_warfare = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_shrapnel_artillery }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_shrapnel_artillery }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_breech_loading_artillery = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_siege_artillery }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_siege_artillery }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_wargaming = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_bicycle_messengers }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_bicycle_messengers }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_vulcanization = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_motorized_recon }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_motorized_recon }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_combustion_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_aerial_recon }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_aerial_recon }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_military_aviation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_machine_gunners }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_machine_gunners }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_automatic_machine_guns = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_infiltrators }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_infiltrators }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_stormtroopers = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_flamethrower_company }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_flamethrower_company }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_flamethrowers = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_chemical_weapons_specialists }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_chemical_weapons_specialists }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_chemical_warfare = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_line_infantry_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_line_infantry_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_line_infantry = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_skirmish_infantry_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_skirmish_infantry_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_general_staff = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_trench_infantry_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_trench_infantry_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_trench_works = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_squad_infantry_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_squad_infantry_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_nco_training = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_mechanized_infantry_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mechanized_infantry_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mobile_armor = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_cannon_artillery_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_cannon_artillery_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_artillery = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_mobile_artillery_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mobile_artillery_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_napoleonic_warfare = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_shrapnel_artillery_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_shrapnel_artillery_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_breech_loading_artillery = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_siege_artillery_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_siege_artillery_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_wargaming = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_bicycle_messengers_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_bicycle_messengers_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_vulcanization = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_motorized_recon_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_motorized_recon_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_combustion_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_aerial_recon_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_aerial_recon_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_military_aviation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_machine_gunners_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_machine_gunners_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_automatic_machine_guns = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_infiltrators_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_infiltrators_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_stormtroopers = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_flamethrower_company_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_flamethrower_company_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_flamethrowers = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_chemical_weapons_specialists_conscription }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_chemical_weapons_specialists_conscription }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_chemical_warfare = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_first_aid }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_first_aid }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_triage = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_field_hospitals }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_field_hospitals }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_modern_nursing = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_ironclads }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_ironclads }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_ironclad_tech = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_monitors }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_monitors }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_monitor_tech = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_dreadnoughts }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_dreadnoughts }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dreadnought = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_battleships }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_battleships }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_battleship_tech = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_torpedo_boat }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_torpedo_boat }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_self_propelled_torpedoes = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_submarine }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_submarine }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_submarine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_destroyers }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_destroyers }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_destroyer = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_carriers }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_carriers }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_carrier_tech = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_power_of_the_purse }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_power_of_the_purse }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_power_of_the_purse = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_jeune_ecole }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_jeune_ecole }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_jeune_ecole = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_sea_lane_strategies }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_sea_lane_strategies }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_sea_lane_strategies = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_battlefleet_tactics }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_battlefleet_tactics }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_battlefleet_tactics = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_market_squares }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_market_squares }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_urban_planning = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_covered_markets }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_covered_markets }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steel_frame_buildings = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_arcades }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_arcades }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_elevator = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_electric_streetlights }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_electric_streetlights }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electrical_generation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_public_trams }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_public_trams }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_railways = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_public_motor_carriages }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_public_motor_carriages }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_combustion_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_realist_art }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_realist_art }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_realism = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_photographic_art }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_photographic_art }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_camera = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_film_art }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_film_art }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_film = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_bourgeoisie_patronage }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_bourgeoisie_patronage }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_realism = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_independent_artists }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_independent_artists }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_realism = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_coal-fired_plant }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_coal-fired_plant }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steam_turbine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_oil-fired_plant }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_oil-fired_plant }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_oil_turbine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_power_plant }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_power_plant }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_industrial_port }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_industrial_port }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_gantry_cranes = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_modern_port }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_modern_port }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_concrete_dockyards = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_horizontal_drawer_cabinets }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_horizontal_drawer_cabinets }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_centralization = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_vertical_filing_cabinets }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_vertical_filing_cabinets }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_central_archives = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_switch_boards }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_switch_boards }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_central_planning = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_philosophy_department }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_philosophy_department }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_dialectics = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_analytical_philosophy_department }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_analytical_philosophy_department }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_analytical_philosophy = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_airship_mooring_post }
-			}
-			eurikacheck_zeppelins = yes
-		}
-		100 = {
-			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_saw_mills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_saw_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steelworking = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_electric_saw_mills }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_electric_saw_mills }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electrical_generation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steam_donkey_building_logging_camp }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steam_donkey_building_logging_camp }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steam_donkey = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_chainsaws }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_chainsaws }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_combustion_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rail_transport_building_logging_camp }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rail_transport_building_logging_camp }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_railways = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_log_carts }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_log_carts }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electric_railway = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_logging_camp }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_logging_camp }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = automatic_irrigation_building_rubber_plantation }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_rubber_plantation }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pumpjacks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steam_trawlers }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steam_trawlers }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_ironclad_tech = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_refrigerated_storage_building_fishing_wharf }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_refrigerated_storage_building_fishing_wharf }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pasteurization = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_refrigerated_rail_cars_building_fishing_wharf }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_refrigerated_rail_cars_building_fishing_wharf }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electric_railway = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_flash_freezing_building_fishing_wharf }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_flash_freezing_building_fishing_wharf }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_flash_freezing = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_fishing_wharf }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_fishing_wharf }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steam_whaling_ships }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steam_whaling_ships }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_ironclad_tech = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_refrigerated_storage_building_whaling_station }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_refrigerated_storage_building_whaling_station }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_pasteurization = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_refrigerated_rail_cars_building_whaling_station }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_refrigerated_rail_cars_building_whaling_station }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electric_railway = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_flash_freezing_building_whaling_station }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_flash_freezing_building_whaling_station }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_flash_freezing = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_whaling_station }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_whaling_station }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_combustion_derricks }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_combustion_derricks }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_combustion_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_rail_transport_building_oil_rig }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rail_transport_building_oil_rig }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_railways = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_tanker_cars }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_tanker_cars }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steel_railway_cars = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_oil_rig }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_oil_rig }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_electric_trains }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_electric_trains }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_electric_railway = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_diesel_trains }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_diesel_trains }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_compression_ignition = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steel_passenger_carriages }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steel_passenger_carriages }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steel_railway_cars = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_publicly_traded_building_railway }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_railway }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_mutual_funds = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_iron_frame_buildings }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_iron_frame_buildings }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_urban_planning = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_steel_frame_buildings }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_steel_frame_buildings }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_steel_frame_buildings = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				NOT = { has_active_production_method = pm_arc_welded_buildings }
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_arc_welded_buildings }
+					}
+					add = -100
+				}
 			}
 			eurikacheck_arc_welding = yes
 		}
@@ -2011,24 +3147,39 @@ eurika_effect = {
 #eurikacheck
 eurikacheck_academia = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = romanticism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = romanticism }
+					}
+					add = -100
+				}
 			}
 			eurika_romanticism = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = medical_degrees }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = medical_degrees }
+					}
+					add = -100
+				}
 			}
 			eurika_medical_degrees = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = empiricism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = empiricism }
+					}
+					add = -100
+				}
 			}
 			eurika_empiricism = yes
 		}
@@ -2036,17 +3187,28 @@ eurikacheck_academia = {
 }
 eurikacheck_admiralty = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = paddle_steamer }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = paddle_steamer }
+					}
+					add = -100
+				}
 			}
 			eurika_paddle_steamer = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = power_of_the_purse }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = power_of_the_purse }
+					}
+					add = -100
+				}
 			}
 			eurika_power_of_the_purse = yes
 		}
@@ -2054,10 +3216,17 @@ eurikacheck_admiralty = {
 }
 eurikacheck_anarchism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = political_agitation }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = political_agitation }
+					}
+					add = -100
+				}
 			}
 			eurika_political_agitation = yes
 		}
@@ -2065,10 +3234,17 @@ eurikacheck_anarchism = {
 }
 eurikacheck_aniline = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = art_silk }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = art_silk }
+					}
+					add = -100
+				}
 			}
 			eurika_art_silk = yes
 		}
@@ -2076,17 +3252,28 @@ eurikacheck_aniline = {
 }
 eurikacheck_artillery = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = shell_gun }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = shell_gun }
+					}
+					add = -100
+				}
 			}
 			eurika_shell_gun = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = napoleonic_warfare }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = napoleonic_warfare }
+					}
+					add = -100
+				}
 			}
 			eurika_napoleonic_warfare = yes
 		}
@@ -2094,17 +3281,28 @@ eurikacheck_artillery = {
 }
 eurikacheck_atmospheric_engine = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = watertube_boiler }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = watertube_boiler }
+					}
+					add = -100
+				}
 			}
 			eurika_watertube_boiler = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = railways }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = railways }
+					}
+					add = -100
+				}
 			}
 			eurika_railways = yes
 		}
@@ -2112,17 +3310,28 @@ eurikacheck_atmospheric_engine = {
 }
 eurikacheck_automatic_machine_guns = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = chemical_warfare }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = chemical_warfare }
+					}
+					add = -100
+				}
 			}
 			eurika_chemical_warfare = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = flamethrowers }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = flamethrowers }
+					}
+					add = -100
+				}
 			}
 			eurika_flamethrowers = yes
 		}
@@ -2130,10 +3339,17 @@ eurikacheck_automatic_machine_guns = {
 }
 eurikacheck_banking = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = central_banking }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = central_banking }
+					}
+					add = -100
+				}
 			}
 			eurika_central_banking = yes
 		}
@@ -2141,10 +3357,17 @@ eurikacheck_banking = {
 }
 eurikacheck_battleship_tech = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = battlefleet_tactics }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = battlefleet_tactics }
+					}
+					add = -100
+				}
 			}
 			eurika_battlefleet_tactics = yes
 		}
@@ -2152,17 +3375,28 @@ eurikacheck_battleship_tech = {
 }
 eurikacheck_bessemer_process = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = reinforced_concrete }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = reinforced_concrete }
+					}
+					add = -100
+				}
 			}
 			eurika_reinforced_concrete = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = open_hearth_process }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = open_hearth_process }
+					}
+					add = -100
+				}
 			}
 			eurika_open_hearth_process = yes
 		}
@@ -2170,10 +3404,17 @@ eurikacheck_bessemer_process = {
 }
 eurikacheck_bolt_action_rifles = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = automatic_machine_guns }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = automatic_machine_guns }
+					}
+					add = -100
+				}
 			}
 			eurika_automatic_machine_guns = yes
 		}
@@ -2181,10 +3422,17 @@ eurikacheck_bolt_action_rifles = {
 }
 eurikacheck_breech_loading_artillery = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = handcranked_machine_gun }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = handcranked_machine_gun }
+					}
+					add = -100
+				}
 			}
 			eurika_handcranked_machine_gun = yes
 		}
@@ -2192,10 +3440,17 @@ eurikacheck_breech_loading_artillery = {
 }
 eurikacheck_camera = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = film }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = film }
+					}
+					add = -100
+				}
 			}
 			eurika_film = yes
 		}
@@ -2203,10 +3458,17 @@ eurikacheck_camera = {
 }
 eurikacheck_canneries = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mechanized_workshops }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mechanized_workshops }
+					}
+					add = -100
+				}
 			}
 			eurika_mechanized_workshops = yes
 		}
@@ -2214,10 +3476,17 @@ eurikacheck_canneries = {
 }
 eurikacheck_central_archives = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = identification_documents }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = identification_documents }
+					}
+					add = -100
+				}
 			}
 			eurika_identification_documents = yes
 		}
@@ -2225,10 +3494,17 @@ eurikacheck_central_archives = {
 }
 eurikacheck_central_banking = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mutual_funds }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mutual_funds }
+					}
+					add = -100
+				}
 			}
 			eurika_mutual_funds = yes
 		}
@@ -2236,10 +3512,17 @@ eurikacheck_central_banking = {
 }
 eurikacheck_central_planning = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mass_surveillance }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mass_surveillance }
+					}
+					add = -100
+				}
 			}
 			eurika_mass_surveillance = yes
 		}
@@ -2247,17 +3530,28 @@ eurikacheck_central_planning = {
 }
 eurikacheck_centralization = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = central_archives }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = central_archives }
+					}
+					add = -100
+				}
 			}
 			eurika_central_archives = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = currency_standards }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = currency_standards }
+					}
+					add = -100
+				}
 			}
 			eurika_currency_standards = yes
 		}
@@ -2265,10 +3559,17 @@ eurikacheck_centralization = {
 }
 eurikacheck_chemical_bleaching = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = rubber_mastication }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = rubber_mastication }
+					}
+					add = -100
+				}
 			}
 			eurika_rubber_mastication = yes
 		}
@@ -2276,10 +3577,17 @@ eurikacheck_chemical_bleaching = {
 }
 eurikacheck_civilizing_mission = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = malaria_prevention }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = malaria_prevention }
+					}
+					add = -100
+				}
 			}
 			eurika_malaria_prevention = yes
 		}
@@ -2287,10 +3595,17 @@ eurikacheck_civilizing_mission = {
 }
 eurikacheck_colonization = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = quinine }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = quinine }
+					}
+					add = -100
+				}
 			}
 			eurika_quinine = yes
 		}
@@ -2298,10 +3613,17 @@ eurikacheck_colonization = {
 }
 eurikacheck_combustion_engine = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = compression_ignition }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = compression_ignition }
+					}
+					add = -100
+				}
 			}
 			eurika_compression_ignition = yes
 		}
@@ -2309,10 +3631,17 @@ eurikacheck_combustion_engine = {
 }
 eurikacheck_concrete_fortifications = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mobile_armor }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mobile_armor }
+					}
+					add = -100
+				}
 			}
 			eurika_mobile_armor = yes
 		}
@@ -2320,10 +3649,17 @@ eurikacheck_concrete_fortifications = {
 }
 eurikacheck_conveyors = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = dough_rollers }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = dough_rollers }
+					}
+					add = -100
+				}
 			}
 			eurika_dough_rollers = yes
 		}
@@ -2331,10 +3667,17 @@ eurikacheck_conveyors = {
 }
 eurikacheck_cotton_gin = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = lathe }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = lathe }
+					}
+					add = -100
+				}
 			}
 			eurika_lathe = yes
 		}
@@ -2342,10 +3685,17 @@ eurikacheck_cotton_gin = {
 }
 eurikacheck_crystal_glass = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = chemical_bleaching }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = chemical_bleaching }
+					}
+					add = -100
+				}
 			}
 			eurika_chemical_bleaching = yes
 		}
@@ -2353,10 +3703,17 @@ eurikacheck_crystal_glass = {
 }
 eurikacheck_currency_standards = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = banking }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = banking }
+					}
+					add = -100
+				}
 			}
 			eurika_banking = yes
 		}
@@ -2364,17 +3721,28 @@ eurikacheck_currency_standards = {
 }
 eurikacheck_defense_in_depth = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = concrete_fortifications }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = concrete_fortifications }
+					}
+					add = -100
+				}
 			}
 			eurika_concrete_fortifications = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = military_aviation }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = military_aviation }
+					}
+					add = -100
+				}
 			}
 			eurika_military_aviation = yes
 		}
@@ -2382,17 +3750,28 @@ eurikacheck_defense_in_depth = {
 }
 eurikacheck_democracy = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mass_communication }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mass_communication }
+					}
+					add = -100
+				}
 			}
 			eurika_mass_communication = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = egalitarianism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = egalitarianism }
+					}
+					add = -100
+				}
 			}
 			eurika_egalitarianism = yes
 		}
@@ -2400,10 +3779,17 @@ eurikacheck_democracy = {
 }
 eurikacheck_dialectics = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = socialism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = socialism }
+					}
+					add = -100
+				}
 			}
 			eurika_socialism = yes
 		}
@@ -2411,10 +3797,17 @@ eurikacheck_dialectics = {
 }
 eurikacheck_distillation = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = fractional_distillation }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = fractional_distillation }
+					}
+					add = -100
+				}
 			}
 			eurika_fractional_distillation = yes
 		}
@@ -2422,17 +3815,28 @@ eurikacheck_distillation = {
 }
 eurikacheck_dreadnought = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = carrier_tech }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = carrier_tech }
+					}
+					add = -100
+				}
 			}
 			eurika_carrier_tech = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = battleship_tech }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = battleship_tech }
+					}
+					add = -100
+				}
 			}
 			eurika_battleship_tech = yes
 		}
@@ -2440,10 +3844,17 @@ eurikacheck_dreadnought = {
 }
 eurikacheck_drydocks = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = hydraulic_cranes }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = hydraulic_cranes }
+					}
+					add = -100
+				}
 			}
 			eurika_hydraulic_cranes = yes
 		}
@@ -2451,10 +3862,17 @@ eurikacheck_drydocks = {
 }
 eurikacheck_dynamite = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = pumpjacks }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = pumpjacks }
+					}
+					add = -100
+				}
 			}
 			eurika_pumpjacks = yes
 		}
@@ -2462,24 +3880,39 @@ eurikacheck_dynamite = {
 }
 eurikacheck_egalitarianism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = human_rights }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = human_rights }
+					}
+					add = -100
+				}
 			}
 			eurika_human_rights = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = anarchism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = anarchism }
+					}
+					add = -100
+				}
 			}
 			eurika_anarchism = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = labor_movement }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = labor_movement }
+					}
+					add = -100
+				}
 			}
 			eurika_labor_movement = yes
 		}
@@ -2487,10 +3920,17 @@ eurikacheck_egalitarianism = {
 }
 eurikacheck_electric_arc_process = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = arc_welding }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = arc_welding }
+					}
+					add = -100
+				}
 			}
 			eurika_arc_welding = yes
 		}
@@ -2498,17 +3938,28 @@ eurikacheck_electric_arc_process = {
 }
 eurikacheck_electric_telegraph = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = military_statistics }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = military_statistics }
+					}
+					add = -100
+				}
 			}
 			eurika_military_statistics = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = trench_works }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = trench_works }
+					}
+					add = -100
+				}
 			}
 			eurika_trench_works = yes
 		}
@@ -2516,17 +3967,28 @@ eurikacheck_electric_telegraph = {
 }
 eurikacheck_electrical_capacitors = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = electric_railway }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = electric_railway }
+					}
+					add = -100
+				}
 			}
 			eurika_electric_railway = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = pasteurization }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = pasteurization }
+					}
+					add = -100
+				}
 			}
 			eurika_pasteurization = yes
 		}
@@ -2534,31 +3996,50 @@ eurikacheck_electrical_capacitors = {
 }
 eurikacheck_electrical_generation = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = steam_turbine }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = steam_turbine }
+					}
+					add = -100
+				}
 			}
 			eurika_steam_turbine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = electrical_capacitors }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = electrical_capacitors }
+					}
+					add = -100
+				}
 			}
 			eurika_electrical_capacitors = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = telephone }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = telephone }
+					}
+					add = -100
+				}
 			}
 			eurika_telephone = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = conveyors }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = conveyors }
+					}
+					add = -100
+				}
 			}
 			eurika_conveyors = yes
 		}
@@ -2566,10 +4047,17 @@ eurikacheck_electrical_generation = {
 }
 eurikacheck_elevator = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = paved_roads }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = paved_roads }
+					}
+					add = -100
+				}
 			}
 			eurika_paved_roads = yes
 		}
@@ -2577,17 +4065,28 @@ eurikacheck_elevator = {
 }
 eurikacheck_empiricism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = dialectics }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = dialectics }
+					}
+					add = -100
+				}
 			}
 			eurika_dialectics = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = psychiatry }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = psychiatry }
+					}
+					add = -100
+				}
 			}
 			eurika_psychiatry = yes
 		}
@@ -2595,17 +4094,28 @@ eurikacheck_empiricism = {
 }
 eurikacheck_enclosure = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = shaft_mining }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = shaft_mining }
+					}
+					add = -100
+				}
 			}
 			eurika_shaft_mining = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = intensive_agriculture }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = intensive_agriculture }
+					}
+					add = -100
+				}
 			}
 			eurika_intensive_agriculture = yes
 		}
@@ -2613,10 +4123,17 @@ eurikacheck_enclosure = {
 }
 eurikacheck_enlistment_offices = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = war_propaganda }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = war_propaganda }
+					}
+					add = -100
+				}
 			}
 			eurika_war_propaganda = yes
 		}
@@ -2624,10 +4141,17 @@ eurikacheck_enlistment_offices = {
 }
 eurikacheck_film = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mass_propaganda }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mass_propaganda }
+					}
+					add = -100
+				}
 			}
 			eurika_mass_propaganda = yes
 		}
@@ -2635,10 +4159,17 @@ eurikacheck_film = {
 }
 eurikacheck_floating_harbor = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = concrete_dockyards }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = concrete_dockyards }
+					}
+					add = -100
+				}
 			}
 			eurika_concrete_dockyards = yes
 		}
@@ -2646,17 +4177,28 @@ eurikacheck_floating_harbor = {
 }
 eurikacheck_fractional_distillation = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = baking_powder }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = baking_powder }
+					}
+					add = -100
+				}
 			}
 			eurika_baking_powder = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = rubber_mastication }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = rubber_mastication }
+					}
+					add = -100
+				}
 			}
 			eurika_rubber_mastication = yes
 		}
@@ -2664,10 +4206,17 @@ eurikacheck_fractional_distillation = {
 }
 eurikacheck_gantry_cranes = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = floating_harbor }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = floating_harbor }
+					}
+					add = -100
+				}
 			}
 			eurika_floating_harbor = yes
 		}
@@ -2675,17 +4224,28 @@ eurikacheck_gantry_cranes = {
 }
 eurikacheck_general_staff = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = trench_works }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = trench_works }
+					}
+					add = -100
+				}
 			}
 			eurika_trench_works = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = military_statistics }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = military_statistics }
+					}
+					add = -100
+				}
 			}
 			eurika_military_statistics = yes
 		}
@@ -2693,17 +4253,28 @@ eurikacheck_general_staff = {
 }
 eurikacheck_gunsmithing = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = artillery }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = artillery }
+					}
+					add = -100
+				}
 			}
 			eurika_artillery = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = percussion_cap }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = percussion_cap }
+					}
+					add = -100
+				}
 			}
 			eurika_percussion_cap = yes
 		}
@@ -2711,10 +4282,17 @@ eurikacheck_gunsmithing = {
 }
 eurikacheck_handcranked_machine_gun = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = automatic_machine_guns }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = automatic_machine_guns }
+					}
+					add = -100
+				}
 			}
 			eurika_automatic_machine_guns = yes
 		}
@@ -2722,10 +4300,17 @@ eurikacheck_handcranked_machine_gun = {
 }
 eurikacheck_human_rights = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = feminism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = feminism }
+					}
+					add = -100
+				}
 			}
 			eurika_feminism = yes
 		}
@@ -2733,10 +4318,17 @@ eurikacheck_human_rights = {
 }
 eurikacheck_hydraulic_cranes = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = gantry_cranes }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = gantry_cranes }
+					}
+					add = -100
+				}
 			}
 			eurika_gantry_cranes = yes
 		}
@@ -2744,10 +4336,17 @@ eurikacheck_hydraulic_cranes = {
 }
 eurikacheck_identification_documents = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = central_planning }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = central_planning }
+					}
+					add = -100
+				}
 			}
 			eurika_central_planning = yes
 		}
@@ -2755,10 +4354,17 @@ eurikacheck_identification_documents = {
 }
 eurikacheck_improved_fertilizer = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = nitrogen_fixation }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = nitrogen_fixation }
+					}
+					add = -100
+				}
 			}
 			eurika_nitrogen_fixation = yes
 		}
@@ -2766,24 +4372,39 @@ eurikacheck_improved_fertilizer = {
 }
 eurikacheck_intensive_agriculture = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = nitroglycerin }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = nitroglycerin }
+					}
+					add = -100
+				}
 			}
 			eurika_nitroglycerin = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = improved_fertilizer }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = improved_fertilizer }
+					}
+					add = -100
+				}
 			}
 			eurika_improved_fertilizer = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = steam_donkey }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = steam_donkey }
+					}
+					add = -100
+				}
 			}
 			eurika_steam_donkey = yes
 		}
@@ -2791,17 +4412,28 @@ eurikacheck_intensive_agriculture = {
 }
 eurikacheck_international_exchange_standards = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = modern_financial_instruments }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = modern_financial_instruments }
+					}
+					add = -100
+				}
 			}
 			eurika_modern_financial_instruments = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = macroeconomics }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = macroeconomics }
+					}
+					add = -100
+				}
 			}
 			eurika_macroeconomics = yes
 		}
@@ -2809,17 +4441,28 @@ eurikacheck_international_exchange_standards = {
 }
 eurikacheck_international_relations = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = colonization }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = colonization }
+					}
+					add = -100
+				}
 			}
 			eurika_colonization = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = nationalism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = nationalism }
+					}
+					add = -100
+				}
 			}
 			eurika_nationalism = yes
 		}
@@ -2827,17 +4470,28 @@ eurikacheck_international_relations = {
 }
 eurikacheck_international_trade = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = currency_standards }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = currency_standards }
+					}
+					add = -100
+				}
 			}
 			eurika_currency_standards = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = stock_exchange }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = stock_exchange }
+					}
+					add = -100
+				}
 			}
 			eurika_stock_exchange = yes
 		}
@@ -2845,31 +4499,50 @@ eurikacheck_international_trade = {
 }
 eurikacheck_ironclad_tech = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = self_propelled_torpedoes }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = self_propelled_torpedoes }
+					}
+					add = -100
+				}
 			}
 			eurika_self_propelled_torpedoes = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = monitor_tech }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = monitor_tech }
+					}
+					add = -100
+				}
 			}
 			eurika_monitor_tech = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = dreadnought }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = dreadnought }
+					}
+					add = -100
+				}
 			}
 			eurika_dreadnought = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = destroyer }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = destroyer }
+					}
+					add = -100
+				}
 			}
 			eurika_destroyer = yes
 		}
@@ -2877,24 +4550,39 @@ eurikacheck_ironclad_tech = {
 }
 eurikacheck_jeune_ecole = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = sea_lane_strategies }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = sea_lane_strategies }
+					}
+					add = -100
+				}
 			}
 			eurika_sea_lane_strategies = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = landing_craft }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = landing_craft }
+					}
+					add = -100
+				}
 			}
 			eurika_landing_craft = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = self_propelled_torpedoes }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = self_propelled_torpedoes }
+					}
+					add = -100
+				}
 			}
 			eurika_self_propelled_torpedoes = yes
 		}
@@ -2902,10 +4590,17 @@ eurikacheck_jeune_ecole = {
 }
 eurikacheck_labor_movement = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = socialism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = socialism }
+					}
+					add = -100
+				}
 			}
 			eurika_socialism = yes
 		}
@@ -2913,24 +4608,39 @@ eurikacheck_labor_movement = {
 }
 eurikacheck_lathe = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = crystal_glass }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = crystal_glass }
+					}
+					add = -100
+				}
 			}
 			eurika_crystal_glass = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = canneries }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = canneries }
+					}
+					add = -100
+				}
 			}
 			eurika_canneries = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mechanical_tools }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mechanical_tools }
+					}
+					add = -100
+				}
 			}
 			eurika_mechanical_tools = yes
 		}
@@ -2938,17 +4648,28 @@ eurikacheck_lathe = {
 }
 eurikacheck_line_infantry = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = napoleonic_warfare }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = napoleonic_warfare }
+					}
+					add = -100
+				}
 			}
 			eurika_napoleonic_warfare = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = army_reserves }
+				if = {
+					limit = {
+						#OWNER = { has_technology_researched = army_reserves }
+					}
+					add = -100
+				}
 			}
 			eurika_army_reserves = yes
 		}
@@ -2956,24 +4677,39 @@ eurikacheck_line_infantry = {
 }
 eurikacheck_logistics = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = triage }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = triage }
+					}
+					add = -100
+				}
 			}
 			eurika_triage = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = enlistment_offices }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = enlistment_offices }
+					}
+					add = -100
+				}
 			}
 			eurika_enlistment_offices = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = electric_telegraph }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = electric_telegraph }
+					}
+					add = -100
+				}
 			}
 			eurika_electric_telegraph = yes
 		}
@@ -2981,10 +4717,17 @@ eurikacheck_logistics = {
 }
 eurikacheck_malaria_prevention = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = antibiotics }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = antibiotics }
+					}
+					add = -100
+				}
 			}
 			eurika_antibiotics = yes
 		}
@@ -2992,10 +4735,17 @@ eurikacheck_malaria_prevention = {
 }
 eurikacheck_mandatory_service = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = line_infantry }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = line_infantry }
+					}
+					add = -100
+				}
 			}
 			eurika_line_infantry = yes
 		}
@@ -3003,24 +4753,39 @@ eurikacheck_mandatory_service = {
 }
 eurikacheck_manufacturies = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = cotton_gin }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = cotton_gin }
+					}
+					add = -100
+				}
 			}
 			eurika_cotton_gin = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = distillation }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = distillation }
+					}
+					add = -100
+				}
 			}
 			eurika_distillation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = shaft_mining }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = shaft_mining }
+					}
+					add = -100
+				}
 			}
 			eurika_shaft_mining = yes
 		}
@@ -3028,17 +4793,28 @@ eurikacheck_manufacturies = {
 }
 eurikacheck_mass_communication = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = nationalism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = nationalism }
+					}
+					add = -100
+				}
 			}
 			eurika_nationalism = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = labor_movement }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = labor_movement }
+					}
+					add = -100
+				}
 			}
 			eurika_labor_movement = yes
 		}
@@ -3046,17 +4822,28 @@ eurikacheck_mass_communication = {
 }
 eurikacheck_mechanical_tools = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = railways }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = railways }
+					}
+					add = -100
+				}
 			}
 			eurika_railways = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mechanized_workshops }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mechanized_workshops }
+					}
+					add = -100
+				}
 			}
 			eurika_mechanized_workshops = yes
 		}
@@ -3064,17 +4851,28 @@ eurikacheck_mechanical_tools = {
 }
 eurikacheck_mechanized_workshops = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = vacuum_canning }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = vacuum_canning }
+					}
+					add = -100
+				}
 			}
 			eurika_vacuum_canning = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = shift_work }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = shift_work }
+					}
+					add = -100
+				}
 			}
 			eurika_shift_work = yes
 		}
@@ -3082,10 +4880,20 @@ eurikacheck_mechanized_workshops = {
 }
 eurikacheck_medical_degrees = {
 	random_list = {
+		1 = {
+			
+		}
+		1 = {
+
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = pharmaceuticals }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = pharmaceuticals }
+					}
+					add = -100
+				}
 			}
 			eurika_pharmaceuticals = yes
 		}
@@ -3093,10 +4901,17 @@ eurikacheck_medical_degrees = {
 }
 eurikacheck_military_aviation = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mobile_armor }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mobile_armor }
+					}
+					add = -100
+				}
 			}
 			eurika_mobile_armor = yes
 		}
@@ -3104,10 +4919,17 @@ eurikacheck_military_aviation = {
 }
 eurikacheck_military_drill = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = line_infantry }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = line_infantry }
+					}
+					add = -100
+				}
 			}
 			eurika_line_infantry = yes
 		}
@@ -3115,17 +4937,28 @@ eurikacheck_military_drill = {
 }
 eurikacheck_military_statistics = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = wargaming }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = wargaming }
+					}
+					add = -100
+				}
 			}
 			eurika_wargaming = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = nco_training }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = nco_training }
+					}
+					add = -100
+				}
 			}
 			eurika_nco_training = yes
 		}
@@ -3133,10 +4966,17 @@ eurikacheck_military_statistics = {
 }
 eurikacheck_modern_sewerage = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = steel_frame_buildings }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = steel_frame_buildings }
+					}
+					add = -100
+				}
 			}
 			eurika_steel_frame_buildings = yes
 		}
@@ -3144,17 +4984,28 @@ eurikacheck_modern_sewerage = {
 }
 eurikacheck_monitor_tech = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = destroyer }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = destroyer }
+					}
+					add = -100
+				}
 			}
 			eurika_destroyer = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = landing_craft }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = landing_craft }
+					}
+					add = -100
+				}
 			}
 			eurika_landing_craft = yes
 		}
@@ -3162,10 +5013,17 @@ eurikacheck_monitor_tech = {
 }
 eurikacheck_mutual_funds = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = international_exchange_standards }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = international_exchange_standards }
+					}
+					add = -100
+				}
 			}
 			eurika_international_exchange_standards = yes
 		}
@@ -3173,17 +5031,28 @@ eurikacheck_mutual_funds = {
 }
 eurikacheck_napoleonic_warfare = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = field_works }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = field_works }
+					}
+					add = -100
+				}
 			}
 			eurika_field_works = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = logistics }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = logistics }
+					}
+					add = -100
+				}
 			}
 			eurika_logistics = yes
 		}
@@ -3191,24 +5060,37 @@ eurikacheck_napoleonic_warfare = {
 }
 eurikacheck_nationalism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = organized_sports }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = organized_sports }
+					}
+					add = -100
+				}
 			}
 			eurika_organized_sports = yes
 		}
 		100 = {
-			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = pan-nationalism }
+			if = {
+				limit = {
+					OWNER = { has_technology_researched = pan-nationalism }
+				}
+				add = -100
 			}
 			eurika_pan-nationalism = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = civilizing_mission }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = civilizing_mission }
+					}
+					add = -100
+				}
 			}
 			eurika_civilizing_mission = yes
 		}
@@ -3216,17 +5098,28 @@ eurikacheck_nationalism = {
 }
 eurikacheck_navigation = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = drydocks }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = drydocks }
+					}
+					add = -100
+				}
 			}
 			eurika_drydocks = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = admiralty }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = admiralty }
+					}
+					add = -100
+				}
 			}
 			eurika_admiralty = yes
 		}
@@ -3234,10 +5127,17 @@ eurikacheck_navigation = {
 }
 eurikacheck_nco_training = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mobile_armor }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mobile_armor }
+					}
+					add = -100
+				}
 			}
 			eurika_mobile_armor = yes
 		}
@@ -3245,10 +5145,17 @@ eurikacheck_nco_training = {
 }
 eurikacheck_nitroglycerin = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = dynamite }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = dynamite }
+					}
+					add = -100
+				}
 			}
 			eurika_dynamite = yes
 		}
@@ -3256,10 +5163,17 @@ eurikacheck_nitroglycerin = {
 }
 eurikacheck_open_hearth_process = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = electric_arc_process }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = electric_arc_process }
+					}
+					add = -100
+				}
 			}
 			eurika_electric_arc_process = yes
 		}
@@ -3267,10 +5181,17 @@ eurikacheck_open_hearth_process = {
 }
 eurikacheck_paddle_steamer = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = screw_frigate }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = screw_frigate }
+					}
+					add = -100
+				}
 			}
 			eurika_screw_frigate = yes
 		}
@@ -3278,17 +5199,28 @@ eurikacheck_paddle_steamer = {
 }
 eurikacheck_pan-nationalism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = multilateral_alliances }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = multilateral_alliances }
+					}
+					add = -100
+				}
 			}
 			eurika_multilateral_alliances = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = political_agitation }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = political_agitation }
+					}
+					add = -100
+				}
 			}
 			eurika_political_agitation = yes
 		}
@@ -3296,10 +5228,17 @@ eurikacheck_pan-nationalism = {
 }
 eurikacheck_pasteurization = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = flash_freezing }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = flash_freezing }
+					}
+					add = -100
+				}
 			}
 			eurika_flash_freezing = yes
 		}
@@ -3307,10 +5246,17 @@ eurikacheck_pasteurization = {
 }
 eurikacheck_percussion_cap = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = rifling }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = rifling }
+					}
+					add = -100
+				}
 			}
 			eurika_rifling = yes
 		}
@@ -3318,10 +5264,17 @@ eurikacheck_percussion_cap = {
 }
 eurikacheck_pharmaceuticals = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = quinine }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = quinine }
+					}
+					add = -100
+				}
 			}
 			eurika_quinine = yes
 		}
@@ -3329,10 +5282,17 @@ eurikacheck_pharmaceuticals = {
 }
 eurikacheck_philosophical_pragmatism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = psychoanalysis }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = psychoanalysis }
+					}
+					add = -100
+				}
 			}
 			eurika_psychoanalysis = yes
 		}
@@ -3340,10 +5300,17 @@ eurikacheck_philosophical_pragmatism = {
 }
 eurikacheck_pneumatic_tools = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = arc_welding }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = arc_welding }
+					}
+					add = -100
+				}
 			}
 			eurika_arc_welding = yes
 		}
@@ -3351,10 +5318,17 @@ eurikacheck_pneumatic_tools = {
 }
 eurikacheck_political_agitation = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mass_propaganda }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mass_propaganda }
+					}
+					add = -100
+				}
 			}
 			eurika_mass_propaganda = yes
 		}
@@ -3362,10 +5336,17 @@ eurikacheck_political_agitation = {
 }
 eurikacheck_postal_savings = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mutual_funds }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mutual_funds }
+					}
+					add = -100
+				}
 			}
 			eurika_mutual_funds = yes
 		}
@@ -3373,10 +5354,17 @@ eurikacheck_postal_savings = {
 }
 eurikacheck_power_of_the_purse = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = jeune_ecole }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = jeune_ecole }
+					}
+					add = -100
+				}
 			}
 			eurika_jeune_ecole = yes
 		}
@@ -3384,10 +5372,17 @@ eurikacheck_power_of_the_purse = {
 }
 eurikacheck_prospecting = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = nitroglycerin }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = nitroglycerin }
+					}
+					add = -100
+				}
 			}
 			eurika_nitroglycerin = yes
 		}
@@ -3395,10 +5390,17 @@ eurikacheck_prospecting = {
 }
 eurikacheck_psychiatry = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = philosophical_pragmatism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = philosophical_pragmatism }
+					}
+					add = -100
+				}
 			}
 			eurika_philosophical_pragmatism = yes
 		}
@@ -3406,17 +5408,28 @@ eurikacheck_psychiatry = {
 }
 eurikacheck_psychoanalysis = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = behaviorism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = behaviorism }
+					}
+					add = -100
+				}
 			}
 			eurika_behaviorism = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = analytical_philosophy }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = analytical_philosophy }
+					}
+					add = -100
+				}
 			}
 			eurika_analytical_philosophy = yes
 		}
@@ -3424,10 +5437,17 @@ eurikacheck_psychoanalysis = {
 }
 eurikacheck_quinine = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = civilizing_mission }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = civilizing_mission }
+					}
+					add = -100
+				}
 			}
 			eurika_civilizing_mission = yes
 		}
@@ -3435,10 +5455,17 @@ eurikacheck_quinine = {
 }
 eurikacheck_railways = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = steel_railway_cars }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = steel_railway_cars }
+					}
+					add = -100
+				}
 			}
 			eurika_steel_railway_cars = yes
 		}
@@ -3446,17 +5473,28 @@ eurikacheck_railways = {
 }
 eurikacheck_rationalism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = democracy }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = democracy }
+					}
+					add = -100
+				}
 			}
 			eurika_democracy = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = academia }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = academia }
+					}
+					add = -100
+				}
 			}
 			eurika_academia = yes
 		}
@@ -3464,10 +5502,17 @@ eurikacheck_rationalism = {
 }
 eurikacheck_realism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = camera }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = camera }
+					}
+					add = -100
+				}
 			}
 			eurika_camera = yes
 		}
@@ -3475,17 +5520,28 @@ eurikacheck_realism = {
 }
 eurikacheck_reinforced_concrete = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = plastics }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = plastics }
+					}
+					add = -100
+				}
 			}
 			eurika_plastics = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = pneumatic_tools }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = pneumatic_tools }
+					}
+					add = -100
+				}
 			}
 			eurika_pneumatic_tools = yes
 		}
@@ -3493,17 +5549,28 @@ eurikacheck_reinforced_concrete = {
 }
 eurikacheck_repeaters = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = handcranked_machine_gun }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = handcranked_machine_gun }
+					}
+					add = -100
+				}
 			}
 			eurika_handcranked_machine_gun = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = bolt_action_rifles }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = bolt_action_rifles }
+					}
+					add = -100
+				}
 			}
 			eurika_bolt_action_rifles = yes
 		}
@@ -3511,17 +5578,28 @@ eurikacheck_repeaters = {
 }
 eurikacheck_rifling = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = repeaters }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = repeaters }
+					}
+					add = -100
+				}
 			}
 			eurika_repeaters = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = breech_loading_artillery }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = breech_loading_artillery }
+					}
+					add = -100
+				}
 			}
 			eurika_breech_loading_artillery = yes
 		}
@@ -3529,10 +5607,17 @@ eurikacheck_rifling = {
 }
 eurikacheck_romanticism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = realism }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = realism }
+					}
+					add = -100
+				}
 			}
 			eurika_realism = yes
 		}
@@ -3540,24 +5625,39 @@ eurikacheck_romanticism = {
 }
 eurikacheck_rotary_valve_engine = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = electrical_generation }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = electrical_generation }
+					}
+					add = -100
+				}
 			}
 			eurika_electrical_generation = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = combustion_engine }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = combustion_engine }
+					}
+					add = -100
+				}
 			}
 			eurika_combustion_engine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = pneumatic_tools }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = pneumatic_tools }
+					}
+					add = -100
+				}
 			}
 			eurika_pneumatic_tools = yes
 		}
@@ -3565,17 +5665,28 @@ eurikacheck_rotary_valve_engine = {
 }
 eurikacheck_rubber_mastication = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = aniline }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = aniline }
+					}
+					add = -100
+				}
 			}
 			eurika_aniline = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = vulcanization }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = vulcanization }
+					}
+					add = -100
+				}
 			}
 			eurika_vulcanization = yes
 		}
@@ -3583,10 +5694,17 @@ eurikacheck_rubber_mastication = {
 }
 eurikacheck_screw_frigate = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = ironclad_tech }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = ironclad_tech }
+					}
+					add = -100
+				}
 			}
 			eurika_ironclad_tech = yes
 		}
@@ -3594,17 +5712,28 @@ eurikacheck_screw_frigate = {
 }
 eurikacheck_sea_lane_strategies = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = dreadnought }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = dreadnought }
+					}
+					add = -100
+				}
 			}
 			eurika_dreadnought = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = battlefleet_tactics }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = battlefleet_tactics }
+					}
+					add = -100
+				}
 			}
 			eurika_battlefleet_tactics = yes
 		}
@@ -3612,10 +5741,17 @@ eurikacheck_sea_lane_strategies = {
 }
 eurikacheck_self_propelled_torpedoes = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = submarine }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = submarine }
+					}
+					add = -100
+				}
 			}
 			eurika_submarine = yes
 		}
@@ -3623,24 +5759,39 @@ eurikacheck_self_propelled_torpedoes = {
 }
 eurikacheck_shaft_mining = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = steelworking }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = steelworking }
+					}
+					add = -100
+				}
 			}
 			eurika_steelworking = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = prospecting }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = prospecting }
+					}
+					add = -100
+				}
 			}
 			eurika_prospecting = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = atmospheric_engine }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = atmospheric_engine }
+					}
+					add = -100
+				}
 			}
 			eurika_atmospheric_engine = yes
 		}
@@ -3648,10 +5799,17 @@ eurikacheck_shaft_mining = {
 }
 eurikacheck_shell_gun = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = breech_loading_artillery }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = breech_loading_artillery }
+					}
+					add = -100
+				}
 			}
 			eurika_breech_loading_artillery = yes
 		}
@@ -3659,17 +5817,28 @@ eurikacheck_shell_gun = {
 }
 eurikacheck_shift_work = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = telephone }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = telephone }
+					}
+					add = -100
+				}
 			}
 			eurika_telephone = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = conveyors }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = conveyors }
+					}
+					add = -100
+				}
 			}
 			eurika_conveyors = yes
 		}
@@ -3677,10 +5846,17 @@ eurikacheck_shift_work = {
 }
 eurikacheck_socialism = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = political_agitation }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = political_agitation }
+					}
+					add = -100
+				}
 			}
 			eurika_political_agitation = yes
 		}
@@ -3688,24 +5864,39 @@ eurikacheck_socialism = {
 }
 eurikacheck_standing_army = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mandatory_service }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mandatory_service }
+					}
+					add = -100
+				}
 			}
 			eurika_mandatory_service = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = gunsmithing }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = gunsmithing }
+					}
+					add = -100
+				}
 			}
 			eurika_gunsmithing = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = military_drill }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = military_drill }
+					}
+					add = -100
+				}
 			}
 			eurika_military_drill = yes
 		}
@@ -3713,17 +5904,28 @@ eurikacheck_standing_army = {
 }
 eurikacheck_steam_donkey = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = threshing_machine }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = threshing_machine }
+					}
+					add = -100
+				}
 			}
 			eurika_threshing_machine = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = pumpjacks }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = pumpjacks }
+					}
+					add = -100
+				}
 			}
 			eurika_pumpjacks = yes
 		}
@@ -3731,10 +5933,17 @@ eurikacheck_steam_donkey = {
 }
 eurikacheck_steam_turbine = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = oil_turbine }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = oil_turbine }
+					}
+					add = -100
+				}
 			}
 			eurika_oil_turbine = yes
 		}
@@ -3742,17 +5951,28 @@ eurikacheck_steam_turbine = {
 }
 eurikacheck_steel_frame_buildings = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = elevator }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = elevator }
+					}
+					add = -100
+				}
 			}
 			eurika_elevator = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = zeppelins }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = zeppelins }
+					}
+					add = -100
+				}
 			}
 			eurika_zeppelins = yes
 		}
@@ -3760,10 +5980,17 @@ eurikacheck_steel_frame_buildings = {
 }
 eurikacheck_steel_railway_cars = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = electric_railway }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = electric_railway }
+					}
+					add = -100
+				}
 			}
 			eurika_electric_railway = yes
 		}
@@ -3771,17 +5998,28 @@ eurikacheck_steel_railway_cars = {
 }
 eurikacheck_steelworking = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = bessemer_process }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = bessemer_process }
+					}
+					add = -100
+				}
 			}
 			eurika_bessemer_process = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mechanical_tools }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mechanical_tools }
+					}
+					add = -100
+				}
 			}
 			eurika_mechanical_tools = yes
 		}
@@ -3789,10 +6027,17 @@ eurikacheck_steelworking = {
 }
 eurikacheck_stock_exchange = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = postal_savings }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = postal_savings }
+					}
+					add = -100
+				}
 			}
 			eurika_postal_savings = yes
 		}
@@ -3800,10 +6045,17 @@ eurikacheck_stock_exchange = {
 }
 eurikacheck_telephone = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = radio }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = radio }
+					}
+					add = -100
+				}
 			}
 			eurika_radio = yes
 		}
@@ -3811,10 +6063,17 @@ eurikacheck_telephone = {
 }
 eurikacheck_threshing_machine = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = mechanized_farming }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = mechanized_farming }
+					}
+					add = -100
+				}
 			}
 			eurika_mechanized_farming = yes
 		}
@@ -3822,31 +6081,50 @@ eurikacheck_threshing_machine = {
 }
 eurikacheck_trench_works = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = defense_in_depth }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = defense_in_depth }
+					}
+					add = -100
+				}
 			}
 			eurika_defense_in_depth = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = flamethrowers }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = flamethrowers }
+					}
+					add = -100
+				}
 			}
 			eurika_flamethrowers = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = nco_training }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = nco_training }
+					}
+					add = -100
+				}
 			}
 			eurika_nco_training = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = stormtroopers }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = stormtroopers }
+					}
+					add = -100
+				}
 			}
 			eurika_stormtroopers = yes
 		}
@@ -3854,10 +6132,17 @@ eurikacheck_trench_works = {
 }
 eurikacheck_triage = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = modern_nursing }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = modern_nursing }
+					}
+					add = -100
+				}
 			}
 			eurika_modern_nursing = yes
 		}
@@ -3865,10 +6150,17 @@ eurikacheck_triage = {
 }
 eurikacheck_urban_planning = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = modern_sewerage }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = modern_sewerage }
+					}
+					add = -100
+				}
 			}
 			eurika_modern_sewerage = yes
 		}
@@ -3876,17 +6168,28 @@ eurikacheck_urban_planning = {
 }
 eurikacheck_urbanization = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = urban_planning }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = urban_planning }
+					}
+					add = -100
+				}
 			}
 			eurika_urban_planning = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = tech_bureaucracy }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = tech_bureaucracy }
+					}
+					add = -100
+				}
 			}
 			eurika_tech_bureaucracy = yes
 		}
@@ -3894,10 +6197,17 @@ eurikacheck_urbanization = {
 }
 eurikacheck_vacuum_canning = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = pasteurization }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = pasteurization }
+					}
+					add = -100
+				}
 			}
 			eurika_pasteurization = yes
 		}
@@ -3905,17 +6215,28 @@ eurikacheck_vacuum_canning = {
 }
 eurikacheck_vulcanization = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = automatic_bottle_blowers }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = automatic_bottle_blowers }
+					}
+					add = -100
+				}
 			}
 			eurika_automatic_bottle_blowers = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = conveyors }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = conveyors }
+					}
+					add = -100
+				}
 			}
 			eurika_conveyors = yes
 		}
@@ -3923,10 +6244,17 @@ eurikacheck_vulcanization = {
 }
 eurikacheck_wargaming = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = stormtroopers }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = stormtroopers }
+					}
+					add = -100
+				}
 			}
 			eurika_stormtroopers = yes
 		}
@@ -3934,10 +6262,17 @@ eurikacheck_wargaming = {
 }
 eurikacheck_watertube_boiler = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = rotary_valve_engine }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = rotary_valve_engine }
+					}
+					add = -100
+				}
 			}
 			eurika_rotary_valve_engine = yes
 		}
@@ -3945,31 +6280,50 @@ eurikacheck_watertube_boiler = {
 }
 eurikacheck_tech_bureaucracy = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = centralization }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = centralization }
+					}
+					add = -100
+				}
 			}
 			eurika_centralization = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = international_trade }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = international_trade }
+					}
+					add = -100
+				}
 			}
 			eurika_international_trade = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = international_relations }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = international_relations }
+					}
+					add = -100
+				}
 			}
 			eurika_international_relations = yes
 		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = law_enforcement }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = law_enforcement }
+					}
+					add = -100
+				}
 			}
 			eurika_law_enforcement = yes
 		}
@@ -3977,10 +6331,17 @@ eurikacheck_tech_bureaucracy = {
 }
 eurikacheck_urban_planning = {
 	random_list = {
+		1 = {
+			
+		}
 		100 = {
 			modifier = {
-				factor = 0
-				OWNER = { has_technology_researched = law_enforcement }
+				if = {
+					limit = {
+						OWNER = { has_technology_researched = law_enforcement }
+					}
+					add = -100
+				}
 			}
 			eurika_law_enforcement = yes
 		}
@@ -5398,13 +7759,13 @@ eurika_army_reserves = {
             }
             PREV = { eurika_line_infantry = yes }
         }
-	 	else = {
-            add_technology_progress = { 
-		        progress = 1000
-			    technology =  army_reserves
-		    }
-		    post_notification = eurika_army_reserves_notification
-		}
+	 	#else = {
+        #    add_technology_progress = { 
+		#        progress = 1000
+		#	    technology =  army_reserves
+		#    }
+		#    post_notification = eurika_army_reserves_notification
+		#}
     }
 }
 
@@ -5482,7 +7843,7 @@ eurika_logistics = {
         }
 	    else_if = {
             limit =  {
-                NOT = { has_technology_researched = army_reserves }
+                #NOT = { has_technology_researched = army_reserves }
             }
             PREV = { eurika_army_reserves = yes }
         }
@@ -5577,7 +7938,7 @@ eurika_general_staff = {
 	owner = {
 	    if =  {
             limit =  {
-                NOT = { has_technology_researched = army_reserves }
+                #NOT = { has_technology_researched = army_reserves }
             }
             PREV = { eurika_army_reserves = yes }
         }
