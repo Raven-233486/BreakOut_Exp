@@ -1,4 +1,230 @@
-﻿breakout_eurika_atmospheric_engine = {
+﻿breakout_eurika_admiralty = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = admiralty
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+
+breakout_eurika_sericulture = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = sericulture
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_enclosure = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = enclosure
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_manufacturies = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = manufacturies
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_shaft_mining = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = shaft_mining
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_cotton_gin = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = cotton_gin
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_lathe = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = lathe
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_distillation = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = distillation
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_steelworking = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = steelworking
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_prospecting = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = prospecting
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_crystal_glass = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = crystal_glass
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_intensive_agriculture = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = intensive_agriculture
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_fractional_distillation = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = fractional_distillation
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_canneries = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = canneries
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_watertube_boiler = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = watertube_boiler
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_atmospheric_engine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -13,4 +239,2433 @@
 		always = no
 	}
 }
-
+breakout_eurika_railways = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = railways
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_chemical_bleaching = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = chemical_bleaching
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_nitroglycerin = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = nitroglycerin
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_bessemer_process = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = bessemer_process
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_baking_powder = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = baking_powder
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_mechanized_workshops = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = mechanized_workshops
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_mechanical_tools = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = mechanical_tools
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_improved_fertilizer = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = improved_fertilizer
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_steam_donkey = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = steam_donkey
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_dynamite = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = dynamite
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_rubber_mastication = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = rubber_mastication
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_rotary_valve_engine = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = rotary_valve_engine
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_reinforced_concrete = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = reinforced_concrete
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_threshing_machine = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = threshing_machine
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_pumpjacks = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = pumpjacks
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_aniline = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = aniline
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_open_hearth_process = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = open_hearth_process
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_vulcanization = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = vulcanization
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_vacuum_canning = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = vacuum_canning
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_shift_work = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = shift_work
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_steel_railway_cars = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = steel_railway_cars
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_electrical_generation = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = electrical_generation
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_mechanized_farming = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = mechanized_farming
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_art_silk = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = art_silk
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_automatic_bottle_blowers = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = automatic_bottle_blowers
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_conveyors = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = conveyors
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_pasteurization = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = pasteurization
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_electric_railway = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = electric_railway
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_combustion_engine = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = combustion_engine
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_pneumatic_tools = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = pneumatic_tools
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_nitrogen_fixation = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = nitrogen_fixation
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_electric_arc_process = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = electric_arc_process
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_steam_turbine = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = steam_turbine
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_plastics = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = plastics
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_electrical_capacitors = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = electrical_capacitors
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_radio = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = radio
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_telephone = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = telephone
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_dough_rollers = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = dough_rollers
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_flash_freezing = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = flash_freezing
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_oil_turbine = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = oil_turbine
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_arc_welding = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = arc_welding
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_compression_ignition = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = compression_ignition
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_standing_army = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = standing_army
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_navigation = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = navigation
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_drydocks = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = drydocks
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_mandatory_service = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = mandatory_service
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_gunsmithing = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = gunsmithing
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_artillery = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = artillery
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_military_drill = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = military_drill
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_napoleonic_warfare = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = napoleonic_warfare
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_admiralty = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = admiralty
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_army_reserves = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = army_reserves
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_line_infantry = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = line_infantry
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_paddle_steamer = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = paddle_steamer
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_field_works = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = field_works
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_logistics = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = logistics
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_triage = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = triage
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_shell_gun = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = shell_gun
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_percussion_cap = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = percussion_cap
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_rifling = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = rifling
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_general_staff = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = general_staff
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_screw_frigate = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = screw_frigate
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_power_of_the_purse = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = power_of_the_purse
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_hydraulic_cranes = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = hydraulic_cranes
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_modern_nursing = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = modern_nursing
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_enlistment_offices = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = enlistment_offices
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_electric_telegraph = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = electric_telegraph
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_military_statistics = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = military_statistics
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_repeaters = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = repeaters
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_breech_loading_artillery = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = breech_loading_artillery
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_handcranked_machine_gun = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = handcranked_machine_gun
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_self_propelled_torpedoes = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = self_propelled_torpedoes
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_monitor_tech = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = monitor_tech
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_ironclad_tech = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = ironclad_tech
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_jeune_ecole = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = jeune_ecole
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_floating_harbor = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = floating_harbor
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_gantry_cranes = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = gantry_cranes
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_trench_works = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = trench_works
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_war_propaganda = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = war_propaganda
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_wargaming = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = wargaming
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_defense_in_depth = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = defense_in_depth
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_bolt_action_rifles = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = bolt_action_rifles
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_automatic_machine_guns = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = automatic_machine_guns
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_submarine = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = submarine
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_destroyer = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = destroyer
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_dreadnought = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = dreadnought
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_sea_lane_strategies = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = sea_lane_strategies
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_landing_craft = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = landing_craft
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_concrete_dockyards = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = concrete_dockyards
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_nco_training = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = nco_training
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_chemical_warfare = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = chemical_warfare
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_stormtroopers = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = stormtroopers
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_concrete_fortifications = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = concrete_fortifications
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_mobile_armor = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = mobile_armor
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_military_aviation = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = military_aviation
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_flamethrowers = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = flamethrowers
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_carrier_tech = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = carrier_tech
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_battleship_tech = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = battleship_tech
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_battlefleet_tactics = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = battlefleet_tactics
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_urbanization = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = urbanization
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_urban_planning = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = urban_planning
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_rationalism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = rationalism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_tech_bureaucracy = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = tech_bureaucracy
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_currency_standards = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = currency_standards
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_democracy = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = democracy
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_romanticism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = romanticism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_international_trade = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = international_trade
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_bureaucracy = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = bureaucracy
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_centralization = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = centralization
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_bureaucracy = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = bureaucracy
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_banking = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = banking
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_academia = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = academia
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_colonization = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = colonization
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_international_relations = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = international_relations
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_bureaucracy = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = bureaucracy
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_law_enforcement = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = law_enforcement
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_bureaucracy = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = bureaucracy
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_stock_exchange = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = stock_exchange
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_medical_degrees = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = medical_degrees
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_mass_communication = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = mass_communication
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_empiricism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = empiricism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_egalitarianism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = egalitarianism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_pharmaceuticals = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = pharmaceuticals
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_modern_sewerage = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = modern_sewerage
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_quinine = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = quinine
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_organized_sports = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = organized_sports
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_central_archives = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = central_archives
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_central_banking = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = central_banking
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_dialectics = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = dialectics
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_psychiatry = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = psychiatry
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_realism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = realism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_nationalism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = nationalism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_labor_movement = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = labor_movement
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_postal_savings = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = postal_savings
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_human_rights = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = human_rights
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_feminism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = feminism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_steel_frame_buildings = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = steel_frame_buildings
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_civilizing_mission = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = civilizing_mission
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_anarchism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = anarchism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_socialism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = socialism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_pan-nationalism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = pan-nationalism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_mutual_funds = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = mutual_funds
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_camera = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = camera
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_philosophical_pragmatism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = philosophical_pragmatism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_identification_documents = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = identification_documents
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_elevator = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = elevator
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_zeppelins = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = zeppelins
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_malaria_prevention = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = malaria_prevention
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_central_planning = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = central_planning
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_political_agitation = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = political_agitation
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_international_exchange_standards = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = international_exchange_standards
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_psychoanalysis = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = psychoanalysis
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_film = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = film
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_multilateral_alliances = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = multilateral_alliances
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_mass_surveillance = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = mass_surveillance
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_antibiotics = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = antibiotics
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_mass_propaganda = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = mass_propaganda
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_modern_financial_instruments = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = modern_financial_instruments
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_macroeconomics = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = macroeconomics
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_behaviorism = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = behaviorism
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_analytical_philosophy = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = analytical_philosophy
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+breakout_eurika_paved_roads = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = paved_roads
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
