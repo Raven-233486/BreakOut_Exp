@@ -1,0 +1,63 @@
+﻿#凑数显示用buff
+building_base_education_access_add = {
+	good = yes
+	percent = yes
+}
+building_breed_power_add = {
+	good = yes
+	percent = no
+	num_decimals = 0
+}
+building_nuclear_holdings_add = {
+	good = yes
+	percent = no
+}
+building_nuclear_interception_add = {
+	good = yes
+	percent = yes
+}
+building_nuclear_penetration_add = {
+	good = yes
+	percent = yes
+}
+
+building_nuclear_impact_wave_add = {
+	good = yes
+	percent = no
+}
+building_nuclear_radiation_add = {
+	good = yes
+	percent = no
+}
+building_nuclear_pollution_add = {
+	good = yes
+	percent = no
+}
+building_nuclear_defence_add = {
+	good = yes
+	percent = no
+}
+state_min_breeders_ratio_add = {
+	good = no
+	percent = yes
+}
+state_max_breeders_ratio_add = {
+	good = yes
+	percent = yes
+}
+building_production_exp_decay_add = {
+	good = no
+	percent = yes
+}
+building_production_exp_over_cap_bonus_add = {
+	good = yes
+	percent = yes
+}
+building_production_exp_cap_add = {
+	good = yes
+	percent = yes
+}
+building_production_exp_growth_add = {
+	good = yes
+	percent = yes
+}

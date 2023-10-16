@@ -1,0 +1,50 @@
+﻿production_exp = {
+    value = 0
+    add = modifier:building_production_exp_decay_add
+    subtract = {
+        value = modifier:building_production_exp_over_cap_bonus_add
+        multiply = 0.5
+    }
+    multiply = 10
+}
+production_exp_cap = {
+    value = 0
+    add = modifier:building_production_exp_cap_add
+}
+production_exp_decay = {
+    value = 0
+    add = modifier:building_production_exp_decay_add
+}
+production_exp_growth = {
+    value = 0
+    add = modifier:building_production_exp_growth_add
+}
+new_production_exp = {
+    value = 0
+    add = var:building_production_exp
+}
+new_production_exp_over_cap = {
+    value = 0
+    add = var:building_production_exp
+    subtract = var:building_production_exp_cap
+}
+coal_resource_difficulty = {
+    value = var:depleted_coal_resource
+    divide = {
+        value = var:base_coal_resource
+        add = var:depleted_coal_resource
+        add = 1
+    }
+}
+oil_resource_difficulty = {
+    value = var:depleted_oil_resource
+    divide = {
+        value = var:base_oil_resource
+        add = var:depleted_oil_resource
+        add = 1
+    }
+}
+pollution_level = {
+    value = pollution_amount
+    divide = 255
+}

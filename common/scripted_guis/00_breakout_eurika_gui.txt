@@ -1,0 +1,16 @@
+﻿breakout_eurika_atmospheric_engine = {
+	scope = country
+	effect = {
+		add_technology_progress = { 
+			progress = 1000
+			technology = atmospheric_engine
+		}
+	}
+	is_shown = {
+		always = no
+	}
+	is_valid = {
+		always = no
+	}
+}
+

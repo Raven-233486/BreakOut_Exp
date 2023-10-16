@@ -1,0 +1,22 @@
+﻿on_monthly_pulse_state = {
+	on_actions = {
+		breakout_on_monthly_pulse_state
+	}
+}
+breakout_on_monthly_pulse_state = {
+	effect = {
+		#生产经验结算
+		production_exp_monthly_check = yes
+		#资源枯竭结算
+		#resource_deplete_monthly_check = yes
+	}
+}
+#资源枯竭结算
+on_resource_depleted = {
+	on_actions = {
+		breakout_on_resource_depleted
+	}
+}
+
+breakout_on_resource_depleted = {
+}

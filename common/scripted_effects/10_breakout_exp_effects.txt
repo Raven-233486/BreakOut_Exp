@@ -1,0 +1,299 @@
+﻿#生产经验结算
+production_exp_monthly_check = {	
+	every_scope_building = {
+		limit = { always = yes }
+		save_scope_as = checked_building
+		#储存老变量
+		state = {
+			set_variable = {
+				name = building_production_exp
+				value = scope:checked_building.production_exp
+			}
+			set_variable = {
+				name = building_production_exp_cap
+				value = scope:checked_building.production_exp_cap
+			}
+			set_variable = {
+				name = building_production_exp_growth
+				value = scope:checked_building.production_exp_growth
+			}
+			set_variable = {
+				name = building_production_exp_decay
+				value = scope:checked_building.production_exp_decay
+			}
+		}
+		#计算新生产经验
+		state = {
+			change_variable = {
+				name = building_production_exp
+				subtract = var:building_production_exp_decay
+			}
+			change_variable = {
+				name = building_production_exp
+				add = var:building_production_exp_growth
+			}
+		}
+		remove_modifier = production_exp_modifier
+		if = {
+			limit = { state.var:building_production_exp > 0  }
+			add_modifier = {
+				name = production_exp_modifier
+				multiplier = new_production_exp
+			}
+		}
+		#计算溢出上限部分
+		remove_modifier = production_exp_over_cap_modifier
+		if = {
+			limit = {
+				state = {
+					var:building_production_exp > var:building_production_exp_cap
+				}
+			}
+			add_modifier = {
+				name = production_exp_over_cap_modifier
+				multiplier = new_production_exp_over_cap
+			}
+			random_list = {
+				100 = {
+					modifier = {
+						multiply = state.new_production_exp_over_cap
+					}
+					eurika_effect = yes
+				}
+				1000 = { #不发生
+
+				}
+			}
+		}
+	}
+}
+#技术突破
+eurika_effect = {
+	eurika_atmospheric_engine = yes
+}
+eurika_atmospheric_engine = {
+	save_scope_as = building_scope
+	owner ={
+		add_technology_progress = { 
+			progress = 1000 
+			technology = atmospheric_engine
+		}
+		post_notification = eurika_atmospheric_engine_notification
+	}
+}
+#资源枯竭结算
+resource_deplete_monthly_check = {
+	save_scope_as = checked_state
+	#煤
+	if = {
+		limit = {
+			has_potential_resource = bg_coal_mining
+		}
+		#初始化
+		if = {
+			limit = { NOT = { has_variable = base_coal_resource }}
+			set_variable = {
+				name = base_coal_resource
+				value = 100000
+			}
+		}
+		if = {
+			limit = { NOT = { has_variable = depleted_coal_resource }}
+			set_variable = {
+				name = depleted_coal_resource
+				value = 0
+			}
+		}
+		#计算每月采掘量
+		set_variable = {
+			name = new_depleted_coal_resource
+			value = 0
+		}
+		every_scope_building = {
+			limit = {
+				is_building_type = building_coal_mine
+			}
+			#基础方式
+			if = {
+				limit = { has_active_production_method = pm_picks_and_shovels_building_coal_mine } 
+				scope:checked_state = {
+					change_variable = {
+						name = new_depleted_coal_resource
+						add = {
+							value = 40
+							multiply = PREV.occupancy
+							multiply = PREV.level
+						}
+					}
+				}
+			}
+			else_if = {
+				limit = { has_active_production_method = pm_atmospheric_engine_pump_building_coal_mine } 
+				scope:checked_state = {
+					change_variable = {
+						name = new_depleted_coal_resource
+						add = {
+							value = 80
+							multiply = PREV.occupancy
+							multiply = PREV.level
+						}
+					}
+				}
+			}
+			else_if = {
+				limit = { has_active_production_method = pm_condensing_engine_pump_building_coal_mine } 
+				scope:checked_state = {
+					change_variable = {
+						name = new_depleted_coal_resource
+						add = {
+							value = 120
+							multiply = PREV.occupancy
+							multiply = PREV.level
+						}
+					}
+				}
+			}
+			else_if = {
+				limit = { has_active_production_method = pm_diesel_pump_building_coal_mine } 
+				scope:checked_state = {
+					change_variable = {
+						name = new_depleted_coal_resource
+						add = {
+							value = 180
+							multiply = PREV.occupancy
+							multiply = PREV.level
+						}
+					}
+				}
+			}
+			#炸药
+			if = {
+				limit = { has_active_production_method = pm_nitroglycerin_building_coal_mine } 
+				scope:checked_state = {
+					change_variable = {
+						name = new_depleted_coal_resource
+						add = {
+							value = 30
+							multiply = PREV.occupancy
+							multiply = PREV.level
+						}
+					}
+				}
+			}
+			else_if = {
+				limit = { has_active_production_method = pm_dynamite_building_coal_mine } 
+				scope:checked_state = {
+					change_variable = {
+						name = new_depleted_coal_resource
+						add = {
+							value = 50
+							multiply = PREV.occupancy
+							multiply = PREV.level
+						}
+					}
+				}
+			}
+		}
+		change_variable = {
+			name = new_depleted_coal_resource
+			multiply = {
+				value = 1
+				subtract = coal_resource_difficulty
+			}
+		}
+		#更新采掘量
+		change_variable = {
+			name = depleted_coal_resource
+			add = var:new_depleted_coal_resource
+		}
+		#调整buff
+		remove_modifier = coal_mining_deplete_modifier
+		if = {
+			limit = { coal_resource_difficulty > 0.1 }
+			add_modifier = {
+				name = coal_mining_deplete_modifier
+				multiplier = coal_resource_difficulty
+			}
+		}
+	}
+	
+	#石油
+		if = {
+		limit = {
+			has_potential_resource = bg_oil_extraction
+		}
+		#初始化
+		if = {
+			limit = { NOT = { has_variable = base_oil_resource }}
+			set_variable = {
+				name = base_oil_resource
+				value = 100000
+			}
+		}
+		if = {
+			limit = { NOT = { has_variable = depleted_oil_resource }}
+			set_variable = {
+				name = depleted_oil_resource
+				value = 0
+			}
+		}
+		#计算每月采掘量
+		set_variable = {
+			name = new_depleted_oil_resource
+			value = 0
+		}
+		every_scope_building = {
+			limit = {
+				is_building_type = building_oil_rig
+			}
+			#基础方式
+			if = {
+				limit = { has_active_production_method = pm_steam_derricks } 
+				scope:checked_state = {
+					change_variable = {
+						name = new_depleted_oil_resource
+						add = {
+							value = 120
+							multiply = PREV.occupancy
+							multiply = PREV.level
+						}
+					}
+				}
+			}
+			else_if = {
+				limit = { has_active_production_method = pm_combustion_derricks } 
+				scope:checked_state = {
+					change_variable = {
+						name = new_depleted_oil_resource
+						add = {
+							value = 200
+							multiply = PREV.occupancy
+							multiply = PREV.level
+						}
+					}
+				}
+			}
+		}
+		change_variable = {
+			name = new_depleted_oil_resource
+			multiply = {
+				value = 1
+				subtract = oil_resource_difficulty
+			}
+		}
+		#更新采掘量
+		change_variable = {
+			name = depleted_oil_resource
+			add = var:new_depleted_oil_resource
+		}
+		#调整buff
+		remove_modifier = oil_extraction_deplete_modifier
+		if = {
+			limit = { oil_resource_difficulty > 0.1 }
+			add_modifier = {
+				name = oil_extraction_deplete_modifier
+				multiplier = oil_resource_difficulty
+			}
+		}
+	}
+}

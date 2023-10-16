@@ -1,0 +1,20 @@
+textformatting = {
+	format = {
+		name = difficulty_easy
+		format = "bold;color:{0.55,0.8,0.55};glow_color:{0,0,0,1}"
+	}
+
+	format = {
+		name = difficulty_medium
+		format = "bold;color:{0.8,0.73,0.5};glow_color:{0,0,0,1}"
+	}
+
+	format = {
+		name = difficulty_hard
+		format = "bold;color:{1,0.61,0.61};glow_color:{0,0,0,1}"
+	}
+	format = {
+		name = nuke
+		format = "bold;color:{1,0.61,0.61};glow_color:{1,0,0,1}"
+	}
+}

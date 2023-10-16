@@ -1,0 +1,34 @@
+﻿l_simp_chinese:
+ #生产经验相关
+ concept_production_exp:"生产经验"
+ concept_production_exp_desc:"生产经验能够减少原料的耗费。\n它会在生产实践中不断积累，直到达到由生产方式所决定的[concept_production_exp_cap]。"
+ concept_production_exp_cap:"生产经验上限"
+ concept_production_exp_cap_desc:"生产经验上限由建筑的生成方式决定。超出上限的[concept_production_exp]无法提供节省原料的效果，并且会迅速衰减；作为补偿，该建筑每月有机会发生[concept_eurika]。"
+ EXP_BAR:"[concept_production_exp]：#v [Building.MakeScope.ScriptValue('production_exp')|1%]#! / #maximum [Building.MakeScope.ScriptValue('production_exp_cap')|1%]#!"
+ TOOLTIP_BUILDING_EXP:"#header [concept_production_exp]#!\n数值：#v 50#! /#maximum 100#!\n\n[concept_production_exp]表示了该产业对于生产工艺的技术积累，能够减少生产过程中的原料损耗。\n\n本地区的产业规模越大，[concept_production_exp]积累得就越快。\n\n[concept_production_exp]的上限受到[concept_technology]水平的制约，超出科技水平的生产经验无法得到利用，但是能为科研提供一些加成。"
+
+ production_exp_modifier:"[concept_production_exp]"
+ production_exp_over_cap_modifier:"超出上限的[concept_production_exp]"
+
+ modifier_building_production_exp_cap_add:"[concept_production_exp_cap]"
+ modifier_building_production_exp_cap_add_desc:"建筑的[concept_production_exp_cap]"
+ modifier_building_production_exp_over_cap_bonus_add:"[concept_eurika]可能性"
+ modifier_building_production_exp_over_cap_bonus_add_desc:"[concept_related_technologies]研究发生[concept_eurika]的概率加成"
+ modifier_building_production_exp_decay_add:"[concept_production_exp]衰减"
+ modifier_building_production_exp_decay_add_desc:"每月损失的[concept_production_exp]"
+ modifier_building_production_exp_growth_add:"[concept_production_exp]增长"
+ modifier_building_production_exp_growth_add_desc:"每月增长的[concept_production_exp]"
+
+
+ concept_eurika:"技术突破"
+ concept_eurika_desc:"当建筑的[concept_production_exp]超过[concept_production_exp_cap]的时候，就会为[concept_related_technologies]提供发生技术突破的可能性。技术突破一旦发生，相关科技就会获得大量科研进展。"
+ concept_related_technologies:"相关科技"
+ concept_related_technologies_desc:"一个建筑的相关科技包括：\n·建造该建筑所需的科技；\n·解锁该建筑当前生产方式所需的科技；\n·与上述两种科技在科技树上的直接相连的后续科技；\n·上述三种科技的前置科技。"
+ eurika_notification_group:"[concept_eurika]"
+ eurika_notification_tt:"超出上限的[concept_production_exp]会有概率引发[concept_eurika]，从而推进[concept_related_technologies]的发展"
+ eurika_notification_tt1:"发生了[concept_eurika]"
+ 
+ eurika_atmospheric_engine_notification:"[concept_eurika]"
+ notification_eurika_atmospheric_engine_notification_name:"[concept_eurika]"
+ notification_eurika_atmospheric_engine_notification_desc:"[SCOPE.sBuilding('building_scope').GetState.GetName]的[SCOPE.sBuilding('building_scope').GetName]$eurika_notification_tt1$:\n[GetScriptedGui('breakout_eurika_atmospheric_engine').ExecuteTooltip( GuiScope.SetRoot(GetPlayer.MakeScope).End)]"
+ notification_eurika_atmospheric_engine_notification_tooltip:"eurika_notification_tt"
