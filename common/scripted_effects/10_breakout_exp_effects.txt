@@ -195,7 +195,7 @@ resource_deplete_monthly_check = {
 		#调整buff
 		remove_modifier = coal_mining_deplete_modifier
 		if = {
-			limit = { coal_resource_difficulty > 0.1 }
+			limit = { coal_resource_difficulty > 0.01 }
 			add_modifier = {
 				name = coal_mining_deplete_modifier
 				multiplier = coal_resource_difficulty
@@ -275,7 +275,7 @@ resource_deplete_monthly_check = {
 		#调整buff
 		remove_modifier = oil_extraction_deplete_modifier
 		if = {
-			limit = { oil_resource_difficulty > 0.1 }
+			limit = { oil_resource_difficulty > 0.01 }
 			add_modifier = {
 				name = oil_extraction_deplete_modifier
 				multiplier = oil_resource_difficulty
