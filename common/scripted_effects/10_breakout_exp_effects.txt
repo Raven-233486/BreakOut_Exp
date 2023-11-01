@@ -99,84 +99,10 @@ resource_deplete_monthly_check = {
 			limit = {
 				is_building_type = building_coal_mine
 			}
-			#基础方式
-			if = {
-				limit = { has_active_production_method = pm_picks_and_shovels_building_coal_mine } 
-				scope:checked_state = {
-					change_variable = {
-						name = new_depleted_coal_resource
-						add = {
-							value = 40
-							multiply = PREV.occupancy
-							multiply = PREV.level
-						}
-					}
-				}
-			}
-			else_if = {
-				limit = { has_active_production_method = pm_atmospheric_engine_pump_building_coal_mine } 
-				scope:checked_state = {
-					change_variable = {
-						name = new_depleted_coal_resource
-						add = {
-							value = 80
-							multiply = PREV.occupancy
-							multiply = PREV.level
-						}
-					}
-				}
-			}
-			else_if = {
-				limit = { has_active_production_method = pm_condensing_engine_pump_building_coal_mine } 
-				scope:checked_state = {
-					change_variable = {
-						name = new_depleted_coal_resource
-						add = {
-							value = 120
-							multiply = PREV.occupancy
-							multiply = PREV.level
-						}
-					}
-				}
-			}
-			else_if = {
-				limit = { has_active_production_method = pm_diesel_pump_building_coal_mine } 
-				scope:checked_state = {
-					change_variable = {
-						name = new_depleted_coal_resource
-						add = {
-							value = 180
-							multiply = PREV.occupancy
-							multiply = PREV.level
-						}
-					}
-				}
-			}
-			#炸药
-			if = {
-				limit = { has_active_production_method = pm_nitroglycerin_building_coal_mine } 
-				scope:checked_state = {
-					change_variable = {
-						name = new_depleted_coal_resource
-						add = {
-							value = 30
-							multiply = PREV.occupancy
-							multiply = PREV.level
-						}
-					}
-				}
-			}
-			else_if = {
-				limit = { has_active_production_method = pm_dynamite_building_coal_mine } 
-				scope:checked_state = {
-					change_variable = {
-						name = new_depleted_coal_resource
-						add = {
-							value = 50
-							multiply = PREV.occupancy
-							multiply = PREV.level
-						}
-					}
+			scope:checked_state = {
+				change_variable = {
+					name = new_depleted_coal_resource
+					add = prev.modifier:building_output_coal_add
 				}
 			}
 		}
@@ -232,31 +158,10 @@ resource_deplete_monthly_check = {
 			limit = {
 				is_building_type = building_oil_rig
 			}
-			#基础方式
-			if = {
-				limit = { has_active_production_method = pm_steam_derricks } 
-				scope:checked_state = {
-					change_variable = {
-						name = new_depleted_oil_resource
-						add = {
-							value = 120
-							multiply = PREV.occupancy
-							multiply = PREV.level
-						}
-					}
-				}
-			}
-			else_if = {
-				limit = { has_active_production_method = pm_combustion_derricks } 
-				scope:checked_state = {
-					change_variable = {
-						name = new_depleted_oil_resource
-						add = {
-							value = 200
-							multiply = PREV.occupancy
-							multiply = PREV.level
-						}
-					}
+			scope:checked_state = {
+				change_variable = {
+					name = new_depleted_oil_resource
+					add = prev.modifier:building_output_coal_add
 				}
 			}
 		}

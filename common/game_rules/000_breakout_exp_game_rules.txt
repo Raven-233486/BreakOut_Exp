@@ -1,0 +1,8 @@
+﻿resource_depletion = {
+	default = no_resource_depletion
+
+	no_resource_depletion = {
+	}
+	limited_fossil_fuel = {
+	}
+}

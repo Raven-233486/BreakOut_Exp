@@ -1,0 +1,6 @@
+textformatting = {
+	format = {
+		name = breakout_exp
+		format = "bold;color:{0.3,0.8,0.91};glow_color:{0.2,0.2,0.5,1}"
+	}
+}

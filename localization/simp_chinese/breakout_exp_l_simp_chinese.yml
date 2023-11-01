@@ -1,4 +1,5 @@
 ﻿l_simp_chinese:
+ 
  #生产经验相关
  concept_production_exp:"生产经验"
  concept_production_exp_desc:"生产经验能够减少原料的耗费。\n它会在生产实践中不断积累，直到达到由生产方式所决定的[concept_production_exp_cap]。"
