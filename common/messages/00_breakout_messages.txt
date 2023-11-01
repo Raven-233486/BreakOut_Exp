@@ -7,9 +7,9 @@
 #
 #	on_created_soundeffect = "event:/SFX/UI/Notifications/notification" 	#notification on creationg sound
 #}
-eurika_sericulture_notification = {
+eureka_sericulture_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -17,9 +17,9 @@ eurika_sericulture_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_enclosure_notification = {
+eureka_enclosure_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -27,9 +27,9 @@ eurika_enclosure_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_manufacturies_notification = {
+eureka_manufacturies_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -37,9 +37,9 @@ eurika_manufacturies_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_shaft_mining_notification = {
+eureka_shaft_mining_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -47,9 +47,9 @@ eurika_shaft_mining_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_cotton_gin_notification = {
+eureka_cotton_gin_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -57,9 +57,9 @@ eurika_cotton_gin_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_lathe_notification = {
+eureka_lathe_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -67,9 +67,9 @@ eurika_lathe_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_distillation_notification = {
+eureka_distillation_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -77,9 +77,9 @@ eurika_distillation_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_steelworking_notification = {
+eureka_steelworking_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -87,9 +87,9 @@ eurika_steelworking_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_prospecting_notification = {
+eureka_prospecting_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -97,9 +97,9 @@ eurika_prospecting_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_crystal_glass_notification = {
+eureka_crystal_glass_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -107,9 +107,9 @@ eurika_crystal_glass_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_intensive_agriculture_notification = {
+eureka_intensive_agriculture_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -117,9 +117,9 @@ eurika_intensive_agriculture_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_fractional_distillation_notification = {
+eureka_fractional_distillation_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -127,9 +127,9 @@ eurika_fractional_distillation_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_canneries_notification = {
+eureka_canneries_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -137,9 +137,9 @@ eurika_canneries_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_watertube_boiler_notification = {
+eureka_watertube_boiler_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -147,9 +147,9 @@ eurika_watertube_boiler_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_atmospheric_engine_notification = {
+eureka_atmospheric_engine_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -157,9 +157,9 @@ eurika_atmospheric_engine_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_railways_notification = {
+eureka_railways_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -167,9 +167,9 @@ eurika_railways_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_chemical_bleaching_notification = {
+eureka_chemical_bleaching_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -177,9 +177,9 @@ eurika_chemical_bleaching_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_nitroglycerin_notification = {
+eureka_nitroglycerin_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -187,9 +187,9 @@ eurika_nitroglycerin_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_bessemer_process_notification = {
+eureka_bessemer_process_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -197,9 +197,9 @@ eurika_bessemer_process_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_baking_powder_notification = {
+eureka_baking_powder_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -207,9 +207,9 @@ eurika_baking_powder_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_mechanized_workshops_notification = {
+eureka_mechanized_workshops_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -217,9 +217,9 @@ eurika_mechanized_workshops_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_mechanical_tools_notification = {
+eureka_mechanical_tools_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -227,9 +227,9 @@ eurika_mechanical_tools_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_improved_fertilizer_notification = {
+eureka_improved_fertilizer_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -237,9 +237,9 @@ eurika_improved_fertilizer_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_steam_donkey_notification = {
+eureka_steam_donkey_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -247,9 +247,9 @@ eurika_steam_donkey_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_dynamite_notification = {
+eureka_dynamite_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -257,9 +257,9 @@ eurika_dynamite_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_rubber_mastication_notification = {
+eureka_rubber_mastication_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -267,9 +267,9 @@ eurika_rubber_mastication_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_rotary_valve_engine_notification = {
+eureka_rotary_valve_engine_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -277,9 +277,9 @@ eurika_rotary_valve_engine_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_reinforced_concrete_notification = {
+eureka_reinforced_concrete_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -287,9 +287,9 @@ eurika_reinforced_concrete_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_threshing_machine_notification = {
+eureka_threshing_machine_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -297,9 +297,9 @@ eurika_threshing_machine_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_pumpjacks_notification = {
+eureka_pumpjacks_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -307,9 +307,9 @@ eurika_pumpjacks_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_aniline_notification = {
+eureka_aniline_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -317,9 +317,9 @@ eurika_aniline_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_open_hearth_process_notification = {
+eureka_open_hearth_process_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -327,9 +327,9 @@ eurika_open_hearth_process_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_vulcanization_notification = {
+eureka_vulcanization_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -337,9 +337,9 @@ eurika_vulcanization_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_vacuum_canning_notification = {
+eureka_vacuum_canning_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -347,9 +347,9 @@ eurika_vacuum_canning_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_shift_work_notification = {
+eureka_shift_work_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -357,9 +357,9 @@ eurika_shift_work_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_steel_railway_cars_notification = {
+eureka_steel_railway_cars_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -367,9 +367,9 @@ eurika_steel_railway_cars_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_electrical_generation_notification = {
+eureka_electrical_generation_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -377,9 +377,9 @@ eurika_electrical_generation_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_mechanized_farming_notification = {
+eureka_mechanized_farming_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -387,9 +387,9 @@ eurika_mechanized_farming_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_art_silk_notification = {
+eureka_art_silk_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -397,9 +397,9 @@ eurika_art_silk_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_automatic_bottle_blowers_notification = {
+eureka_automatic_bottle_blowers_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -407,9 +407,9 @@ eurika_automatic_bottle_blowers_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_conveyors_notification = {
+eureka_conveyors_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -417,9 +417,9 @@ eurika_conveyors_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_pasteurization_notification = {
+eureka_pasteurization_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -427,9 +427,9 @@ eurika_pasteurization_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_electric_railway_notification = {
+eureka_electric_railway_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -437,9 +437,9 @@ eurika_electric_railway_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_combustion_engine_notification = {
+eureka_combustion_engine_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -447,9 +447,9 @@ eurika_combustion_engine_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_pneumatic_tools_notification = {
+eureka_pneumatic_tools_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -457,9 +457,9 @@ eurika_pneumatic_tools_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_nitrogen_fixation_notification = {
+eureka_nitrogen_fixation_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -467,9 +467,9 @@ eurika_nitrogen_fixation_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_electric_arc_process_notification = {
+eureka_electric_arc_process_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -477,9 +477,9 @@ eurika_electric_arc_process_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_steam_turbine_notification = {
+eureka_steam_turbine_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -487,9 +487,9 @@ eurika_steam_turbine_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_plastics_notification = {
+eureka_plastics_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -497,9 +497,9 @@ eurika_plastics_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_electrical_capacitors_notification = {
+eureka_electrical_capacitors_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -507,9 +507,9 @@ eurika_electrical_capacitors_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_radio_notification = {
+eureka_radio_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -517,9 +517,9 @@ eurika_radio_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_telephone_notification = {
+eureka_telephone_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -527,9 +527,9 @@ eurika_telephone_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_dough_rollers_notification = {
+eureka_dough_rollers_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -537,9 +537,9 @@ eurika_dough_rollers_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_flash_freezing_notification = {
+eureka_flash_freezing_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -547,9 +547,9 @@ eurika_flash_freezing_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_oil_turbine_notification = {
+eureka_oil_turbine_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -557,9 +557,9 @@ eurika_oil_turbine_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_arc_welding_notification = {
+eureka_arc_welding_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -567,9 +567,9 @@ eurika_arc_welding_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_compression_ignition_notification = {
+eureka_compression_ignition_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -577,9 +577,9 @@ eurika_compression_ignition_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_standing_army_notification = {
+eureka_standing_army_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -587,9 +587,9 @@ eurika_standing_army_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_navigation_notification = {
+eureka_navigation_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -597,9 +597,9 @@ eurika_navigation_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_drydocks_notification = {
+eureka_drydocks_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -607,9 +607,9 @@ eurika_drydocks_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_mandatory_service_notification = {
+eureka_mandatory_service_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -617,9 +617,9 @@ eurika_mandatory_service_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_gunsmithing_notification = {
+eureka_gunsmithing_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -627,9 +627,9 @@ eurika_gunsmithing_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_artillery_notification = {
+eureka_artillery_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -637,9 +637,9 @@ eurika_artillery_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_military_drill_notification = {
+eureka_military_drill_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -647,9 +647,9 @@ eurika_military_drill_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_napoleonic_warfare_notification = {
+eureka_napoleonic_warfare_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -657,9 +657,9 @@ eurika_napoleonic_warfare_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_admiralty_notification = {
+eureka_admiralty_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -667,9 +667,9 @@ eurika_admiralty_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_army_reserves_notification = {
+eureka_army_reserves_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -677,9 +677,9 @@ eurika_army_reserves_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_line_infantry_notification = {
+eureka_line_infantry_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -687,9 +687,9 @@ eurika_line_infantry_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_paddle_steamer_notification = {
+eureka_paddle_steamer_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -697,9 +697,9 @@ eurika_paddle_steamer_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_field_works_notification = {
+eureka_field_works_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -707,9 +707,9 @@ eurika_field_works_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_logistics_notification = {
+eureka_logistics_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -717,9 +717,9 @@ eurika_logistics_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_triage_notification = {
+eureka_triage_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -727,9 +727,9 @@ eurika_triage_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_shell_gun_notification = {
+eureka_shell_gun_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -737,9 +737,9 @@ eurika_shell_gun_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_percussion_cap_notification = {
+eureka_percussion_cap_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -747,9 +747,9 @@ eurika_percussion_cap_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_rifling_notification = {
+eureka_rifling_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -757,9 +757,9 @@ eurika_rifling_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_general_staff_notification = {
+eureka_general_staff_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -767,9 +767,9 @@ eurika_general_staff_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_screw_frigate_notification = {
+eureka_screw_frigate_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -777,9 +777,9 @@ eurika_screw_frigate_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_power_of_the_purse_notification = {
+eureka_power_of_the_purse_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -787,9 +787,9 @@ eurika_power_of_the_purse_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_hydraulic_cranes_notification = {
+eureka_hydraulic_cranes_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -797,9 +797,9 @@ eurika_hydraulic_cranes_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_modern_nursing_notification = {
+eureka_modern_nursing_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -807,9 +807,9 @@ eurika_modern_nursing_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_enlistment_offices_notification = {
+eureka_enlistment_offices_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -817,9 +817,9 @@ eurika_enlistment_offices_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_electric_telegraph_notification = {
+eureka_electric_telegraph_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -827,9 +827,9 @@ eurika_electric_telegraph_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_military_statistics_notification = {
+eureka_military_statistics_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -837,9 +837,9 @@ eurika_military_statistics_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_repeaters_notification = {
+eureka_repeaters_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -847,9 +847,9 @@ eurika_repeaters_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_breech_loading_artillery_notification = {
+eureka_breech_loading_artillery_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -857,9 +857,9 @@ eurika_breech_loading_artillery_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_handcranked_machine_gun_notification = {
+eureka_handcranked_machine_gun_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -867,9 +867,9 @@ eurika_handcranked_machine_gun_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_self_propelled_torpedoes_notification = {
+eureka_self_propelled_torpedoes_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -877,9 +877,9 @@ eurika_self_propelled_torpedoes_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_monitor_tech_notification = {
+eureka_monitor_tech_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -887,9 +887,9 @@ eurika_monitor_tech_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_ironclad_tech_notification = {
+eureka_ironclad_tech_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -897,9 +897,9 @@ eurika_ironclad_tech_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_jeune_ecole_notification = {
+eureka_jeune_ecole_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -907,9 +907,9 @@ eurika_jeune_ecole_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_floating_harbor_notification = {
+eureka_floating_harbor_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -917,9 +917,9 @@ eurika_floating_harbor_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_gantry_cranes_notification = {
+eureka_gantry_cranes_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -927,9 +927,9 @@ eurika_gantry_cranes_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_trench_works_notification = {
+eureka_trench_works_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -937,9 +937,9 @@ eurika_trench_works_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_war_propaganda_notification = {
+eureka_war_propaganda_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -947,9 +947,9 @@ eurika_war_propaganda_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_wargaming_notification = {
+eureka_wargaming_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -957,9 +957,9 @@ eurika_wargaming_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_defense_in_depth_notification = {
+eureka_defense_in_depth_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -967,9 +967,9 @@ eurika_defense_in_depth_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_bolt_action_rifles_notification = {
+eureka_bolt_action_rifles_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -977,9 +977,9 @@ eurika_bolt_action_rifles_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_automatic_machine_guns_notification = {
+eureka_automatic_machine_guns_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -987,9 +987,9 @@ eurika_automatic_machine_guns_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_submarine_notification = {
+eureka_submarine_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -997,9 +997,9 @@ eurika_submarine_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_destroyer_notification = {
+eureka_destroyer_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1007,9 +1007,9 @@ eurika_destroyer_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_dreadnought_notification = {
+eureka_dreadnought_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1017,9 +1017,9 @@ eurika_dreadnought_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_sea_lane_strategies_notification = {
+eureka_sea_lane_strategies_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1027,9 +1027,9 @@ eurika_sea_lane_strategies_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_landing_craft_notification = {
+eureka_landing_craft_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1037,9 +1037,9 @@ eurika_landing_craft_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_concrete_dockyards_notification = {
+eureka_concrete_dockyards_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1047,9 +1047,9 @@ eurika_concrete_dockyards_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_nco_training_notification = {
+eureka_nco_training_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1057,9 +1057,9 @@ eurika_nco_training_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_chemical_warfare_notification = {
+eureka_chemical_warfare_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1067,9 +1067,9 @@ eurika_chemical_warfare_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_stormtroopers_notification = {
+eureka_stormtroopers_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1077,9 +1077,9 @@ eurika_stormtroopers_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_concrete_fortifications_notification = {
+eureka_concrete_fortifications_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1087,9 +1087,9 @@ eurika_concrete_fortifications_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_mobile_armor_notification = {
+eureka_mobile_armor_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1097,9 +1097,9 @@ eurika_mobile_armor_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_military_aviation_notification = {
+eureka_military_aviation_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1107,9 +1107,9 @@ eurika_military_aviation_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_flamethrowers_notification = {
+eureka_flamethrowers_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1117,9 +1117,9 @@ eurika_flamethrowers_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_carrier_tech_notification = {
+eureka_carrier_tech_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1127,9 +1127,9 @@ eurika_carrier_tech_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_battleship_tech_notification = {
+eureka_battleship_tech_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1137,9 +1137,9 @@ eurika_battleship_tech_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_battlefleet_tactics_notification = {
+eureka_battlefleet_tactics_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1147,9 +1147,9 @@ eurika_battlefleet_tactics_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_urbanization_notification = {
+eureka_urbanization_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1157,9 +1157,9 @@ eurika_urbanization_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_urban_planning_notification = {
+eureka_urban_planning_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1167,9 +1167,9 @@ eurika_urban_planning_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_rationalism_notification = {
+eureka_rationalism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1177,9 +1177,9 @@ eurika_rationalism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_tech_list_bureaucracy_notification = {
+eureka_tech_list_bureaucracy_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1187,9 +1187,9 @@ eurika_tech_list_bureaucracy_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_currency_standards_notification = {
+eureka_currency_standards_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1197,9 +1197,9 @@ eurika_currency_standards_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_democracy_notification = {
+eureka_democracy_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1207,9 +1207,9 @@ eurika_democracy_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_romanticism_notification = {
+eureka_romanticism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1217,9 +1217,9 @@ eurika_romanticism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_international_trade_notification = {
+eureka_international_trade_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1227,9 +1227,9 @@ eurika_international_trade_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_bureaucracy_notification = {
+eureka_bureaucracy_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1237,9 +1237,9 @@ eurika_bureaucracy_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_centralization_notification = {
+eureka_centralization_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1247,9 +1247,9 @@ eurika_centralization_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_bureaucracy_notification = {
+eureka_bureaucracy_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1257,9 +1257,9 @@ eurika_bureaucracy_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_banking_notification = {
+eureka_banking_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1267,9 +1267,9 @@ eurika_banking_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_academia_notification = {
+eureka_academia_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1277,9 +1277,9 @@ eurika_academia_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_colonization_notification = {
+eureka_colonization_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1287,9 +1287,9 @@ eurika_colonization_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_international_relations_notification = {
+eureka_international_relations_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1297,9 +1297,9 @@ eurika_international_relations_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_bureaucracy_notification = {
+eureka_bureaucracy_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1307,9 +1307,9 @@ eurika_bureaucracy_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_law_enforcement_notification = {
+eureka_law_enforcement_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1317,9 +1317,9 @@ eurika_law_enforcement_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_bureaucracy_notification = {
+eureka_bureaucracy_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1327,9 +1327,9 @@ eurika_bureaucracy_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_stock_exchange_notification = {
+eureka_stock_exchange_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1337,9 +1337,9 @@ eurika_stock_exchange_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_medical_degrees_notification = {
+eureka_medical_degrees_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1347,9 +1347,9 @@ eurika_medical_degrees_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_mass_communication_notification = {
+eureka_mass_communication_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1357,9 +1357,9 @@ eurika_mass_communication_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_empiricism_notification = {
+eureka_empiricism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1367,9 +1367,9 @@ eurika_empiricism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_egalitarianism_notification = {
+eureka_egalitarianism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1377,9 +1377,9 @@ eurika_egalitarianism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_pharmaceuticals_notification = {
+eureka_pharmaceuticals_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1387,9 +1387,9 @@ eurika_pharmaceuticals_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_modern_sewerage_notification = {
+eureka_modern_sewerage_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1397,9 +1397,9 @@ eurika_modern_sewerage_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_quinine_notification = {
+eureka_quinine_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1407,9 +1407,9 @@ eurika_quinine_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_organized_sports_notification = {
+eureka_organized_sports_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1417,9 +1417,9 @@ eurika_organized_sports_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_central_archives_notification = {
+eureka_central_archives_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1427,9 +1427,9 @@ eurika_central_archives_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_central_banking_notification = {
+eureka_central_banking_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1437,9 +1437,9 @@ eurika_central_banking_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_dialectics_notification = {
+eureka_dialectics_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1447,9 +1447,9 @@ eurika_dialectics_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_psychiatry_notification = {
+eureka_psychiatry_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1457,9 +1457,9 @@ eurika_psychiatry_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_realism_notification = {
+eureka_realism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1467,9 +1467,9 @@ eurika_realism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_nationalism_notification = {
+eureka_nationalism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1477,9 +1477,9 @@ eurika_nationalism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_labor_movement_notification = {
+eureka_labor_movement_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1487,9 +1487,9 @@ eurika_labor_movement_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_postal_savings_notification = {
+eureka_postal_savings_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1497,9 +1497,9 @@ eurika_postal_savings_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_human_rights_notification = {
+eureka_human_rights_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1507,9 +1507,9 @@ eurika_human_rights_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_feminism_notification = {
+eureka_feminism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1517,9 +1517,9 @@ eurika_feminism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_steel_frame_buildings_notification = {
+eureka_steel_frame_buildings_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1527,9 +1527,9 @@ eurika_steel_frame_buildings_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_civilizing_mission_notification = {
+eureka_civilizing_mission_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1537,9 +1537,9 @@ eurika_civilizing_mission_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_anarchism_notification = {
+eureka_anarchism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1547,9 +1547,9 @@ eurika_anarchism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_socialism_notification = {
+eureka_socialism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1557,9 +1557,9 @@ eurika_socialism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_pan-nationalism_notification = {
+eureka_pan-nationalism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1567,9 +1567,9 @@ eurika_pan-nationalism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_mutual_funds_notification = {
+eureka_mutual_funds_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1577,9 +1577,9 @@ eurika_mutual_funds_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_camera_notification = {
+eureka_camera_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1587,9 +1587,9 @@ eurika_camera_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_philosophical_pragmatism_notification = {
+eureka_philosophical_pragmatism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1597,9 +1597,9 @@ eurika_philosophical_pragmatism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_identification_documents_notification = {
+eureka_identification_documents_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1607,9 +1607,9 @@ eurika_identification_documents_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_elevator_notification = {
+eureka_elevator_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1617,9 +1617,9 @@ eurika_elevator_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_zeppelins_notification = {
+eureka_zeppelins_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1627,9 +1627,9 @@ eurika_zeppelins_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_malaria_prevention_notification = {
+eureka_malaria_prevention_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1637,9 +1637,9 @@ eurika_malaria_prevention_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_central_planning_notification = {
+eureka_central_planning_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1647,9 +1647,9 @@ eurika_central_planning_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_political_agitation_notification = {
+eureka_political_agitation_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1657,9 +1657,9 @@ eurika_political_agitation_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_international_exchange_standards_notification = {
+eureka_international_exchange_standards_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1667,9 +1667,9 @@ eurika_international_exchange_standards_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_psychoanalysis_notification = {
+eureka_psychoanalysis_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1677,9 +1677,9 @@ eurika_psychoanalysis_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_film_notification = {
+eureka_film_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1687,9 +1687,9 @@ eurika_film_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_multilateral_alliances_notification = {
+eureka_multilateral_alliances_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1697,9 +1697,9 @@ eurika_multilateral_alliances_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_mass_surveillance_notification = {
+eureka_mass_surveillance_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1707,9 +1707,9 @@ eurika_mass_surveillance_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_antibiotics_notification = {
+eureka_antibiotics_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1717,9 +1717,9 @@ eurika_antibiotics_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_mass_propaganda_notification = {
+eureka_mass_propaganda_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1727,9 +1727,9 @@ eurika_mass_propaganda_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_modern_financial_instruments_notification = {
+eureka_modern_financial_instruments_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1737,9 +1737,9 @@ eurika_modern_financial_instruments_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_macroeconomics_notification = {
+eureka_macroeconomics_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1747,9 +1747,9 @@ eurika_macroeconomics_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_behaviorism_notification = {
+eureka_behaviorism_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1757,9 +1757,9 @@ eurika_behaviorism_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_analytical_philosophy_notification = {
+eureka_analytical_philosophy_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 
@@ -1767,9 +1767,9 @@ eurika_analytical_philosophy_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eurika_paved_roads_notification = {
+eureka_paved_roads_notification = {
 	type = country
-	group = "eurika_notification_group"
+	group = "eureka_notification_group"
 	
 	texture = "gfx/interface/icons/notification_icons/technology.dds"
 

@@ -1,4 +1,4 @@
-﻿breakout_eurika_admiralty = {
+﻿breakout_eureka_admiralty = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -14,7 +14,7 @@
 	}
 }
 
-breakout_eurika_sericulture = {
+breakout_eureka_sericulture = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -29,7 +29,7 @@ breakout_eurika_sericulture = {
 		always = no
 	}
 }
-breakout_eurika_enclosure = {
+breakout_eureka_enclosure = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -44,7 +44,7 @@ breakout_eurika_enclosure = {
 		always = no
 	}
 }
-breakout_eurika_manufacturies = {
+breakout_eureka_manufacturies = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -59,7 +59,7 @@ breakout_eurika_manufacturies = {
 		always = no
 	}
 }
-breakout_eurika_shaft_mining = {
+breakout_eureka_shaft_mining = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -74,7 +74,7 @@ breakout_eurika_shaft_mining = {
 		always = no
 	}
 }
-breakout_eurika_cotton_gin = {
+breakout_eureka_cotton_gin = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -89,7 +89,7 @@ breakout_eurika_cotton_gin = {
 		always = no
 	}
 }
-breakout_eurika_lathe = {
+breakout_eureka_lathe = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -104,7 +104,7 @@ breakout_eurika_lathe = {
 		always = no
 	}
 }
-breakout_eurika_distillation = {
+breakout_eureka_distillation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -119,7 +119,7 @@ breakout_eurika_distillation = {
 		always = no
 	}
 }
-breakout_eurika_steelworking = {
+breakout_eureka_steelworking = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -134,7 +134,7 @@ breakout_eurika_steelworking = {
 		always = no
 	}
 }
-breakout_eurika_prospecting = {
+breakout_eureka_prospecting = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -149,7 +149,7 @@ breakout_eurika_prospecting = {
 		always = no
 	}
 }
-breakout_eurika_crystal_glass = {
+breakout_eureka_crystal_glass = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -164,7 +164,7 @@ breakout_eurika_crystal_glass = {
 		always = no
 	}
 }
-breakout_eurika_intensive_agriculture = {
+breakout_eureka_intensive_agriculture = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -179,7 +179,7 @@ breakout_eurika_intensive_agriculture = {
 		always = no
 	}
 }
-breakout_eurika_fractional_distillation = {
+breakout_eureka_fractional_distillation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -194,7 +194,7 @@ breakout_eurika_fractional_distillation = {
 		always = no
 	}
 }
-breakout_eurika_canneries = {
+breakout_eureka_canneries = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -209,7 +209,7 @@ breakout_eurika_canneries = {
 		always = no
 	}
 }
-breakout_eurika_watertube_boiler = {
+breakout_eureka_watertube_boiler = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -224,7 +224,7 @@ breakout_eurika_watertube_boiler = {
 		always = no
 	}
 }
-breakout_eurika_atmospheric_engine = {
+breakout_eureka_atmospheric_engine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -239,7 +239,7 @@ breakout_eurika_atmospheric_engine = {
 		always = no
 	}
 }
-breakout_eurika_railways = {
+breakout_eureka_railways = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -254,7 +254,7 @@ breakout_eurika_railways = {
 		always = no
 	}
 }
-breakout_eurika_chemical_bleaching = {
+breakout_eureka_chemical_bleaching = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -269,7 +269,7 @@ breakout_eurika_chemical_bleaching = {
 		always = no
 	}
 }
-breakout_eurika_nitroglycerin = {
+breakout_eureka_nitroglycerin = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -284,7 +284,7 @@ breakout_eurika_nitroglycerin = {
 		always = no
 	}
 }
-breakout_eurika_bessemer_process = {
+breakout_eureka_bessemer_process = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -299,7 +299,7 @@ breakout_eurika_bessemer_process = {
 		always = no
 	}
 }
-breakout_eurika_baking_powder = {
+breakout_eureka_baking_powder = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -314,7 +314,7 @@ breakout_eurika_baking_powder = {
 		always = no
 	}
 }
-breakout_eurika_mechanized_workshops = {
+breakout_eureka_mechanized_workshops = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -329,7 +329,7 @@ breakout_eurika_mechanized_workshops = {
 		always = no
 	}
 }
-breakout_eurika_mechanical_tools = {
+breakout_eureka_mechanical_tools = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -344,7 +344,7 @@ breakout_eurika_mechanical_tools = {
 		always = no
 	}
 }
-breakout_eurika_improved_fertilizer = {
+breakout_eureka_improved_fertilizer = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -359,7 +359,7 @@ breakout_eurika_improved_fertilizer = {
 		always = no
 	}
 }
-breakout_eurika_steam_donkey = {
+breakout_eureka_steam_donkey = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -374,7 +374,7 @@ breakout_eurika_steam_donkey = {
 		always = no
 	}
 }
-breakout_eurika_dynamite = {
+breakout_eureka_dynamite = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -389,7 +389,7 @@ breakout_eurika_dynamite = {
 		always = no
 	}
 }
-breakout_eurika_rubber_mastication = {
+breakout_eureka_rubber_mastication = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -404,7 +404,7 @@ breakout_eurika_rubber_mastication = {
 		always = no
 	}
 }
-breakout_eurika_rotary_valve_engine = {
+breakout_eureka_rotary_valve_engine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -419,7 +419,7 @@ breakout_eurika_rotary_valve_engine = {
 		always = no
 	}
 }
-breakout_eurika_reinforced_concrete = {
+breakout_eureka_reinforced_concrete = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -434,7 +434,7 @@ breakout_eurika_reinforced_concrete = {
 		always = no
 	}
 }
-breakout_eurika_threshing_machine = {
+breakout_eureka_threshing_machine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -449,7 +449,7 @@ breakout_eurika_threshing_machine = {
 		always = no
 	}
 }
-breakout_eurika_pumpjacks = {
+breakout_eureka_pumpjacks = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -464,7 +464,7 @@ breakout_eurika_pumpjacks = {
 		always = no
 	}
 }
-breakout_eurika_aniline = {
+breakout_eureka_aniline = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -479,7 +479,7 @@ breakout_eurika_aniline = {
 		always = no
 	}
 }
-breakout_eurika_open_hearth_process = {
+breakout_eureka_open_hearth_process = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -494,7 +494,7 @@ breakout_eurika_open_hearth_process = {
 		always = no
 	}
 }
-breakout_eurika_vulcanization = {
+breakout_eureka_vulcanization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -509,7 +509,7 @@ breakout_eurika_vulcanization = {
 		always = no
 	}
 }
-breakout_eurika_vacuum_canning = {
+breakout_eureka_vacuum_canning = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -524,7 +524,7 @@ breakout_eurika_vacuum_canning = {
 		always = no
 	}
 }
-breakout_eurika_shift_work = {
+breakout_eureka_shift_work = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -539,7 +539,7 @@ breakout_eurika_shift_work = {
 		always = no
 	}
 }
-breakout_eurika_steel_railway_cars = {
+breakout_eureka_steel_railway_cars = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -554,7 +554,7 @@ breakout_eurika_steel_railway_cars = {
 		always = no
 	}
 }
-breakout_eurika_electrical_generation = {
+breakout_eureka_electrical_generation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -569,7 +569,7 @@ breakout_eurika_electrical_generation = {
 		always = no
 	}
 }
-breakout_eurika_mechanized_farming = {
+breakout_eureka_mechanized_farming = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -584,7 +584,7 @@ breakout_eurika_mechanized_farming = {
 		always = no
 	}
 }
-breakout_eurika_art_silk = {
+breakout_eureka_art_silk = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -599,7 +599,7 @@ breakout_eurika_art_silk = {
 		always = no
 	}
 }
-breakout_eurika_automatic_bottle_blowers = {
+breakout_eureka_automatic_bottle_blowers = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -614,7 +614,7 @@ breakout_eurika_automatic_bottle_blowers = {
 		always = no
 	}
 }
-breakout_eurika_conveyors = {
+breakout_eureka_conveyors = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -629,7 +629,7 @@ breakout_eurika_conveyors = {
 		always = no
 	}
 }
-breakout_eurika_pasteurization = {
+breakout_eureka_pasteurization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -644,7 +644,7 @@ breakout_eurika_pasteurization = {
 		always = no
 	}
 }
-breakout_eurika_electric_railway = {
+breakout_eureka_electric_railway = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -659,7 +659,7 @@ breakout_eurika_electric_railway = {
 		always = no
 	}
 }
-breakout_eurika_combustion_engine = {
+breakout_eureka_combustion_engine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -674,7 +674,7 @@ breakout_eurika_combustion_engine = {
 		always = no
 	}
 }
-breakout_eurika_pneumatic_tools = {
+breakout_eureka_pneumatic_tools = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -689,7 +689,7 @@ breakout_eurika_pneumatic_tools = {
 		always = no
 	}
 }
-breakout_eurika_nitrogen_fixation = {
+breakout_eureka_nitrogen_fixation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -704,7 +704,7 @@ breakout_eurika_nitrogen_fixation = {
 		always = no
 	}
 }
-breakout_eurika_electric_arc_process = {
+breakout_eureka_electric_arc_process = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -719,7 +719,7 @@ breakout_eurika_electric_arc_process = {
 		always = no
 	}
 }
-breakout_eurika_steam_turbine = {
+breakout_eureka_steam_turbine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -734,7 +734,7 @@ breakout_eurika_steam_turbine = {
 		always = no
 	}
 }
-breakout_eurika_plastics = {
+breakout_eureka_plastics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -749,7 +749,7 @@ breakout_eurika_plastics = {
 		always = no
 	}
 }
-breakout_eurika_electrical_capacitors = {
+breakout_eureka_electrical_capacitors = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -764,7 +764,7 @@ breakout_eurika_electrical_capacitors = {
 		always = no
 	}
 }
-breakout_eurika_radio = {
+breakout_eureka_radio = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -779,7 +779,7 @@ breakout_eurika_radio = {
 		always = no
 	}
 }
-breakout_eurika_telephone = {
+breakout_eureka_telephone = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -794,7 +794,7 @@ breakout_eurika_telephone = {
 		always = no
 	}
 }
-breakout_eurika_dough_rollers = {
+breakout_eureka_dough_rollers = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -809,7 +809,7 @@ breakout_eurika_dough_rollers = {
 		always = no
 	}
 }
-breakout_eurika_flash_freezing = {
+breakout_eureka_flash_freezing = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -824,7 +824,7 @@ breakout_eurika_flash_freezing = {
 		always = no
 	}
 }
-breakout_eurika_oil_turbine = {
+breakout_eureka_oil_turbine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -839,7 +839,7 @@ breakout_eurika_oil_turbine = {
 		always = no
 	}
 }
-breakout_eurika_arc_welding = {
+breakout_eureka_arc_welding = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -854,7 +854,7 @@ breakout_eurika_arc_welding = {
 		always = no
 	}
 }
-breakout_eurika_compression_ignition = {
+breakout_eureka_compression_ignition = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -869,7 +869,7 @@ breakout_eurika_compression_ignition = {
 		always = no
 	}
 }
-breakout_eurika_standing_army = {
+breakout_eureka_standing_army = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -884,7 +884,7 @@ breakout_eurika_standing_army = {
 		always = no
 	}
 }
-breakout_eurika_navigation = {
+breakout_eureka_navigation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -899,7 +899,7 @@ breakout_eurika_navigation = {
 		always = no
 	}
 }
-breakout_eurika_drydocks = {
+breakout_eureka_drydocks = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -914,7 +914,7 @@ breakout_eurika_drydocks = {
 		always = no
 	}
 }
-breakout_eurika_mandatory_service = {
+breakout_eureka_mandatory_service = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -929,7 +929,7 @@ breakout_eurika_mandatory_service = {
 		always = no
 	}
 }
-breakout_eurika_gunsmithing = {
+breakout_eureka_gunsmithing = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -944,7 +944,7 @@ breakout_eurika_gunsmithing = {
 		always = no
 	}
 }
-breakout_eurika_artillery = {
+breakout_eureka_artillery = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -959,7 +959,7 @@ breakout_eurika_artillery = {
 		always = no
 	}
 }
-breakout_eurika_military_drill = {
+breakout_eureka_military_drill = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -974,7 +974,7 @@ breakout_eurika_military_drill = {
 		always = no
 	}
 }
-breakout_eurika_napoleonic_warfare = {
+breakout_eureka_napoleonic_warfare = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -989,7 +989,7 @@ breakout_eurika_napoleonic_warfare = {
 		always = no
 	}
 }
-breakout_eurika_admiralty = {
+breakout_eureka_admiralty = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1004,7 +1004,7 @@ breakout_eurika_admiralty = {
 		always = no
 	}
 }
-breakout_eurika_army_reserves = {
+breakout_eureka_army_reserves = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1019,7 +1019,7 @@ breakout_eurika_army_reserves = {
 		always = no
 	}
 }
-breakout_eurika_line_infantry = {
+breakout_eureka_line_infantry = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1034,7 +1034,7 @@ breakout_eurika_line_infantry = {
 		always = no
 	}
 }
-breakout_eurika_paddle_steamer = {
+breakout_eureka_paddle_steamer = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1049,7 +1049,7 @@ breakout_eurika_paddle_steamer = {
 		always = no
 	}
 }
-breakout_eurika_field_works = {
+breakout_eureka_field_works = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1064,7 +1064,7 @@ breakout_eurika_field_works = {
 		always = no
 	}
 }
-breakout_eurika_logistics = {
+breakout_eureka_logistics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1079,7 +1079,7 @@ breakout_eurika_logistics = {
 		always = no
 	}
 }
-breakout_eurika_triage = {
+breakout_eureka_triage = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1094,7 +1094,7 @@ breakout_eurika_triage = {
 		always = no
 	}
 }
-breakout_eurika_shell_gun = {
+breakout_eureka_shell_gun = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1109,7 +1109,7 @@ breakout_eurika_shell_gun = {
 		always = no
 	}
 }
-breakout_eurika_percussion_cap = {
+breakout_eureka_percussion_cap = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1124,7 +1124,7 @@ breakout_eurika_percussion_cap = {
 		always = no
 	}
 }
-breakout_eurika_rifling = {
+breakout_eureka_rifling = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1139,7 +1139,7 @@ breakout_eurika_rifling = {
 		always = no
 	}
 }
-breakout_eurika_general_staff = {
+breakout_eureka_general_staff = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1154,7 +1154,7 @@ breakout_eurika_general_staff = {
 		always = no
 	}
 }
-breakout_eurika_screw_frigate = {
+breakout_eureka_screw_frigate = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1169,7 +1169,7 @@ breakout_eurika_screw_frigate = {
 		always = no
 	}
 }
-breakout_eurika_power_of_the_purse = {
+breakout_eureka_power_of_the_purse = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1184,7 +1184,7 @@ breakout_eurika_power_of_the_purse = {
 		always = no
 	}
 }
-breakout_eurika_hydraulic_cranes = {
+breakout_eureka_hydraulic_cranes = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1199,7 +1199,7 @@ breakout_eurika_hydraulic_cranes = {
 		always = no
 	}
 }
-breakout_eurika_modern_nursing = {
+breakout_eureka_modern_nursing = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1214,7 +1214,7 @@ breakout_eurika_modern_nursing = {
 		always = no
 	}
 }
-breakout_eurika_enlistment_offices = {
+breakout_eureka_enlistment_offices = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1229,7 +1229,7 @@ breakout_eurika_enlistment_offices = {
 		always = no
 	}
 }
-breakout_eurika_electric_telegraph = {
+breakout_eureka_electric_telegraph = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1244,7 +1244,7 @@ breakout_eurika_electric_telegraph = {
 		always = no
 	}
 }
-breakout_eurika_military_statistics = {
+breakout_eureka_military_statistics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1259,7 +1259,7 @@ breakout_eurika_military_statistics = {
 		always = no
 	}
 }
-breakout_eurika_repeaters = {
+breakout_eureka_repeaters = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1274,7 +1274,7 @@ breakout_eurika_repeaters = {
 		always = no
 	}
 }
-breakout_eurika_breech_loading_artillery = {
+breakout_eureka_breech_loading_artillery = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1289,7 +1289,7 @@ breakout_eurika_breech_loading_artillery = {
 		always = no
 	}
 }
-breakout_eurika_handcranked_machine_gun = {
+breakout_eureka_handcranked_machine_gun = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1304,7 +1304,7 @@ breakout_eurika_handcranked_machine_gun = {
 		always = no
 	}
 }
-breakout_eurika_self_propelled_torpedoes = {
+breakout_eureka_self_propelled_torpedoes = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1319,7 +1319,7 @@ breakout_eurika_self_propelled_torpedoes = {
 		always = no
 	}
 }
-breakout_eurika_monitor_tech = {
+breakout_eureka_monitor_tech = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1334,7 +1334,7 @@ breakout_eurika_monitor_tech = {
 		always = no
 	}
 }
-breakout_eurika_ironclad_tech = {
+breakout_eureka_ironclad_tech = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1349,7 +1349,7 @@ breakout_eurika_ironclad_tech = {
 		always = no
 	}
 }
-breakout_eurika_jeune_ecole = {
+breakout_eureka_jeune_ecole = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1364,7 +1364,7 @@ breakout_eurika_jeune_ecole = {
 		always = no
 	}
 }
-breakout_eurika_floating_harbor = {
+breakout_eureka_floating_harbor = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1379,7 +1379,7 @@ breakout_eurika_floating_harbor = {
 		always = no
 	}
 }
-breakout_eurika_gantry_cranes = {
+breakout_eureka_gantry_cranes = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1394,7 +1394,7 @@ breakout_eurika_gantry_cranes = {
 		always = no
 	}
 }
-breakout_eurika_trench_works = {
+breakout_eureka_trench_works = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1409,7 +1409,7 @@ breakout_eurika_trench_works = {
 		always = no
 	}
 }
-breakout_eurika_war_propaganda = {
+breakout_eureka_war_propaganda = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1424,7 +1424,7 @@ breakout_eurika_war_propaganda = {
 		always = no
 	}
 }
-breakout_eurika_wargaming = {
+breakout_eureka_wargaming = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1439,7 +1439,7 @@ breakout_eurika_wargaming = {
 		always = no
 	}
 }
-breakout_eurika_defense_in_depth = {
+breakout_eureka_defense_in_depth = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1454,7 +1454,7 @@ breakout_eurika_defense_in_depth = {
 		always = no
 	}
 }
-breakout_eurika_bolt_action_rifles = {
+breakout_eureka_bolt_action_rifles = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1469,7 +1469,7 @@ breakout_eurika_bolt_action_rifles = {
 		always = no
 	}
 }
-breakout_eurika_automatic_machine_guns = {
+breakout_eureka_automatic_machine_guns = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1484,7 +1484,7 @@ breakout_eurika_automatic_machine_guns = {
 		always = no
 	}
 }
-breakout_eurika_submarine = {
+breakout_eureka_submarine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1499,7 +1499,7 @@ breakout_eurika_submarine = {
 		always = no
 	}
 }
-breakout_eurika_destroyer = {
+breakout_eureka_destroyer = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1514,7 +1514,7 @@ breakout_eurika_destroyer = {
 		always = no
 	}
 }
-breakout_eurika_dreadnought = {
+breakout_eureka_dreadnought = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1529,7 +1529,7 @@ breakout_eurika_dreadnought = {
 		always = no
 	}
 }
-breakout_eurika_sea_lane_strategies = {
+breakout_eureka_sea_lane_strategies = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1544,7 +1544,7 @@ breakout_eurika_sea_lane_strategies = {
 		always = no
 	}
 }
-breakout_eurika_landing_craft = {
+breakout_eureka_landing_craft = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1559,7 +1559,7 @@ breakout_eurika_landing_craft = {
 		always = no
 	}
 }
-breakout_eurika_concrete_dockyards = {
+breakout_eureka_concrete_dockyards = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1574,7 +1574,7 @@ breakout_eurika_concrete_dockyards = {
 		always = no
 	}
 }
-breakout_eurika_nco_training = {
+breakout_eureka_nco_training = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1589,7 +1589,7 @@ breakout_eurika_nco_training = {
 		always = no
 	}
 }
-breakout_eurika_chemical_warfare = {
+breakout_eureka_chemical_warfare = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1604,7 +1604,7 @@ breakout_eurika_chemical_warfare = {
 		always = no
 	}
 }
-breakout_eurika_stormtroopers = {
+breakout_eureka_stormtroopers = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1619,7 +1619,7 @@ breakout_eurika_stormtroopers = {
 		always = no
 	}
 }
-breakout_eurika_concrete_fortifications = {
+breakout_eureka_concrete_fortifications = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1634,7 +1634,7 @@ breakout_eurika_concrete_fortifications = {
 		always = no
 	}
 }
-breakout_eurika_mobile_armor = {
+breakout_eureka_mobile_armor = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1649,7 +1649,7 @@ breakout_eurika_mobile_armor = {
 		always = no
 	}
 }
-breakout_eurika_military_aviation = {
+breakout_eureka_military_aviation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1664,7 +1664,7 @@ breakout_eurika_military_aviation = {
 		always = no
 	}
 }
-breakout_eurika_flamethrowers = {
+breakout_eureka_flamethrowers = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1679,7 +1679,7 @@ breakout_eurika_flamethrowers = {
 		always = no
 	}
 }
-breakout_eurika_carrier_tech = {
+breakout_eureka_carrier_tech = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1694,7 +1694,7 @@ breakout_eurika_carrier_tech = {
 		always = no
 	}
 }
-breakout_eurika_battleship_tech = {
+breakout_eureka_battleship_tech = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1709,7 +1709,7 @@ breakout_eurika_battleship_tech = {
 		always = no
 	}
 }
-breakout_eurika_battlefleet_tactics = {
+breakout_eureka_battlefleet_tactics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1724,7 +1724,7 @@ breakout_eurika_battlefleet_tactics = {
 		always = no
 	}
 }
-breakout_eurika_urbanization = {
+breakout_eureka_urbanization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1739,7 +1739,7 @@ breakout_eurika_urbanization = {
 		always = no
 	}
 }
-breakout_eurika_urban_planning = {
+breakout_eureka_urban_planning = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1754,7 +1754,7 @@ breakout_eurika_urban_planning = {
 		always = no
 	}
 }
-breakout_eurika_rationalism = {
+breakout_eureka_rationalism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1769,7 +1769,7 @@ breakout_eurika_rationalism = {
 		always = no
 	}
 }
-breakout_eurika_tech_bureaucracy = {
+breakout_eureka_tech_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1784,7 +1784,7 @@ breakout_eurika_tech_bureaucracy = {
 		always = no
 	}
 }
-breakout_eurika_currency_standards = {
+breakout_eureka_currency_standards = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1799,7 +1799,7 @@ breakout_eurika_currency_standards = {
 		always = no
 	}
 }
-breakout_eurika_democracy = {
+breakout_eureka_democracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1814,7 +1814,7 @@ breakout_eurika_democracy = {
 		always = no
 	}
 }
-breakout_eurika_romanticism = {
+breakout_eureka_romanticism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1829,7 +1829,7 @@ breakout_eurika_romanticism = {
 		always = no
 	}
 }
-breakout_eurika_international_trade = {
+breakout_eureka_international_trade = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1844,7 +1844,7 @@ breakout_eurika_international_trade = {
 		always = no
 	}
 }
-breakout_eurika_bureaucracy = {
+breakout_eureka_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1859,7 +1859,7 @@ breakout_eurika_bureaucracy = {
 		always = no
 	}
 }
-breakout_eurika_centralization = {
+breakout_eureka_centralization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1874,7 +1874,7 @@ breakout_eurika_centralization = {
 		always = no
 	}
 }
-breakout_eurika_bureaucracy = {
+breakout_eureka_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1889,7 +1889,7 @@ breakout_eurika_bureaucracy = {
 		always = no
 	}
 }
-breakout_eurika_banking = {
+breakout_eureka_banking = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1904,7 +1904,7 @@ breakout_eurika_banking = {
 		always = no
 	}
 }
-breakout_eurika_academia = {
+breakout_eureka_academia = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1919,7 +1919,7 @@ breakout_eurika_academia = {
 		always = no
 	}
 }
-breakout_eurika_colonization = {
+breakout_eureka_colonization = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1934,7 +1934,7 @@ breakout_eurika_colonization = {
 		always = no
 	}
 }
-breakout_eurika_international_relations = {
+breakout_eureka_international_relations = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1949,7 +1949,7 @@ breakout_eurika_international_relations = {
 		always = no
 	}
 }
-breakout_eurika_bureaucracy = {
+breakout_eureka_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1964,7 +1964,7 @@ breakout_eurika_bureaucracy = {
 		always = no
 	}
 }
-breakout_eurika_law_enforcement = {
+breakout_eureka_law_enforcement = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1979,7 +1979,7 @@ breakout_eurika_law_enforcement = {
 		always = no
 	}
 }
-breakout_eurika_bureaucracy = {
+breakout_eureka_bureaucracy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -1994,7 +1994,7 @@ breakout_eurika_bureaucracy = {
 		always = no
 	}
 }
-breakout_eurika_stock_exchange = {
+breakout_eureka_stock_exchange = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2009,7 +2009,7 @@ breakout_eurika_stock_exchange = {
 		always = no
 	}
 }
-breakout_eurika_medical_degrees = {
+breakout_eureka_medical_degrees = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2024,7 +2024,7 @@ breakout_eurika_medical_degrees = {
 		always = no
 	}
 }
-breakout_eurika_mass_communication = {
+breakout_eureka_mass_communication = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2039,7 +2039,7 @@ breakout_eurika_mass_communication = {
 		always = no
 	}
 }
-breakout_eurika_empiricism = {
+breakout_eureka_empiricism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2054,7 +2054,7 @@ breakout_eurika_empiricism = {
 		always = no
 	}
 }
-breakout_eurika_egalitarianism = {
+breakout_eureka_egalitarianism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2069,7 +2069,7 @@ breakout_eurika_egalitarianism = {
 		always = no
 	}
 }
-breakout_eurika_pharmaceuticals = {
+breakout_eureka_pharmaceuticals = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2084,7 +2084,7 @@ breakout_eurika_pharmaceuticals = {
 		always = no
 	}
 }
-breakout_eurika_modern_sewerage = {
+breakout_eureka_modern_sewerage = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2099,7 +2099,7 @@ breakout_eurika_modern_sewerage = {
 		always = no
 	}
 }
-breakout_eurika_quinine = {
+breakout_eureka_quinine = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2114,7 +2114,7 @@ breakout_eurika_quinine = {
 		always = no
 	}
 }
-breakout_eurika_organized_sports = {
+breakout_eureka_organized_sports = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2129,7 +2129,7 @@ breakout_eurika_organized_sports = {
 		always = no
 	}
 }
-breakout_eurika_central_archives = {
+breakout_eureka_central_archives = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2144,7 +2144,7 @@ breakout_eurika_central_archives = {
 		always = no
 	}
 }
-breakout_eurika_central_banking = {
+breakout_eureka_central_banking = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2159,7 +2159,7 @@ breakout_eurika_central_banking = {
 		always = no
 	}
 }
-breakout_eurika_dialectics = {
+breakout_eureka_dialectics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2174,7 +2174,7 @@ breakout_eurika_dialectics = {
 		always = no
 	}
 }
-breakout_eurika_psychiatry = {
+breakout_eureka_psychiatry = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2189,7 +2189,7 @@ breakout_eurika_psychiatry = {
 		always = no
 	}
 }
-breakout_eurika_realism = {
+breakout_eureka_realism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2204,7 +2204,7 @@ breakout_eurika_realism = {
 		always = no
 	}
 }
-breakout_eurika_nationalism = {
+breakout_eureka_nationalism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2219,7 +2219,7 @@ breakout_eurika_nationalism = {
 		always = no
 	}
 }
-breakout_eurika_labor_movement = {
+breakout_eureka_labor_movement = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2234,7 +2234,7 @@ breakout_eurika_labor_movement = {
 		always = no
 	}
 }
-breakout_eurika_postal_savings = {
+breakout_eureka_postal_savings = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2249,7 +2249,7 @@ breakout_eurika_postal_savings = {
 		always = no
 	}
 }
-breakout_eurika_human_rights = {
+breakout_eureka_human_rights = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2264,7 +2264,7 @@ breakout_eurika_human_rights = {
 		always = no
 	}
 }
-breakout_eurika_feminism = {
+breakout_eureka_feminism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2279,7 +2279,7 @@ breakout_eurika_feminism = {
 		always = no
 	}
 }
-breakout_eurika_steel_frame_buildings = {
+breakout_eureka_steel_frame_buildings = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2294,7 +2294,7 @@ breakout_eurika_steel_frame_buildings = {
 		always = no
 	}
 }
-breakout_eurika_civilizing_mission = {
+breakout_eureka_civilizing_mission = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2309,7 +2309,7 @@ breakout_eurika_civilizing_mission = {
 		always = no
 	}
 }
-breakout_eurika_anarchism = {
+breakout_eureka_anarchism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2324,7 +2324,7 @@ breakout_eurika_anarchism = {
 		always = no
 	}
 }
-breakout_eurika_socialism = {
+breakout_eureka_socialism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2339,7 +2339,7 @@ breakout_eurika_socialism = {
 		always = no
 	}
 }
-breakout_eurika_pan-nationalism = {
+breakout_eureka_pan-nationalism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2354,7 +2354,7 @@ breakout_eurika_pan-nationalism = {
 		always = no
 	}
 }
-breakout_eurika_mutual_funds = {
+breakout_eureka_mutual_funds = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2369,7 +2369,7 @@ breakout_eurika_mutual_funds = {
 		always = no
 	}
 }
-breakout_eurika_camera = {
+breakout_eureka_camera = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2384,7 +2384,7 @@ breakout_eurika_camera = {
 		always = no
 	}
 }
-breakout_eurika_philosophical_pragmatism = {
+breakout_eureka_philosophical_pragmatism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2399,7 +2399,7 @@ breakout_eurika_philosophical_pragmatism = {
 		always = no
 	}
 }
-breakout_eurika_identification_documents = {
+breakout_eureka_identification_documents = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2414,7 +2414,7 @@ breakout_eurika_identification_documents = {
 		always = no
 	}
 }
-breakout_eurika_elevator = {
+breakout_eureka_elevator = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2429,7 +2429,7 @@ breakout_eurika_elevator = {
 		always = no
 	}
 }
-breakout_eurika_zeppelins = {
+breakout_eureka_zeppelins = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2444,7 +2444,7 @@ breakout_eurika_zeppelins = {
 		always = no
 	}
 }
-breakout_eurika_malaria_prevention = {
+breakout_eureka_malaria_prevention = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2459,7 +2459,7 @@ breakout_eurika_malaria_prevention = {
 		always = no
 	}
 }
-breakout_eurika_central_planning = {
+breakout_eureka_central_planning = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2474,7 +2474,7 @@ breakout_eurika_central_planning = {
 		always = no
 	}
 }
-breakout_eurika_political_agitation = {
+breakout_eureka_political_agitation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2489,7 +2489,7 @@ breakout_eurika_political_agitation = {
 		always = no
 	}
 }
-breakout_eurika_international_exchange_standards = {
+breakout_eureka_international_exchange_standards = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2504,7 +2504,7 @@ breakout_eurika_international_exchange_standards = {
 		always = no
 	}
 }
-breakout_eurika_psychoanalysis = {
+breakout_eureka_psychoanalysis = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2519,7 +2519,7 @@ breakout_eurika_psychoanalysis = {
 		always = no
 	}
 }
-breakout_eurika_film = {
+breakout_eureka_film = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2534,7 +2534,7 @@ breakout_eurika_film = {
 		always = no
 	}
 }
-breakout_eurika_multilateral_alliances = {
+breakout_eureka_multilateral_alliances = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2549,7 +2549,7 @@ breakout_eurika_multilateral_alliances = {
 		always = no
 	}
 }
-breakout_eurika_mass_surveillance = {
+breakout_eureka_mass_surveillance = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2564,7 +2564,7 @@ breakout_eurika_mass_surveillance = {
 		always = no
 	}
 }
-breakout_eurika_antibiotics = {
+breakout_eureka_antibiotics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2579,7 +2579,7 @@ breakout_eurika_antibiotics = {
 		always = no
 	}
 }
-breakout_eurika_mass_propaganda = {
+breakout_eureka_mass_propaganda = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2594,7 +2594,7 @@ breakout_eurika_mass_propaganda = {
 		always = no
 	}
 }
-breakout_eurika_modern_financial_instruments = {
+breakout_eureka_modern_financial_instruments = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2609,7 +2609,7 @@ breakout_eurika_modern_financial_instruments = {
 		always = no
 	}
 }
-breakout_eurika_macroeconomics = {
+breakout_eureka_macroeconomics = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2624,7 +2624,7 @@ breakout_eurika_macroeconomics = {
 		always = no
 	}
 }
-breakout_eurika_behaviorism = {
+breakout_eureka_behaviorism = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2639,7 +2639,7 @@ breakout_eurika_behaviorism = {
 		always = no
 	}
 }
-breakout_eurika_analytical_philosophy = {
+breakout_eureka_analytical_philosophy = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
@@ -2654,7 +2654,7 @@ breakout_eurika_analytical_philosophy = {
 		always = no
 	}
 }
-breakout_eurika_paved_roads = {
+breakout_eureka_paved_roads = {
 	scope = country
 	effect = {
 		add_technology_progress = { 

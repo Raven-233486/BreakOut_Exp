@@ -58,7 +58,7 @@ production_exp_monthly_check = {
 					modifier = {
 						multiply = state.new_production_exp_over_cap
 					}
-					eurika_effect = yes
+					eureka_effect = yes
 				}
 				5000 = { #不发生
 

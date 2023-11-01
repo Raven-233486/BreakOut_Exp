@@ -27,7 +27,7 @@ concept_production_exp = {
 }
 concept_production_exp_cap = {
 }
-concept_eurika = {
+concept_eureka = {
 }
 concept_related_technologies = {
 }
