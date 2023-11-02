@@ -4,6 +4,51 @@ eureka_effect = {
 		1 = {
 			
 		}
+		#与【生生不息】兼容
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_tradition_breed_breed_center }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_urbanization = yes
+		}
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_elite_breed }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_human_rights = yes
+		}
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_base_bank }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_banking = yes
+		}
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mutual_funds }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_mutual_funds = yes
+		}
 		#来自建筑类型
 		100 = {
 			modifier = {
@@ -4667,12 +4712,12 @@ eurekacheck_line_infantry = {
 				if = {
 					limit = {
 						always = yes
-						#OWNER = { has_technology_researched = army_reserves }
+						OWNER = { has_technology_researched = army_reservation }
 					}
 					add = -100
 				}
 			}
-			eureka_army_reserves = yes
+			eureka_army_reservation = yes
 		}
 	}
 }
@@ -7751,7 +7796,7 @@ eureka_admiralty = {
     }
 }
 
-eureka_army_reserves = {
+eureka_army_reservation = {
 	save_scope_as = building_scope
 	owner = {
 	    if =  {
@@ -7760,13 +7805,13 @@ eureka_army_reserves = {
             }
             PREV = { eureka_line_infantry = yes }
         }
-	 	#else = {
-        #    add_technology_progress = { 
-		#        progress = 5000
-		#	    technology =  army_reserves
-		#    }
-		#    post_notification = eureka_army_reserves_notification
-		#}
+	 	else = {
+            add_technology_progress = { 
+		        progress = 5000
+			    technology =  army_reservation
+		    }
+		    post_notification = eureka_army_reservation_notification
+		}
     }
 }
 
@@ -7845,9 +7890,9 @@ eureka_logistics = {
 	    else_if = {
             limit =  {
 				always = no
-                #NOT = { has_technology_researched = army_reserves }
+                NOT = { has_technology_researched = army_reservation }
             }
-            PREV = { eureka_army_reserves = yes }
+            PREV = { eureka_army_reservation = yes }
         }
 	 	else = {
             add_technology_progress = { 
@@ -7941,9 +7986,9 @@ eureka_general_staff = {
 	    if =  {
             limit =  {
 				always = no
-                #NOT = { has_technology_researched = army_reserves }
+                NOT = { has_technology_researched = army_reservation }
             }
-            PREV = { eureka_army_reserves = yes }
+            PREV = { eureka_army_reservation = yes }
         }
 	 	else = {
             add_technology_progress = { 

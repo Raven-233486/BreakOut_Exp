@@ -1004,12 +1004,12 @@ breakout_eureka_admiralty = {
 		always = no
 	}
 }
-breakout_eureka_army_reserves = {
+breakout_eureka_army_reservation = {
 	scope = country
 	effect = {
 		add_technology_progress = { 
 			progress = 5000
-			technology = army_reserves
+			technology = army_reservation
 		}
 	}
 	is_shown = {

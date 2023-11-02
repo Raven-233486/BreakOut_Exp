@@ -667,7 +667,7 @@ eureka_admiralty_notification = {
 	
 	on_created_soundeffect = "event:/SFX/UI/Alerts/Toasts/acquired_technology"
 } 
-eureka_army_reserves_notification = {
+eureka_army_reservation_notification = {
 	type = country
 	group = "eureka_notification_group"
 	

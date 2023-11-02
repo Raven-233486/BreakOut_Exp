@@ -1,0 +1,145 @@
+﻿银行
+pm_base_bank = {
+	texture = "gfx/interface/icons/production_method_icons/merchant_guilds.dds"
+	
+	building_modifiers = {
+		workforce_scaled = {
+			building_production_exp_growth_add = 0.002
+			building_input_paper_add = 30 # 30
+			building_output_investment_management_add = 15 #100
+		}	
+		level_scaled = {
+			building_employment_clerks_add = 200
+			building_employment_capitalists_add = 100
+			building_employment_shopkeepers_add = 700
+		}
+		unscaled = {
+			building_shopkeepers_shares_add = 0.1
+			building_capitalists_shares_add = 1
+			building_production_exp_cap_add = 0.2
+		}
+	}		
+	state_modifiers = {
+		workforce_scaled = {
+			state_capitalists_investment_pool_contribution_add = 0.01
+			state_political_strength_from_wealth_mult = 0.01
+		}	
+	}	
+}	
+pm_mutual_funds = {
+	texture = "gfx/interface/icons/production_method_icons/privately_owned.dds"
+	
+	unlocking_technologies = {
+		mutual_funds
+	}	
+	building_modifiers = {
+		workforce_scaled = {
+			building_production_exp_growth_add = 0.002
+			building_input_paper_add = 35 # 30
+			building_output_investment_management_add = 30 #100
+		}	
+		level_scaled = {
+			building_employment_clerks_add = 400
+			building_employment_capitalists_add = 200
+			building_employment_shopkeepers_add = 400
+		}
+		unscaled = {
+			building_shopkeepers_shares_add = 0.1
+			building_capitalists_shares_add = 1
+			building_production_exp_cap_add = 0.4
+		}
+	}		
+	state_modifiers = {
+		workforce_scaled = {
+			state_capitalists_investment_pool_contribution_add = 0.01
+			state_political_strength_from_wealth_mult = 0.01
+		}	
+	}	
+}	
+pm_modern_financial_instruments = {
+	texture = "gfx/interface/icons/production_method_icons/publicly_traded.dds"
+		
+	unlocking_technologies = {
+		modern_financial_instruments
+	}
+	building_modifiers = {
+		workforce_scaled = {
+			building_production_exp_growth_add = 0.002
+			building_input_telephones_add = 15 #70
+			building_output_investment_management_add = 50 #100
+		}	
+		level_scaled = {
+			building_employment_clerks_add = 600
+			building_employment_capitalists_add = 300
+			building_employment_shopkeepers_add = 100
+		}
+		unscaled = {
+			building_shopkeepers_shares_add = 0.1
+			building_capitalists_shares_add = 1
+			building_production_exp_cap_add = 0.6
+		}
+	}		
+	state_modifiers = {
+		workforce_scaled = {
+			state_capitalists_investment_pool_contribution_add = 0.01
+			state_political_strength_from_wealth_mult = 0.01
+		}	
+	}	
+}	
+
+#社区
+pm_tradition_breed_breed_center = {
+	texture = "gfx/interface/icons/production_method_icons/scholastic_education.dds"
+	building_modifiers = {
+		workforce_scaled = {
+			building_input_services_add = 2 #30
+			building_output_breed_add = 10 #50
+			building_output_elite_breed_add = 5 #75
+			building_breed_power_add = 40
+			building_production_exp_growth_add = 0.002
+		}	
+		level_scaled = {
+			building_employment_breeders_add = 9000
+		}
+		unscaled = {
+			building_production_exp_cap_add = 0.2
+			building_breeders_mortality_mult = 0.10
+		}
+	}		
+	state_modifiers = {
+		workforce_scaled = {
+		}	
+	}	
+}
+
+pm_elite_breed = {
+	texture = "gfx/interface/icons/production_method_icons/philosophy_dept.dds"
+	disallowing_laws = {
+		law_no_womens_rights
+		law_no_schools
+		law_serfdom
+	}
+	building_modifiers = {
+		workforce_scaled = {
+			building_input_paper_add = 1 #30
+			building_input_services_add = 3 #30
+			building_output_breed_add = 10 #50
+			building_output_elite_breed_add = 15 #75
+			building_breed_power_add = 40
+			building_production_exp_growth_add = 0.002
+			
+		}	
+		level_scaled = {
+			building_employment_academics_add = 200
+			building_employment_clerks_add = 800
+			building_employment_breeders_add = 8000
+		}
+		unscaled = {
+			building_production_exp_cap_add = 0.5
+		}
+	}		
+	state_modifiers = {
+		workforce_scaled = {
+		}	
+	}		
+}
