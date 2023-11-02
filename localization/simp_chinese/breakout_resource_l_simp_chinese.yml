@@ -1,11 +1,11 @@
 ﻿l_simp_chinese:
  #资源枯竭相关
  
- rule_resource_depletion:"#breakout_exp 生产经验和技术突破#!： 资源枯竭"
+ rule_resource_depletion:"$BREAKOUT_EXP$： 资源枯竭"
  setting_no_resource_depletion:"#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_no_resource_depletion_desc 标准#!#!"
  setting_no_resource_depletion_desc:"原版游戏的资源枯竭机制"
  setting_limited_fossil_fuel:"#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_limited_fossil_fuel_desc 化石燃料枯竭#!#!"
- setting_limited_fossil_fuel_desc:"@coal!煤炭和@oil!油的产量会获得初始加成，但是会随着开采逐渐下降。\n#X 注意：#!\n这将会给先发经济体更大的优势，并且让游戏后期更加资源匮乏！"
+ setting_limited_fossil_fuel_desc:"@coal!煤炭和@oil!油的产量会获得初始加成，但是会随着开采逐渐下降。\n#X 注意：#!\此选项将会给先发经济体更大的优势，并且让游戏后期更加资源匮乏！"
  building_coal_mine_discovered_resource:"煤矿"
  building_gold_mine_discovered_resource:"金矿"
  building_whaling_station_discovered_resource:"捕鲸"
