@@ -1,4 +1,4 @@
-﻿银行
+﻿#银行
 pm_base_bank = {
 	texture = "gfx/interface/icons/production_method_icons/merchant_guilds.dds"
 	
