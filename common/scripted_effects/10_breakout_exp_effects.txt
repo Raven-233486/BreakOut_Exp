@@ -73,22 +73,19 @@ resource_deplete_monthly_check = {
 	#煤
 	if = {
 		limit = {
-			has_potential_resource = bg_coal_mining
+			has_building = building_coal_mine
 		}
 		#初始化
-		if = {
-			limit = { NOT = { has_variable = base_coal_resource }}
-			set_variable = {
-				name = base_coal_resource
-				value = 100000
-			}
-		}
 		if = {
 			limit = { NOT = { has_variable = depleted_coal_resource }}
 			set_variable = {
 				name = depleted_coal_resource
 				value = 0
 			}
+		}
+		set_variable = {
+			name = base_coal_resource
+			value = 10000
 		}
 		#计算每月采掘量
 		set_variable = {
@@ -103,6 +100,15 @@ resource_deplete_monthly_check = {
 				change_variable = {
 					name = new_depleted_coal_resource
 					add = prev.modifier:building_output_coal_add
+				}
+			}
+			scope:checked_state = {
+				change_variable = {
+					name = base_coal_resource
+					add = {
+						value = prev.level
+						multiply = 10000
+					}
 				}
 			}
 		}
@@ -120,6 +126,7 @@ resource_deplete_monthly_check = {
 		}
 		#调整buff
 		remove_modifier = coal_mining_deplete_modifier
+		remove_modifier = coal_mining_deplete_modifier_positive
 		if = {
 			limit = { coal_resource_difficulty > 0.01 }
 			add_modifier = {
@@ -127,20 +134,24 @@ resource_deplete_monthly_check = {
 				multiplier = coal_resource_difficulty
 			}
 		}
+		else = {
+			limit = { coal_resource_difficulty < 0.01 }
+			add_modifier = {
+				name = coal_mining_deplete_modifier_positive
+				multiplier = coal_resource_difficulty
+			}
+		}
 	}
 	
 	#石油
-		if = {
+	if = {
 		limit = {
-			has_potential_resource = bg_oil_extraction
+			has_building = building_oil_rig
 		}
 		#初始化
-		if = {
-			limit = { NOT = { has_variable = base_oil_resource }}
-			set_variable = {
-				name = base_oil_resource
-				value = 100000
-			}
+		set_variable = {
+			name = base_oil_resource
+			value = 10000
 		}
 		if = {
 			limit = { NOT = { has_variable = depleted_oil_resource }}
@@ -164,6 +175,15 @@ resource_deplete_monthly_check = {
 					add = prev.modifier:building_output_coal_add
 				}
 			}
+			scope:checked_state = {
+				change_variable = {
+					name = base_oil_resource
+					add = {
+						value = prev.level
+						multiply = 10000
+					}
+				}
+			}
 		}
 		change_variable = {
 			name = new_depleted_oil_resource
@@ -179,11 +199,29 @@ resource_deplete_monthly_check = {
 		}
 		#调整buff
 		remove_modifier = oil_extraction_deplete_modifier
+		remove_modifier = oil_extraction_deplete_modifier_positive
 		if = {
 			limit = { oil_resource_difficulty > 0.01 }
 			add_modifier = {
 				name = oil_extraction_deplete_modifier
 				multiplier = oil_resource_difficulty
+			}
+		}
+		else = {
+			limit = { oil_resource_difficulty < -0.01 }
+			add_modifier = {
+				name = oil_extraction_deplete_modifier_positive
+				multiplier = oil_resource_difficulty
+			}
+		}
+		every_scope_building = {
+			limit = {
+				is_building_type = building_whaling_station
+			}
+			remove_modifier = oil_extraction_deplete_modifier_whaling
+			add_modifier = {
+				name = oil_extraction_deplete_modifier_whaling
+				multiplier = prev.oil_resource_difficulty
 			}
 		}
 	}

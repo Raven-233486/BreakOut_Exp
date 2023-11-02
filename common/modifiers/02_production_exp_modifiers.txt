@@ -1,4 +1,15 @@
-﻿#煤矿枯竭
+﻿#煤矿丰富
+coal_mining_deplete_modifier_positive = {
+	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_positive.dds
+	building_output_coal_mult = -1
+}
+#油井丰富
+oil_extraction_deplete_modifier_positive = {
+	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_positive.dds
+	building_output_oil_mult = -1
+}
+
+#煤矿枯竭
 coal_mining_deplete_modifier = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_negative.dds
 	building_output_coal_mult = -1
@@ -8,7 +19,10 @@ oil_extraction_deplete_modifier = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_negative.dds
 	building_output_oil_mult = -1
 }
-
+oil_extraction_deplete_modifier_whaling = {
+	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_negative.dds
+	building_output_oil_mult = 1
+}
 #生产经验
 production_exp_modifier = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_coins_positive.dds

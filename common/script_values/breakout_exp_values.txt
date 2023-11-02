@@ -30,6 +30,7 @@ new_production_exp_over_cap = {
 }
 coal_resource_difficulty = {
     value = var:depleted_coal_resource
+    subtract = var:base_coal_resource
     divide = {
         value = var:base_coal_resource
         add = var:depleted_coal_resource
@@ -38,6 +39,7 @@ coal_resource_difficulty = {
 }
 oil_resource_difficulty = {
     value = var:depleted_oil_resource
+    subtract = var:base_oil_resource
     divide = {
         value = var:base_oil_resource
         add = var:depleted_oil_resource
