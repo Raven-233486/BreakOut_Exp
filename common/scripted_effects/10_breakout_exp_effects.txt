@@ -99,7 +99,7 @@ resource_deplete_monthly_check = {
 			scope:checked_state = {
 				change_variable = {
 					name = new_depleted_coal_resource
-					add = prev.modifier:building_output_coal_add
+					add = prev.modifier:goods_output_coal_add
 				}
 			}
 			scope:checked_state = {
@@ -172,7 +172,7 @@ resource_deplete_monthly_check = {
 			scope:checked_state = {
 				change_variable = {
 					name = new_depleted_oil_resource
-					add = prev.modifier:building_output_coal_add
+					add = prev.modifier:goods_output_coal_add
 				}
 			}
 			scope:checked_state = {

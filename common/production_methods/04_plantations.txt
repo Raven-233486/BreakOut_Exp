@@ -8,7 +8,7 @@
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_output_coffee_add = 20
+			goods_output_coffee_add = 20
 		}
 
 		level_scaled = {
@@ -36,8 +36,8 @@ automatic_irrigation_building_coffee_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_input_engines_add = 5
-			building_output_coffee_add = 40
+			goods_input_engines_add = 5
+			goods_output_coffee_add = 40
 		}
 
 		level_scaled = {
@@ -62,7 +62,7 @@ pm_steam_rail_transport = {
 	building_modifiers = {
 		workforce_scaled = {
 			# input goods					
-			building_input_transportation_add = 5
+			goods_input_transportation_add = 5
 		}
 
 		level_scaled = {
@@ -159,7 +159,7 @@ default_building_cotton_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_output_fabric_add = 40
+			goods_output_fabric_add = 40
 		}
 
 		level_scaled = {
@@ -187,8 +187,8 @@ automatic_irrigation_building_cotton_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_input_engines_add = 5
-			building_output_fabric_add = 100
+			goods_input_engines_add = 5
+			goods_output_fabric_add = 100
 		}
 
 		level_scaled = {
@@ -211,7 +211,7 @@ default_building_dye_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_output_dye_add = 25
+			goods_output_dye_add = 25
 		}
 
 		level_scaled = {
@@ -239,8 +239,8 @@ automatic_irrigation_building_dye_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_input_engines_add = 5
-			building_output_dye_add = 50
+			goods_input_engines_add = 5
+			goods_output_dye_add = 50
 		}
 
 		level_scaled = {
@@ -263,7 +263,7 @@ default_building_opium_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods	
-			building_output_opium_add = 20
+			goods_output_opium_add = 20
 		}
 
 		level_scaled = {
@@ -291,8 +291,8 @@ automatic_irrigation_building_opium_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_input_engines_add = 5
-			building_output_opium_add = 50
+			goods_input_engines_add = 5
+			goods_output_opium_add = 50
 		}
 
 		level_scaled = {
@@ -315,7 +315,7 @@ default_building_tea_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_output_tea_add = 20
+			goods_output_tea_add = 20
 		}
 
 		level_scaled = {
@@ -343,8 +343,8 @@ automatic_irrigation_building_tea_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_input_engines_add = 5
-			building_output_tea_add = 40
+			goods_input_engines_add = 5
+			goods_output_tea_add = 40
 		}
 
 		level_scaled = {
@@ -367,7 +367,7 @@ default_building_tobacco_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_output_tobacco_add = 25
+			goods_output_tobacco_add = 25
 		}
 
 		level_scaled = {
@@ -395,8 +395,8 @@ automatic_irrigation_building_tobacco_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_input_engines_add = 5
-			building_output_tobacco_add = 50
+			goods_input_engines_add = 5
+			goods_output_tobacco_add = 50
 		}
 
 		level_scaled = {
@@ -419,7 +419,7 @@ default_building_sugar_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_output_sugar_add = 30
+			goods_output_sugar_add = 30
 		}
 
 		level_scaled = {
@@ -447,8 +447,8 @@ automatic_irrigation_building_sugar_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_input_engines_add = 5
-			building_output_sugar_add = 60
+			goods_input_engines_add = 5
+			goods_output_sugar_add = 60
 		}
 
 		level_scaled = {
@@ -470,7 +470,7 @@ default_building_banana_plantation = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_output_fruit_add = 30
+			goods_output_fruit_add = 30
 		}
 
 		level_scaled = {
@@ -497,8 +497,8 @@ automatic_irrigation_building_banana_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_input_engines_add = 5
-			building_output_fruit_add = 60
+			goods_input_engines_add = 5
+			goods_output_fruit_add = 60
 		}
 
 		level_scaled = {
@@ -521,7 +521,7 @@ default_building_silk_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_output_silk_add = 20
+			goods_output_silk_add = 20
 		}
 
 		level_scaled = {
@@ -549,8 +549,8 @@ automatic_irrigation_building_silk_plantation = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
 			# output goods
-			building_input_engines_add = 5
-			building_output_silk_add = 40
+			goods_input_engines_add = 5
+			goods_output_silk_add = 40
 		}
 
 		level_scaled = {

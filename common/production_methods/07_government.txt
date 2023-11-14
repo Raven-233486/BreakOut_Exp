@@ -31,7 +31,7 @@ pm_basic_port = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001	
-			building_input_clippers_add = 5
+			goods_input_clippers_add = 5
 		}
 		level_scaled = {
 			building_employment_laborers_add = 3000
@@ -65,8 +65,8 @@ pm_industrial_port = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001	
-			building_input_steamers_add = 5
-			building_input_coal_add = 5
+			goods_input_steamers_add = 5
+			goods_input_coal_add = 5
 		}
 		level_scaled = {
 			building_employment_laborers_add = 2000
@@ -100,8 +100,8 @@ pm_modern_port = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001	
-			building_input_steamers_add = 5	
-			building_input_oil_add = 5
+			goods_input_steamers_add = 5	
+			goods_input_oil_add = 5
 		}
 		level_scaled = {
 			building_employment_laborers_add = 750
@@ -177,7 +177,7 @@ pm_horizontal_drawer_cabinets = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 10
+			goods_input_paper_add = 10
 		}			
 	
 		level_scaled = {
@@ -210,7 +210,7 @@ pm_vertical_filing_cabinets = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 20
+			goods_input_paper_add = 20
 		}	
 	
 		level_scaled = {
@@ -243,8 +243,8 @@ pm_switch_boards = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 20
-			building_input_telephones_add = 5
+			goods_input_paper_add = 20
+			goods_input_telephones_add = 5
 		}
 
 		level_scaled = {
@@ -328,7 +328,7 @@ pm_scholastic_education = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 5
+			goods_input_paper_add = 5
 		}	
 	
 		level_scaled = {
@@ -363,7 +363,7 @@ pm_philosophy_department = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 10
+			goods_input_paper_add = 10
 		}
 		
 		level_scaled = {
@@ -398,7 +398,7 @@ pm_analytical_philosophy_department = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001 
-			building_input_paper_add = 15
+			goods_input_paper_add = 15
 		}
 		
 		level_scaled = {
@@ -459,7 +459,7 @@ pm_skyscraper_bureaucratic_nexus = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 25
+			goods_input_paper_add = 25
 		}
 
 		level_scaled = {
@@ -485,7 +485,7 @@ pm_skyscraper_trade_nexus = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 25
+			goods_input_paper_add = 25
 		}
 
 		level_scaled = {

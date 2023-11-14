@@ -5,8 +5,8 @@ pm_base_bank = {
 	building_modifiers = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.002
-			building_input_paper_add = 30 # 30
-			building_output_investment_management_add = 15 #100
+			goods_input_paper_add = 30 # 30
+			goods_output_investment_management_add = 15 #100
 		}	
 		level_scaled = {
 			building_employment_clerks_add = 200
@@ -35,8 +35,8 @@ pm_mutual_funds = {
 	building_modifiers = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.002
-			building_input_paper_add = 35 # 30
-			building_output_investment_management_add = 30 #100
+			goods_input_paper_add = 35 # 30
+			goods_output_investment_management_add = 30 #100
 		}	
 		level_scaled = {
 			building_employment_clerks_add = 400
@@ -65,8 +65,8 @@ pm_modern_financial_instruments = {
 	building_modifiers = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.002
-			building_input_telephones_add = 15 #70
-			building_output_investment_management_add = 50 #100
+			goods_input_telephones_add = 15 #70
+			goods_output_investment_management_add = 50 #100
 		}	
 		level_scaled = {
 			building_employment_clerks_add = 600
@@ -92,9 +92,9 @@ pm_tradition_breed_breed_center = {
 	texture = "gfx/interface/icons/production_method_icons/scholastic_education.dds"
 	building_modifiers = {
 		workforce_scaled = {
-			building_input_services_add = 2 #30
-			building_output_breed_add = 5 #50
-			building_output_elite_breed_add = 3 #75
+			goods_input_services_add = 2 #30
+			goods_output_breed_add = 5 #50
+			goods_output_elite_breed_add = 3 #75
 			building_breed_power_add = 40
 			building_production_exp_growth_add = 0.002
 		}	
@@ -122,10 +122,10 @@ pm_elite_breed = {
 	}
 	building_modifiers = {
 		workforce_scaled = {
-			building_input_paper_add = 1 #30
-			building_input_services_add = 3 #30
-			building_output_breed_add = 4 #50
-			building_output_elite_breed_add = 6 #75
+			goods_input_paper_add = 1 #30
+			goods_input_services_add = 3 #30
+			goods_output_breed_add = 4 #50
+			goods_output_elite_breed_add = 6 #75
 			building_breed_power_add = 40
 			building_production_exp_growth_add = 0.002
 			

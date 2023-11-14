@@ -4,8 +4,8 @@
 	building_modifiers = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_wood_add = 5
-			building_output_services_add = 25
+			goods_input_wood_add = 5
+			goods_output_services_add = 25
 		}
 
 		level_scaled = {
@@ -29,9 +29,9 @@ pm_market_squares = {
 	building_modifiers = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_wood_add = 5
-			building_input_glass_add = 5
-			building_output_services_add = 40
+			goods_input_wood_add = 5
+			goods_input_glass_add = 5
+			goods_output_services_add = 40
 		}
 
 		level_scaled = {
@@ -56,9 +56,9 @@ pm_covered_markets = {
 	building_modifiers = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_glass_add = 8
-			building_input_steel_add = 8
-			building_output_services_add = 60
+			goods_input_glass_add = 8
+			goods_input_steel_add = 8
+			goods_output_services_add = 60
 		}
 
 		level_scaled = {
@@ -83,9 +83,9 @@ pm_arcades = {
 	building_modifiers = {
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_glass_add = 10
-			building_input_steel_add = 10
-			building_output_services_add = 80
+			goods_input_glass_add = 10
+			goods_input_steel_add = 10
+			goods_output_services_add = 80
 		}
 
 		level_scaled = {
@@ -117,8 +117,8 @@ pm_gas_streetlights = {
 
 	building_modifiers = {
 		workforce_scaled = {
-			building_input_coal_add = 10
-			building_output_services_add = 30
+			goods_input_coal_add = 10
+			goods_output_services_add = 30
 		}
 
 		level_scaled = {
@@ -139,8 +139,8 @@ pm_electric_streetlights = {
 
 	building_modifiers = {
 		workforce_scaled = {
-			building_input_electricity_add = 10
-			building_output_services_add = 50
+			goods_input_electricity_add = 10
+			goods_output_services_add = 50
 		}
 
 		level_scaled = {
@@ -167,7 +167,7 @@ pm_public_trams = {
 			building_production_exp_cap_add = 0.1
 		}
 		workforce_scaled = {
-			building_input_transportation_add = 5
+			goods_input_transportation_add = 5
 		}
 
 		level_scaled = {
@@ -189,7 +189,7 @@ pm_public_motor_carriages = {
 			building_production_exp_cap_add = 0.2
 		}
 		workforce_scaled = {
-			building_input_transportation_add = 10
+			goods_input_transportation_add = 10
 		}
 
 		level_scaled = {
@@ -264,8 +264,8 @@ pm_traditional_art = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 2.5 # 75
-			building_output_fine_art_add = 1 # 200 - profit of 125
+			goods_input_paper_add = 2.5 # 75
+			goods_output_fine_art_add = 1 # 200 - profit of 125
 		}
 	}
 }
@@ -284,8 +284,8 @@ pm_realist_art = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 5 # 150
-			building_output_fine_art_add = 1.5 # 300 - profit of 150
+			goods_input_paper_add = 5 # 150
+			goods_output_fine_art_add = 1.5 # 300 - profit of 150
 		}
 	}
 }
@@ -304,10 +304,10 @@ pm_photographic_art = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_paper_add = 5 # 150
-			building_input_tools_add = 2 # 80
+			goods_input_paper_add = 5 # 150
+			goods_input_tools_add = 2 # 80
 
-			building_output_fine_art_add = 2 # 400 - profit of 170
+			goods_output_fine_art_add = 2 # 400 - profit of 170
 		}
 	}
 }
@@ -326,11 +326,11 @@ pm_film_art = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_tools_add = 5 # 150
-			building_input_paper_add = 5 # 200
-			building_input_electricity_add = 2 # 60
+			goods_input_tools_add = 5 # 150
+			goods_input_paper_add = 5 # 200
+			goods_input_electricity_add = 2 # 60
 
-			building_output_fine_art_add = 3 # 600 - profit of 190
+			goods_output_fine_art_add = 3 # 600 - profit of 190
 		}
 	}
 }
@@ -412,8 +412,8 @@ pm_hydroelectric_plant = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_engines_add = 10
-			building_output_electricity_add = 50
+			goods_input_engines_add = 10
+			goods_output_electricity_add = 50
 		}
 
 		level_scaled = {
@@ -438,9 +438,9 @@ pm_coal-fired_plant = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_engines_add = 15
-			building_input_coal_add = 30
-			building_output_electricity_add = 100
+			goods_input_engines_add = 15
+			goods_input_coal_add = 30
+			goods_output_electricity_add = 100
 		}
 
 		level_scaled = {
@@ -465,9 +465,9 @@ pm_oil-fired_plant = {
 		}
 		workforce_scaled = {
 			building_production_exp_growth_add = 0.001
-			building_input_engines_add = 20
-			building_input_oil_add = 40
-			building_output_electricity_add = 150
+			goods_input_engines_add = 20
+			goods_input_oil_add = 40
+			goods_output_electricity_add = 150
 		}
 
 		level_scaled = {

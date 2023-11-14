@@ -9,7 +9,7 @@ breakout_exp_on_monthly_pulse_state = {
 		production_exp_monthly_check = yes
 		#资源枯竭结算
 		if = {
-			limt = { has_game_rule = limited_fossil_fuel }
+			limit = { has_game_rule = limited_fossil_fuel }
 			resource_deplete_monthly_check = yes
 		}
 		

@@ -1,8 +1,8 @@
-﻿building_output_coal_mult = {
+﻿goods_output_coal_mult = {
 	good = yes
 	percent = yes
 }
-building_output_oil_mult = {
+goods_output_oil_mult = {
 	good = yes
 	percent = yes
 }

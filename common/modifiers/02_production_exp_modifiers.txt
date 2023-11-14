@@ -1,38 +1,38 @@
 ﻿#煤矿丰富
 coal_mining_deplete_modifier_positive = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_positive.dds
-	building_output_coal_mult = -1
+	goods_output_coal_mult = -1
 }
 #油井丰富
 oil_extraction_deplete_modifier_positive = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_positive.dds
-	building_output_oil_mult = -1
+	goods_output_oil_mult = -1
 }
 
 #煤矿枯竭
 coal_mining_deplete_modifier = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_negative.dds
-	building_output_coal_mult = -1
+	goods_output_coal_mult = -1
 }
 #油井枯竭
 oil_extraction_deplete_modifier = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_negative.dds
-	building_output_oil_mult = -1
+	goods_output_oil_mult = -1
 }
 oil_extraction_deplete_modifier_whaling = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_negative.dds
-	building_output_oil_mult = 1
+	goods_output_oil_mult = 1
 }
 #生产经验
 production_exp_modifier = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_coins_positive.dds
-	building_input_mult = -1
+	goods_input_mult = -1
 	building_production_exp_decay_add = 0.1
 }
 production_exp_over_cap_modifier = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_gear_positive.dds
 	building_production_exp_over_cap_bonus_add = 1
-	building_input_mult = 1
+	goods_input_mult = 1
 	building_production_exp_decay_add = 0.5
 	#country_weekly_innovation_max_add = 5
 }
