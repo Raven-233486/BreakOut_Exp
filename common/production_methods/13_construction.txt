@@ -29,7 +29,7 @@
 	
 	state_modifiers = {
 		workforce_scaled = {
-			state_construction_mult = 0.005
+			state_construction_mult = 0.002
 		}	
 	}
 }
@@ -70,7 +70,7 @@ pm_iron_frame_buildings = {
 	
 	state_modifiers = {
 		workforce_scaled = {
-			state_construction_mult = 0.01
+			state_construction_mult = 0.004
 		}	
 	}
 }
@@ -111,7 +111,7 @@ pm_steel_frame_buildings = {
 	
 	state_modifiers = {
 		workforce_scaled = {
-			state_construction_mult = 0.015
+			state_construction_mult = 0.007
 		}	
 	}
 }
@@ -154,7 +154,9 @@ pm_arc_welded_buildings = {
 	
 	state_modifiers = {
 		workforce_scaled = {
-			state_construction_mult = 0.02
+			state_construction_mult = 0.01
 		}	
 	}
+
+	required_input_goods = electricity
 }
