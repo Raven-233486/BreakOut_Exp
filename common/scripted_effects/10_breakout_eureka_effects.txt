@@ -61,6 +61,7 @@ eureka_effect = {
 			}
 			eurekacheck_manufacturies = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -72,6 +73,7 @@ eureka_effect = {
 			}
 			eurekacheck_manufacturies = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -83,6 +85,7 @@ eureka_effect = {
 			}
 			eurekacheck_manufacturies = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -94,6 +97,7 @@ eureka_effect = {
 			}
 			eurekacheck_manufacturies = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -105,6 +109,7 @@ eureka_effect = {
 			}
 			eurekacheck_manufacturies = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -116,6 +121,7 @@ eureka_effect = {
 			}
 			eurekacheck_manufacturies = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -127,6 +133,7 @@ eureka_effect = {
 			}
 			eurekacheck_intensive_agriculture = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -138,6 +145,7 @@ eureka_effect = {
 			}
 			eurekacheck_aniline = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -149,6 +157,7 @@ eureka_effect = {
 			}
 			eurekacheck_steelworking = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -160,6 +169,7 @@ eureka_effect = {
 			}
 			eurekacheck_atmospheric_engine = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -171,6 +181,7 @@ eureka_effect = {
 			}
 			eurekacheck_navigation = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -182,6 +193,7 @@ eureka_effect = {
 			}
 			eurekacheck_military_aviation = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -193,6 +205,7 @@ eureka_effect = {
 			}
 			eurekacheck_telephone = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -204,6 +217,7 @@ eureka_effect = {
 			}
 			eurekacheck_gunsmithing = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -215,6 +229,7 @@ eureka_effect = {
 			}
 			eurekacheck_percussion_cap = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -226,6 +241,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -237,6 +253,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -248,6 +265,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -259,6 +277,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -270,6 +289,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -281,6 +301,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -292,6 +313,7 @@ eureka_effect = {
 			}
 			eurekacheck_shaft_mining = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -303,6 +325,7 @@ eureka_effect = {
 			}
 			eurekacheck_shaft_mining = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -314,6 +337,7 @@ eureka_effect = {
 			}
 			eurekacheck_shaft_mining = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -325,6 +349,7 @@ eureka_effect = {
 			}
 			eurekacheck_shaft_mining = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -336,6 +361,7 @@ eureka_effect = {
 			}
 			eurekacheck_prospecting = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -347,6 +373,7 @@ eureka_effect = {
 			}
 			eurekacheck_prospecting = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -358,6 +385,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -369,6 +397,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -380,6 +409,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -391,6 +421,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -402,6 +433,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -413,6 +445,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -424,6 +457,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -435,6 +469,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -446,6 +481,7 @@ eureka_effect = {
 			}
 			eurekacheck_enclosure = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -457,6 +493,7 @@ eureka_effect = {
 			}
 			eurekacheck_standing_army = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -468,6 +505,7 @@ eureka_effect = {
 			}
 			eurekacheck_admiralty = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -479,6 +517,7 @@ eureka_effect = {
 			}
 			eurekacheck_romanticism = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -490,6 +529,7 @@ eureka_effect = {
 			}
 			eurekacheck_electrical_generation = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -501,6 +541,7 @@ eureka_effect = {
 			}
 			eurekacheck_navigation = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -512,6 +553,7 @@ eureka_effect = {
 			}
 			eurekacheck_tech_bureaucracy = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -523,6 +565,7 @@ eureka_effect = {
 			}
 			eurekacheck_academia = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -534,6 +577,7 @@ eureka_effect = {
 			}
 			eurekacheck_rubber_mastication = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -545,6 +589,7 @@ eureka_effect = {
 			}
 			eurekacheck_navigation = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -556,6 +601,7 @@ eureka_effect = {
 			}
 			eurekacheck_pumpjacks = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -567,6 +613,7 @@ eureka_effect = {
 			}
 			eurekacheck_railways = yes
 		}
+		
 		100 = {
 			modifier = {
 				if = {
@@ -578,6 +625,55 @@ eureka_effect = {
 			}
 			eurekacheck_urbanization = yes
 		}
+		
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { is_building_type = building_vineyard_plantation }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_enclosure = yes
+		}
+		
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { is_building_type = building_artillery_foundries }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_gunsmithing = yes
+		}
+		
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { is_building_type = building_military_shipyards }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_navigation = yes
+		}
+		
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { is_building_type = building_explosives_factory }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_intensive_agriculture = yes
+		}
+		
 
 		#来自生产方式
 		100 = {
@@ -590,7 +686,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_distillation = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -601,7 +697,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_baking_powder = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -612,7 +708,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_canneries = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -623,7 +719,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_vacuum_canning = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -634,7 +730,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_distillation = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -645,7 +741,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_fractional_distillation = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -656,7 +752,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_dough_rollers = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -667,7 +763,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -678,7 +774,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_lathe = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -689,7 +785,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mechanized_workshops = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -700,7 +796,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electrical_capacitors = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -711,7 +807,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_vulcanization = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -722,7 +818,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mechanized_workshops = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -733,7 +829,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electrical_capacitors = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -744,7 +840,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -755,7 +851,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_lathe = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -766,7 +862,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mechanized_workshops = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -777,7 +873,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mechanical_tools = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -788,7 +884,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -799,7 +895,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_rotary_valve_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -810,7 +906,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_conveyors = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -821,7 +917,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -832,7 +928,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_lathe = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -843,7 +939,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_crystal_glass = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -854,7 +950,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_plastics = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -865,7 +961,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_chemical_bleaching = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -876,7 +972,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_automatic_bottle_blowers = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -887,7 +983,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -898,7 +994,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steelworking = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -909,7 +1005,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mechanical_tools = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -920,7 +1016,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -931,7 +1027,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_rotary_valve_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -942,7 +1038,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_conveyors = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -953,7 +1049,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -964,7 +1060,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mechanical_tools = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -975,7 +1071,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_chemical_bleaching = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -986,7 +1082,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -997,7 +1093,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_rotary_valve_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1008,7 +1104,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1019,7 +1115,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_improved_fertilizer = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1030,7 +1126,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_nitrogen_fixation = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1041,7 +1137,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_nitroglycerin = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1052,7 +1148,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_dynamite = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1063,7 +1159,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electrical_capacitors = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1074,7 +1170,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_art_silk = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1085,7 +1181,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_bessemer_process = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1096,7 +1192,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_open_hearth_process = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1107,7 +1203,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electric_arc_process = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1118,7 +1214,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1129,7 +1225,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_rotary_valve_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1140,7 +1236,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electric_railway = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1151,7 +1247,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_compression_ignition = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1162,7 +1258,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_combustion_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1173,7 +1269,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1184,7 +1280,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_rotary_valve_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1195,7 +1291,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_conveyors = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1206,7 +1302,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_screw_frigate = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1217,7 +1313,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_ironclad_tech = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1228,7 +1324,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_arc_welding = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1239,7 +1335,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1250,7 +1346,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mobile_armor = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1261,7 +1357,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_radio = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1272,7 +1368,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_rifling = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1283,7 +1379,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_repeaters = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1294,40 +1390,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_bolt_action_rifles = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_cannons }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_artillery = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_smoothbores }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_shell_gun = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_breech_loaders }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_breech_loading_artillery = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1338,7 +1401,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_rotary_valve_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1349,7 +1412,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_conveyors = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1360,7 +1423,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1371,7 +1434,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_dynamite = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1382,7 +1445,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_rotary_valve_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1393,7 +1456,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_conveyors = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1404,7 +1467,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1415,7 +1478,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1426,7 +1489,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1437,7 +1500,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1448,7 +1511,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1459,7 +1522,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1470,7 +1533,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1481,7 +1544,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_intensive_agriculture = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1492,7 +1555,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_improved_fertilizer = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1503,7 +1566,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_nitrogen_fixation = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1514,7 +1577,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_threshing_machine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1525,7 +1588,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mechanized_farming = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1536,7 +1599,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_compression_ignition = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1547,7 +1610,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_intensive_agriculture = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1558,7 +1621,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_improved_fertilizer = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1569,84 +1632,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_nitrogen_fixation = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_intensive_grazing_ranch }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_intensive_agriculture = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_slaughterhouses }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_mechanical_tools = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_mechanized_slaughtering }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_mechanized_farming = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_barbed_wire_fences }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_trench_works = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_electric_fencing }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_electrical_generation = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_refrigerated_storage_building_livestock_ranch }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_pasteurization = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_refrigerated_rail_cars_building_livestock_ranch }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_flash_freezing = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1657,7 +1643,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_atmospheric_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1668,7 +1654,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1679,7 +1665,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_compression_ignition = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1690,7 +1676,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_nitroglycerin = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1701,7 +1687,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_dynamite = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1712,7 +1698,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steam_donkey = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1723,7 +1709,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1734,7 +1720,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1745,7 +1731,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1756,7 +1742,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1767,7 +1753,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1778,7 +1764,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_atmospheric_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1789,7 +1775,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1800,7 +1786,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_compression_ignition = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1811,7 +1797,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_nitroglycerin = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1822,7 +1808,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_dynamite = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1833,7 +1819,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steam_donkey = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1844,7 +1830,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_railways = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1855,7 +1841,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_atmospheric_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1866,7 +1852,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1877,7 +1863,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_compression_ignition = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1888,7 +1874,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_nitroglycerin = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1899,7 +1885,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_dynamite = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1910,7 +1896,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_atmospheric_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1921,7 +1907,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1932,7 +1918,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_compression_ignition = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1943,7 +1929,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_nitroglycerin = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1954,7 +1940,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_dynamite = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1965,7 +1951,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_atmospheric_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1976,7 +1962,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_watertube_boiler = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1987,7 +1973,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_compression_ignition = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -1998,7 +1984,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_nitroglycerin = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2009,7 +1995,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_dynamite = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2020,7 +2006,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2031,7 +2017,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_railways = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2042,7 +2028,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2053,7 +2039,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2064,7 +2050,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2075,7 +2061,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2086,7 +2072,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2097,7 +2083,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2108,7 +2094,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2119,7 +2105,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2130,513 +2116,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_line_infantry }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_line_infantry = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_skirmish_infantry }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_general_staff = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_trench_infantry }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_trench_works = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_squad_infantry }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_nco_training = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_mechanized_infantry }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_mobile_armor = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_cannon_artillery }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_artillery = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_mobile_artillery }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_napoleonic_warfare = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_shrapnel_artillery }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_breech_loading_artillery = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_siege_artillery }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_wargaming = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_bicycle_messengers }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_vulcanization = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_motorized_recon }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_combustion_engine = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_aerial_recon }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_military_aviation = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_machine_gunners }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_automatic_machine_guns = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_infiltrators }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_stormtroopers = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_flamethrower_company }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_flamethrowers = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_chemical_weapons_specialists }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_chemical_warfare = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_line_infantry_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_line_infantry = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_skirmish_infantry_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_general_staff = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_trench_infantry_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_trench_works = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_squad_infantry_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_nco_training = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_mechanized_infantry_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_mobile_armor = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_cannon_artillery_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_artillery = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_mobile_artillery_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_napoleonic_warfare = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_shrapnel_artillery_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_breech_loading_artillery = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_siege_artillery_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_wargaming = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_bicycle_messengers_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_vulcanization = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_motorized_recon_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_combustion_engine = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_aerial_recon_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_military_aviation = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_machine_gunners_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_automatic_machine_guns = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_infiltrators_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_stormtroopers = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_flamethrower_company_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_flamethrowers = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_chemical_weapons_specialists_conscription }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_chemical_warfare = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_first_aid }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_triage = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_field_hospitals }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_modern_nursing = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_ironclads }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_ironclad_tech = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_monitors }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_monitor_tech = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_dreadnoughts }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_dreadnought = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_battleships }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_battleship_tech = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_torpedo_boat }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_self_propelled_torpedoes = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_submarine }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_submarine = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_destroyers }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_destroyer = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_carriers }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_carrier_tech = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_power_of_the_purse }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_power_of_the_purse = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_jeune_ecole }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_jeune_ecole = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_sea_lane_strategies }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_sea_lane_strategies = yes
-		}
-		100 = {
-			modifier = {
-				if = {
-					limit = {
-						NOT = { has_active_production_method = pm_battlefleet_tactics }
-					}
-					add = -100
-				}
-			}
-			eurekacheck_battlefleet_tactics = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2647,7 +2127,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_urban_planning = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2658,7 +2138,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steel_frame_buildings = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2669,7 +2149,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_elevator = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2680,7 +2160,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electrical_generation = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2691,7 +2171,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_railways = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2702,7 +2182,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_combustion_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2713,7 +2193,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_realism = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2724,7 +2204,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_camera = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2735,7 +2215,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_film = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2746,7 +2226,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_realism = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2757,7 +2237,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_realism = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2768,7 +2248,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steam_turbine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2779,7 +2259,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_oil_turbine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2790,7 +2270,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2801,7 +2281,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_gantry_cranes = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2812,7 +2292,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_concrete_dockyards = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2823,7 +2303,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_centralization = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2834,7 +2314,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_central_archives = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2845,7 +2325,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_central_planning = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2856,7 +2336,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_dialectics = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2867,7 +2347,18 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_analytical_philosophy = yes
-		}
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_airship_mooring_post }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_zeppelins = yes
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2878,7 +2369,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steelworking = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2889,7 +2380,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electrical_generation = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2900,7 +2391,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steam_donkey = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2911,7 +2402,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_combustion_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2922,7 +2413,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_railways = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2933,7 +2424,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electric_railway = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2944,7 +2435,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2955,7 +2446,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pumpjacks = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2966,7 +2457,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_ironclad_tech = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2977,7 +2468,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pasteurization = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2988,7 +2479,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electric_railway = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -2999,7 +2490,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_flash_freezing = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3010,7 +2501,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3021,7 +2512,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_ironclad_tech = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3032,7 +2523,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_pasteurization = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3043,7 +2534,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electric_railway = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3054,7 +2545,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_flash_freezing = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3065,7 +2556,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3076,7 +2567,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_combustion_engine = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3087,7 +2578,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_railways = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3098,7 +2589,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steel_railway_cars = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3109,7 +2600,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3120,7 +2611,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_electric_railway = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3131,7 +2622,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_compression_ignition = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3142,7 +2633,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steel_railway_cars = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3153,7 +2644,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_mutual_funds = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3164,7 +2655,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_urban_planning = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3175,7 +2666,7 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_steel_frame_buildings = yes
-		}
+		}	
 		100 = {
 			modifier = {
 				if = {
@@ -3186,7 +2677,340 @@ eureka_effect = {
 				}
 			}
 			eurekacheck_arc_welding = yes
-		}
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = automatic_irrigation_building_vineyard_plantation }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_pumpjacks = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_cannons }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_artillery = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_smoothbores }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_shell_gun = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_breech_loaders }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_breech_loading_artillery = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_recoiled_barrels }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_automatic_machine_guns = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_artillery_foundries }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_mutual_funds = yes
+		}	
+		100 = {
+			modifier = {
+				factor = 0
+				NOT = { has_active_production_method = pm_military_shipbuilding_wooden_2 }
+			}
+			eurekacheck_screw_frigate = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_military_shipbuilding_steam }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_ironclad_tech = yes
+		}	
+		100 = {
+			modifier = {
+				factor = 0
+				NOT = { has_active_production_method = pm_military_shipbuilding_steam_2 }
+			}
+			eurekacheck_arc_welding = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_military_shipyards }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_mutual_funds = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_ammonia-soda_process }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_nitroglycerin = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_vacuum_evaporation }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_dynamite = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_brine_electrolysis }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_electrical_capacitors = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_publicly_traded_building_explosives_factory }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_mutual_funds = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_rubber_grips }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_vulcanization = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_sheep_farms }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_intensive_agriculture = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_intensive_grazing_ranch }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_mechanized_farming = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_slaughterhouses }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_mechanical_tools = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mechanized_slaughtering }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_mechanized_farming = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_barbed_wire_fences }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_trench_works = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_electric_fencing }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_electrical_generation = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_refrigerated_storage_building_livestock_ranch }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_pasteurization = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_refrigerated_rail_cars_building_livestock_ranch }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_flash_freezing = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_power_of_the_purse }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_power_of_the_purse = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_jeune_ecole }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_jeune_ecole = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_sea_lane_strategies }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_pm_battlefleet_tactics = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_general_training }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_line_infantry = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_advanced_tactics_training }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_general_staff = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_training_streamlining }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_trench_works = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_nco_incorporation }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_nco_training = yes
+		}	
+		100 = {
+			modifier = {
+				if = {
+					limit = {
+						NOT = { has_active_production_method = pm_mobile_warfare_tactics }
+					}
+					add = -100
+				}
+			}
+			eurekacheck_mobile_armor = yes
+		}	
 	}
 }
 #eurekacheck
