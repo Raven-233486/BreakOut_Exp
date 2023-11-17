@@ -1,0 +1,103 @@
+﻿l_simp_chinese:
+ #资源枯竭相关
+ 
+ rule_resource_depletion:"$BREAKOUT_EXP$： 资源枯竭"
+ setting_no_resource_depletion:"#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_no_resource_depletion_desc 标准#!#!"
+ setting_no_resource_depletion_desc:"原版游戏的资源枯竭机制"
+ setting_limited_fossil_fuel:"#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_limited_fossil_fuel_desc 化石燃料枯竭#!#!"
+ setting_limited_fossil_fuel_desc:"@coal!煤炭和@oil!油的产量会获得初始加成，但是会随着开采逐渐下降。\n#X 注意：#!\此选项将会给先发经济体更大的优势，并且让游戏后期更加资源匮乏！"
+ building_coal_mine_discovered_resource:"煤矿"
+ building_gold_mine_discovered_resource:"金矿"
+ building_whaling_station_discovered_resource:"捕鲸"
+ building_logging_camp_discovered_resource:"木材"
+
+ oil_extraction_deplete_modifier_desc:"$concept_oil_extraction_deplete_desc$"
+ coal_mining_deplete_modifier:"[concept_coal_mining_deplete]"
+ coal_mining_deplete_modifier_desc:"$concept_coal_mining_deplete_desc"
+ oil_extraction_deplete_modifier:"[concept_oil_extraction_deplete]"
+ oil_extraction_deplete_modifier_desc:"$concept_oil_extraction_deplete_desc$"
+ coal_mining_deplete_modifier_positive:"丰富煤炭储量"
+ coal_mining_deplete_modifier_positive_desc:"这个地区目前有丰富的煤炭储量，可以很容易地进行开采。随着资源地枯竭，将来需要[concept_coal_mining_deplete]。"
+ oil_extraction_deplete_modifier_positive:"丰富石油储量"
+ oil_extraction_deplete_modifier_positive_desc:"这个地区目前有丰富的石油储量，可以很容易地进行开采。随着资源地枯竭，将来需要[concept_oil_extraction_deplete]。"
+ oil_extraction_deplete_modifier_whaling:"捕鲸业修正"
+ oil_extraction_deplete_modifier_whaling_desc:"这个修正用于让捕鲸业不受[concept_coal_mining_deplete]机制的影响。"
+ modifier_goods_output_coal_mult:"建筑@coal!煤炭产出"
+ modifier_goods_output_coal_mult_desc:"对建筑产出的@coal!煤炭数量的增益或惩罚"
+ modifier_goods_output_oil_mult:"建筑@oil!油产出"
+ modifier_goods_output_oil_mult_desc:"对建筑产出的@oil!油数量的增益或惩罚"
+
+ concept_coal_mining_deplete:"@coal!开采深层煤矿"
+ concept_coal_mining_deplete_desc:"浅层的煤矿会被逐渐采空，导致开采者不得不深入地壳深处开采煤矿。而这些深层煤矿的开采难度更大，并且含煤量更低，从而导致生产效率的下降。\n\n开采新的煤矿，或是通过研究[concept_technology]来解锁更高效的[concept_production_method]，才能让煤矿在开采这些深层矿石的时候依然保持盈利。"
+ concept_oil_extraction_deplete:"@oil!开采页岩油"
+ concept_oil_extraction_deplete_desc:"富油层的石油会被逐渐采空，导致开采者不得不钻开页岩来获取更多的石油。而这些页岩中的石油开采难度更大，从而导致生产效率的下降。\n\n开采新的油井，或通过研究[concept_technology]来解锁更高效的[concept_production_method]，才能让油井能够在开采这些页岩油的时候依然保持盈利。"
+ 
+ 
+ #能源相关
+ dispatching:"蓄电能力"
+ modifier_goods_output_dispatching_add:"每级@dispatching!蓄电能力产出"
+ modifier_goods_output_dispatching_add_desc:"建筑产出的@dispatching!蓄电能力数量"
+ modifier_goods_input_dispatching_add:"每级@dispatching!蓄电能力投入"
+ modifier_goods_input_dispatching_add_desc:"建筑投入的@dispatching!蓄电能力数量"
+ 
+ photovoltaic_plant:"光伏电站"
+ pmg_photovoltaic_plant:"光伏电站"
+ pm_photovoltaic_plant:"光伏发电"
+ 
+ controlable_nuclear_fusion:"人造太阳"
+ controlable_nuclear_fusion_desc:"通过将核聚变驯化，我们获得了近乎无限的能源。"
+ nuclear_fusion:"核聚变电站"
+ pmg_nuclear_fusion:"核聚变"
+ pm_nuclear_fusion:"核聚变"
+ 
+ #石化相关
+ crude_oil:"原油"
+ refinery:"炼油厂"
+ pmg_refinery:"炼油"
+ pm_refinery:"炼油"
+ modifier_goods_output_crude_oil_add:"每级@crude_oil!原油产出"
+ modifier_goods_output_crude_oil_add_desc:"建筑产出的@crude_oil!原油数量"
+ modifier_goods_input_crude_oil_add:"每级@crude_oil!原油投入"
+ modifier_goods_input_crude_oil_add_desc:"建筑投入的@crude_oil!原油数量"
+ 
+ plastics_plant:"塑料厂"
+ pmg_plastics_plant:"合成树脂"
+ pm_plastics_plant:"合成树脂"
+ fiber_polymerization:"化纤厂"
+ pmg_fiber_polymerization:"合成纤维"
+ pm_fiber_polymerization:"合成纤维"
+ 
+ #医疗相关
+ popneed_health:"健康"
+ medicine:"药物"
+ modifier_goods_output_medicine_add:"每级@medicine!药物产出"
+ modifier_goods_output_medicine_add_desc:"建筑产出的@medicine!药物数量"
+ modifier_goods_input_medicine_add:"每级@medicine!药物投入"
+ modifier_goods_input_medicine_add_desc:"建筑投入的@medicine!药物数量"
+ medical_care:"医疗"
+ modifier_goods_output_medical_care_add:"每级@medical_care!医疗产出"
+ modifier_goods_output_medical_care_add_desc:"建筑产出的@medical_care!医疗数量"
+ modifier_goods_input_medical_care_add:"每级@medical_care!医疗投入"
+ modifier_goods_input_medical_care_add_desc:"建筑投入的@medical_care!医疗数量"
+ gene:"基因工程"
+ modifier_goods_output_gene_add:"每级@gene!$gene$产出"
+ modifier_goods_output_gene_add_desc:"建筑产出的@gene!$gene$数量"
+ modifier_goods_input_gene_add:"每级@gene!$gene$投入"
+ modifier_goods_input_gene_add_desc:"建筑投入的@gene!$gene$数量"
+ 
+ 
+ pharmaceutical_mill:"制药厂"
+ pmg_pharmaceutical_mill:"制药"
+ pm_pharmaceutical_mill:"制药"
+ pmg_psychedelic_drugs:"致幻剂"
+ pm_no_psychedelic_drugs:"查禁致幻剂"
+ pm_psychedelic_drugs:"致幻剂许可"
+ pm_chemical_bliss:"化学极乐"
+ 
+ hospital:"医院"
+ pmg_hospital:"医院"
+ pm_hospital:"医院"
+
+ #农业相关
+ modifier_goods_output_grain_mult:"建筑@grain!$grain$产出"
+ modifier_goods_output_grain_mult_desc:"对建筑产出的@grain!$grain$数量的增益或惩罚"
